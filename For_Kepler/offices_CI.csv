@@ -1,0 +1,149 @@
+Candidate,Address,City,State,Zip,Latitude,Longitude,"Accuracy Score","Accuracy Type",Number,Street,City,State,County,Zip,Country,Source
+Biden,"416 Douglas Ave., Ste. 205",Ames,IA,50010,42.025743,-93.611794,1,rooftop,416,"Douglas Ave",Ames,IA,"Story County",50010,US,Polk
+Buttigieg,"823 Wheeler St., Ste 3",Ames,IA,50010,42.054617,-93.622604,1,rooftop,823,"Wheeler St",Ames,IA,"Story County",50010,US,Polk
+Klobuchar,"725 24th St.",Ames,IA,50010,42.045872,-93.620702,1,range_interpolation,725,"24th St",Ames,IA,"Story County",50010,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"114 Kellogg Ave",Ames,IA,50010,42.023477,-93.613221,1,rooftop,114,"Kellogg Ave",Ames,IA,"Story County",50010,US,Polk
+Steyer,"410 5th St",Ames,IA,50010,42.025681,-93.61613,1,rooftop,410,"5th St",Ames,IA,"Story County",50010,US,Polk
+Warren,"3515 Lincoln Way, Ste. 102",Ames,IA,50014,42.023338,-93.666818,1,rooftop,3515,"Lincoln Way",Ames,IA,"Story County",50014,US,Polk
+Yang,"219 Main St.",Ames,IA,50010,42.025373,-93.61292,1,rooftop,219,"Main St",Ames,IA,"Story County",50010,US,Polk
+Biden,"405 Jefferson St",Burlington,IA,52601,40.810038,-91.104259,1,rooftop,405,"Jefferson St",Burlington,IA,"Des Moines County",52601,US,"Des Moines"
+Buttigieg,"218 Jefferson St.",Burlington,IA,52601,40.810208,-91.102432,1,rooftop,218,"Jefferson St",Burlington,IA,"Des Moines County",52601,US,"Des Moines"
+Klobuchar,"1000 N. Roosevelt Ave",Burlington,IA,52601,40.818729,-91.140772,1,rooftop,1000,"N Roosevelt Ave",Burlington,IA,"Des Moines County",52601,US,"Des Moines"
+Warren,"1125 S. 12th St.",Burlington,IA,52601,40.795552,-91.111192,1,rooftop,1125,"S 12th St",Burlington,IA,"Des Moines County",52601,US,"Des Moines"
+Yang,"320 N 4th St.",Burlington,IA,52601,40.810801,-91.103392,1,rooftop,320,"N 4th St",Burlington,IA,"Des Moines County",52601,US,"Des Moines"
+Biden,"311 E 6th St",Carroll,IA,51401,42.064824,-94.863808,1,rooftop,311,"E 6th St",Carroll,IA,"Carroll County",51401,US,Carroll
+Buttigieg,"510 N Carroll St",Carroll,IA,51401,42.065849,-94.87024,1,range_interpolation,510,"N Carroll St",Carroll,IA,"Carroll County",51401,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"820 W. 8th St.",Carroll,IA,51401,42.070174,-94.875976,1,range_interpolation,820,"W 8th St",Carroll,IA,"Carroll County",51401,US,"TIGER/Line® dataset from the US Census Bureau"
+Steyer,"409 W. 7th St.",Carroll,IA,51401,42.067893,-94.87151,1,rooftop,409,"W 7th St",Carroll,IA,"Carroll County",51401,US,Carroll
+Warren,"210 E. 5th St",Carroll,IA,51401,42.064036,-94.865886,1,rooftop,210,"E 5th St",Carroll,IA,"Carroll County",51401,US,Carroll
+Biden,"3621 1st Ave. NE.","Cedar Rapids",IA,,42.015009,-91.63492,1,range_interpolation,3621,"1st Ave NE","Cedar Rapids",IA,"Linn County",52402,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"1019 1st Ave. SW","Cedar Rapids",IA,,41.971991,-91.685072,1,rooftop,1019,"1st Ave SW","Cedar Rapids",IA,"Linn County",52404,US,Linn
+Klobuchar,"3245 Williams Parkway, Ste. 2","Cedar Rapids",IA,,41.958511,-91.712441,0.9,rooftop,3245,"Williams Pkwy SW","Cedar Rapids",IA,"Linn County",52404,US,Linn
+Sanders,"3223 16th Ave. SW","Cedar Rapids",IA,,41.963301,-91.713966,1,range_interpolation,3223,"16th Ave SW","Cedar Rapids",IA,"Linn County",52404,US,"TIGER/Line® dataset from the US Census Bureau"
+Steyer,"1239 1st Ave. SE, Ste. G","Cedar Rapids",IA,,41.985369,-91.657038,1,range_interpolation,1239,"1st Ave SE","Cedar Rapids",IA,"Linn County",52402,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"222 2nd St.","Cedar Rapids",IA,,41.974867,-91.673827,0.8,range_interpolation,222,"2nd St SW","Cedar Rapids",IA,"Linn County",52404,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"310 3rd St SE","Cedar Rapids",IA,,41.97767,-91.665632,1,range_interpolation,310,"3rd St SE","Cedar Rapids",IA,"Linn County",52401,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"415 S Second St",Clinton,IA,,41.841372,-90.188095,1,range_interpolation,415,"S 2nd St",Clinton,IA,"Clinton County",52732,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"83 Main Ave",Clinton,IA,,41.872017,-90.17726,1,range_interpolation,83,"Main Ave",Clinton,IA,"Clinton County",52732,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"201 5th Ave S",Clinton,IA,,41.841361,-90.188244,1,range_interpolation,201,"5th Ave S",Clinton,IA,"Clinton County",52732,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"526 W Broadway","Council Bluffs",IA,,41.261195,-95.850649,1,range_interpolation,526,"W Broadway","Council Bluffs",IA,"Pottawattamie County",51503,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"29 S Main St","Council Bluffs",IA,,41.259918,-95.849916,1,rooftop,29,"S Main St","Council Bluffs",IA,"Pottawattamie County",51503,US,Pottawattamie
+Klobuchar,"136 S Main St","Council Bluffs",IA,,41.259167,-95.850348,1,range_interpolation,136,"S Main St","Council Bluffs",IA,"Pottawattamie County",51503,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"217 S Main St","Council Bluffs",IA,,41.258245,-95.850299,1,range_interpolation,217,"S Main St","Council Bluffs",IA,"Pottawattamie County",51503,US,"TIGER/Line® dataset from the US Census Bureau"
+Steyer,"500 Willow Ave","Council Bluffs",IA,,41.258601,-95.850893,1,rooftop,500,"Willow Ave","Council Bluffs",IA,"Pottawattamie County",51503,US,Pottawattamie
+Warren,"103 North Ave","Council Bluffs",IA,,41.272195,-95.831035,1,rooftop,103,"North Ave","Council Bluffs",IA,"Pottawattamie County",51503,US,Pottawattamie
+Yang,"118 W Broadway","Council Bluffs",IA,,41.263047,-95.844431,1,rooftop,118,"W Broadway","Council Bluffs",IA,"Pottawattamie County",51503,US,Pottawattamie
+Buttigieg,"509 W Taylor St",Creston,IA,,41.049028,-94.366545,1,range_interpolation,509,"W Taylor St",Creston,IA,"Union County",50801,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"216 W. Montgomery St",Creston,IA,,41.0584,-94.362856,1,range_interpolation,216,"W Montgomery St",Creston,IA,"Union County",50801,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"1706 Brady St",Davenport,IA,,41.537314,-90.574175,1,range_interpolation,1706,"Brady St",Davenport,IA,"Scott County",52803,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"736 Federal St",Davenport,IA,,41.52489,-90.563251,1,range_interpolation,736,"Federal St",Davenport,IA,"Scott County",52803,US,"TIGER/Line® dataset from the US Census Bureau"
+Klobuchar,"583 E 53rd St.",Davenport,IA,,41.574409,-90.567723,1,range_interpolation,583,"E 53rd St",Davenport,IA,"Scott County",52807,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"4436 N Brady St",Davenport,IA,,41.566849,-90.56794,1,range_interpolation,4436,"N Brady St",Davenport,IA,"Scott County",52806,US,"TIGER/Line® dataset from the US Census Bureau"
+Steyer,"1706 Brady St",Davenport,IA,,41.537314,-90.574175,1,range_interpolation,1706,"Brady St",Davenport,IA,"Scott County",52803,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"1706 Brady St",Davenport,IA,,41.537314,-90.574175,1,range_interpolation,1706,"Brady St",Davenport,IA,"Scott County",52803,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"1706 Brady St",Davenport,IA,,41.537314,-90.574175,1,range_interpolation,1706,"Brady St",Davenport,IA,"Scott County",52803,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"208 W Water St",Decorah,IA,,43.304244,-91.787575,1,rooftop,208,"W Water St",Decorah,IA,"Winneshiek County",52101,US,Winneshiek
+Buttigieg,"128 W Water St",Decorah,IA,,43.304318,-91.786837,1,range_interpolation,128,"W Water St",Decorah,IA,"Winneshiek County",52101,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"118 Winnebago St",Decorah,IA,,43.303429,-91.787081,1,rooftop,118,"Winnebago St",Decorah,IA,"Winneshiek County",52101,US,Winneshiek
+Warren,"110 Washington St",Decorah,IA,,43.303616,-91.785859,1,rooftop,110,"Washington St",Decorah,IA,"Winneshiek County",52101,US,Winneshiek
+Yang,"218 W Water St",Decorah,IA,,43.304246,-91.78798,1,rooftop,218,"W Water St",Decorah,IA,"Winneshiek County",52101,US,Winneshiek
+Biden,"2411 Grand Ave","Des Moines",IA,,41.584669,-93.650479,1,rooftop,2411,"Grand Ave","Des Moines",IA,"Polk County",50312,US,Polk
+Biden,"4319 Fleur Dr","Des Moines",IA,,41.545424,-93.644792,1,range_interpolation,4319,"Fleur Dr","Des Moines",IA,"Polk County",50321,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"2355 E University Ave","Des Moines",IA,,41.600153,-93.573118,1,rooftop,2355,"E University Ave","Des Moines",IA,"Polk County",50317,US,Polk
+Biden,"5967 Ashworth Rd","West Des Moines",IA,50266,41.585064,-93.790064,1,rooftop,5967,"Ashworth Rd","West Des Moines",IA,"Polk County",50266,US,Polk
+Buttigieg,"3839 Merle Hay Rd","Des Moines",IA,,41.630842,-93.697223,1,rooftop,3839,"Merle Hay Rd","Des Moines",IA,"Polk County",50310,US,Polk
+Buttigieg,"4650 Fleur Dr","Des Moines",IA,,41.543255,-93.645246,1,range_interpolation,4650,"Fleur Dr","Des Moines",IA,"Polk County",50321,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"5958 Ashworth Rd","West Des Moines",IA,,41.583767,-93.789614,1,rooftop,5958,"Ashworth Rd","West Des Moines",IA,"Polk County",50266,US,Polk
+Buttigieg,"1100 N Hickory Blvd","Pleasant Hill",IA,,41.600035,-93.517776,1,rooftop,1100,"N Hickory Blvd","Pleasant Hill",IA,"Polk County",50327,US,Polk
+Buttigieg,"102 SE 30th St",Ankeny,IA,,41.699482,-93.599883,1,rooftop,102,"SE 30th St",Ankeny,IA,"Polk County",50021,US,Polk
+Klobuchar,"1221 Center St","Des Moines",IA,,41.592003,-93.633422,1,rooftop,1221,"Center St","Des Moines",IA,"Polk County",50309,US,Polk
+Sanders,"401 SW 8th St","Des Moines",IA,,41.579341,-93.624483,1,rooftop,401,"SW 8th St","Des Moines",IA,"Polk County",50309,US,Polk
+Sanders,"313 5th St","West Des Moines",IA,,41.573045,-93.708492,1,rooftop,313,"5th St","West Des Moines",IA,"Polk County",50265,US,Polk
+Sanders,"107 NE Delaware Ave",Ankeny,IA,,41.732395,-93.580532,1,rooftop,107,"NE Delaware Ave",Ankeny,IA,"Polk County",50021,US,Polk
+Steyer,"3810 Ingersoll Ave","Des Moines",IA,,41.586071,-93.668758,1,rooftop,3810,"Ingersoll Ave","Des Moines",IA,"Polk County",50312,US,Polk
+Steyer,"2815 Beaver Ave","Des Moines",IA,,41.620925,-93.67302,1,rooftop,2815,"Beaver Ave","Des Moines",IA,"Polk County",50310,US,Polk
+Warren,"939 Office Park Rd","West Des Moines",IA,,41.591011,-93.715266,1,rooftop,939,"Office Park Rd","West Des Moines",IA,"Polk County",50265,US,Polk
+Warren,"3615 Beaver Ave","Des Moines",IA,,41.628058,-93.676883,1,rooftop,3615,"Beaver Ave","Des Moines",IA,"Polk County",50310,US,Polk
+Warren,"3702 Ingersoll Ave","Des Moines",IA,,41.586117,-93.666929,1,rooftop,3702,"Ingersoll Ave","Des Moines",IA,"Polk County",50312,US,Polk
+Warren,"1517 Ankeny Blvd",Ankeny,IA,,41.717077,-93.600333,1,range_interpolation,1517,"Us Hwy 69",Ankeny,IA,"Polk County",50023,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"950 Office Park Rd","West Des Moines",IA,,41.589537,-93.716271,1,rooftop,950,"Office Park Rd","West Des Moines",IA,"Polk County",50265,US,Polk
+Biden,"799 Main St",Dubuque,IA,,42.500571,-90.667213,1,rooftop,799,"Main St",Dubuque,IA,"Dubuque County",52001,US,Dubuque
+Buttigieg,"1125 Main St",Dubuque,IA,,42.503479,-90.668741,1,rooftop,1125,"Main St",Dubuque,IA,"Dubuque County",52001,US,Dubuque
+Klobuchar,"962 Main St",Dubuque,IA,,42.502249,-90.667775,1,rooftop,962,"Main St",Dubuque,IA,"Dubuque County",52001,US,Dubuque
+Sanders,"678 Central Ave",Dubuque,IA,,42.500444,-90.664389,1,rooftop,678,"Central Ave",Dubuque,IA,"Dubuque County",52001,US,Dubuque
+Steyer,"3392 Hillcrest Rd",Dubuque,IA,,42.506705,-90.723973,1,rooftop,3392,"Hillcrest Rd",Dubuque,IA,"Dubuque County",52002,US,Dubuque
+Warren,"3250 Kennedy Circle",Dubuque,IA,,42.504839,-90.722698,1,rooftop,3250,"Kennedy Cir",Dubuque,IA,"Dubuque County",52002,US,Dubuque
+Yang,"633 Main St",Dubuque,IA,,42.499494,-90.666784,1,rooftop,633,"Main St",Dubuque,IA,"Dubuque County",52001,US,Dubuque
+Biden,"115 E Burlington Ave",Fairfield,IA,,41.006766,-91.961993,1,range_interpolation,115,"E Burlington Ave",Fairfield,IA,"Jefferson County",52556,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"51 N 2nd St",Fairfield,IA,,41.007129,-91.964925,1,range_interpolation,51,"N 2nd St",Fairfield,IA,"Jefferson County",52556,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"304 2nd Ave S","Fort Dodge",IA,50501,42.502311,-94.193291,1,rooftop,304,"2nd Ave S","Fort Dodge",IA,"Webster County",50501,US,Webster
+Buttigieg,"#12 N 11th St","Fort Dodge",IA,50501,42.505719,-94.183609,1,range_interpolation,12,"N 11th St","Fort Dodge",IA,"Webster County",50501,US,"TIGER/Line® dataset from the US Census Bureau"
+Klobuchar,"7006 Central Ave","Fort Dodge",IA,,42.505615,-94.182758,0.6,street_center,,"Central Ave","Fort Dodge",IA,"Webster County",50501,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"805 Central Ave","Fort Dodge",IA,,42.505045,-94.187211,1,rooftop,805,"Central Ave","Fort Dodge",IA,"Webster County",50501,US,Webster
+Steyer,"801 Central Ave","Fort Dodge",IA,,42.504911,-94.187469,1,range_interpolation,801,"Central Ave","Fort Dodge",IA,"Webster County",50501,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"1026 Central Ave","Fort Dodge",IA,,42.505662,-94.184465,1,range_interpolation,1026,"Central Ave","Fort Dodge",IA,"Webster County",50501,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"811 Ave G","Fort Madison",IA,,40.596949,-91.434473,1,place,,,"Fort Madison",IA,"Lee County",52627,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"821 Ave G","Fort Madison",IA,,40.596949,-91.434473,1,place,,,"Fort Madison",IA,"Lee County",52627,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"817 4th Ave",Grinnell,IA,,41.743376,-92.724317,1,range_interpolation,817,"4th Ave",Grinnell,IA,"Poweshiek County",50112,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"925 Broad St",Grinnell,IA,,41.743585,-92.724268,1,range_interpolation,925,"Broad St",Grinnell,IA,"Poweshiek County",50112,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"806 Commercial St",Grinnell,IA,,41.742201,-92.725673,1,range_interpolation,806,"Commercial St",Grinnell,IA,"Poweshiek County",50112,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"820 4th Ave",Grinnell,IA,,41.743076,-92.724369,1,range_interpolation,820,"4th Ave",Grinnell,IA,"Poweshiek County",50112,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"1705 N Jefferson Way",Indianola,IA,,41.342582,-93.55834,0.9,range_interpolation,1705,"Us Hwy 65",Indianola,IA,"Warren County",50125,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"104 S Howard",Indianola,IA,,41.360262,-93.560813,1,range_interpolation,104,"S Howard St",Indianola,IA,"Warren County",50125,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"107 E Salem Ave",Indianola,IA,,41.36015,-93.560903,1,range_interpolation,107,"E Salem Ave",Indianola,IA,"Warren County",50125,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"702 S Gilbert St","Iowa City",IA,,41.652537,-91.530427,1,rooftop,702,"S Gilbert St","Iowa City",IA,"Johnson County",52240,US,Johnson
+Buttigieg,"23 South Gilbert St","Iowa City",IA,,41.660429,-91.530363,1,rooftop,23,"S Gilbert St","Iowa City",IA,"Johnson County",52240,US,Johnson
+Klobuchar,"412 Highland Ave","Iowa City",IA,,41.646078,-91.529283,1,rooftop,412,"Highland Ave","Iowa City",IA,"Johnson County",52240,US,Johnson
+Sanders,"1745 Boyrum St","Iowa City",IA,,41.643749,-91.528757,1,rooftop,1745,"Boyrum St","Iowa City",IA,"Johnson County",52240,US,Johnson
+Steyer,"412 Highland Ave","Iowa City",IA,,41.646078,-91.529283,1,rooftop,412,"Highland Ave","Iowa City",IA,"Johnson County",52240,US,Johnson
+Warren,"332 E 2nd St","Iowa City",IA,,41.647785,-91.530865,1,rooftop,332,"E 2nd St","Iowa City",IA,"Johnson County",52240,US,Johnson
+Yang,"412 Highland Ave","Iowa City",IA,,41.646078,-91.529283,1,rooftop,412,"Highland Ave","Iowa City",IA,"Johnson County",52240,US,Johnson
+Biden,"401 Main St",Lorimor,IA,,41.127166,-94.053855,1,range_interpolation,401,"Main St",Lorimor,IA,"Union County",50149,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"3533 Main St",Keokuk,IA,52632,40.422618,-91.410483,0.9,range_interpolation,3533,"Main St",Keokuk,IA,"Lee County",52632,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"710 10th St",Marion,IA,,42.033456,-91.599598,1,rooftop,710,"10th St",Marion,IA,"Linn County",52302,US,Linn
+Warren,"292 7th Ave",Marion,IA,,42.033283,-91.60797,1,rooftop,292,"7th Ave",Marion,IA,"Linn County",52302,US,Linn
+Buttigieg,"30 W Main St",Marshalltown,IA,,42.049229,-92.91171,0.8,rooftop,30,"E Main St",Marshalltown,IA,"Marshall County",50158,US,Marshall
+Sanders,"13 W Main St",Marshalltown,IA,,42.049231,-92.913562,1,rooftop,13,"W Main St",Marshalltown,IA,"Marshall County",50158,US,Marshall
+Biden,"105 S Delaware Ave","Mason City",IA,,43.150038,-93.199273,1,range_interpolation,105,"S Delaware Ave","Mason City",IA,"Cerro Gordo County",50401,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"14 S Federal Ave","Mason City",IA,,43.151296,-93.201779,1,rooftop,14,"S Federal Ave","Mason City",IA,"Cerro Gordo County",50401,US,"Cerro Gordo"
+Klobuchar,"636 S Monroe Ave","Mason City",IA,,43.145909,-93.209227,1,range_interpolation,636,"S Monroe Ave","Mason City",IA,"Cerro Gordo County",50401,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"630 S Monroe Ave","Mason City",IA,,43.14587,-93.209228,1,range_interpolation,630,"S Monroe Ave","Mason City",IA,"Cerro Gordo County",50401,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"219 N Federal Ave","Mason City",IA,,43.154281,-93.200552,1,rooftop,219,"N Federal Ave","Mason City",IA,"Cerro Gordo County",50401,US,"Cerro Gordo"
+Yang,"12 S Federal Ave","Mason City",IA,,43.151346,-93.201602,1,rooftop,12,"S Federal Ave","Mason City",IA,"Cerro Gordo County",50401,US,"Cerro Gordo"
+Biden,"130 E 2nd St",Muscatine,IA,,41.421369,-91.045365,1,range_interpolation,130,"E 2nd St",Muscatine,IA,"Muscatine County",52761,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"522 Mulberry Ave",Muscatine,IA,,41.426398,-91.044309,1,range_interpolation,522,"Mulberry Ave",Muscatine,IA,"Muscatine County",52761,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"106 E 2nd St",Muscatine,IA,,41.421222,-91.045567,1,range_interpolation,106,"E 2nd St",Muscatine,IA,"Muscatine County",52761,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"110 1st St N",Newton,IA,,41.699954,-93.053499,1,rooftop,110,"1st St N",Newton,IA,"Jasper County",50208,US,Jasper
+Buttigieg,"207 1st Ave W",Newton,IA,,41.699485,-93.051831,0.9,rooftop,207,"1st Ave E",Newton,IA,"Jasper County",50208,US,Jasper
+Klobuchar,"403 W 4th St N",Newton,IA,,41.702387,-93.057548,1,rooftop,403,"W 4th St N",Newton,IA,"Jasper County",50208,US,Jasper
+Sanders,"118 N 2nd Ave W",Newton,IA,,41.700581,-93.052717,1,rooftop,118,"N 2nd Ave E",Newton,IA,"Jasper County",50208,US,Jasper
+Warren,"403 W 4th St N",Newton,IA,,41.702387,-93.057548,1,rooftop,403,"W 4th St N",Newton,IA,"Jasper County",50208,US,Jasper
+Yang,"110 1st St, SW","Orange City",IA,,43.00593,-96.058346,1,range_interpolation,110,"1st St SW","Orange City",IA,"Sioux County",51041,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"200 High Ave W",Oskaloosa,IA,,41.295482,-92.646285,1,range_interpolation,200,"High Ave W",Oskaloosa,IA,"Mahaska County",52577,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"2815 N Court St",Ottumwa,IA,,41.060136,-92.409635,1,range_interpolation,2815,"N Court St",Ottumwa,IA,"Wapello County",52501,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"224 W 4th St",Ottumwa,IA,,41.020552,-92.412171,0.8,range_interpolation,224,"4th St W",Ottumwa,IA,"Wapello County",52501,US,"TIGER/Line® dataset from the US Census Bureau"
+Klobuchar,"408 E Main St",Ottumwa,IA,,41.014431,-92.408173,1,range_interpolation,408,"E Main St",Ottumwa,IA,"Wapello County",52501,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"236 E Main St",Ottumwa,IA,,41.016452,-92.410923,1,range_interpolation,236,"E Main St",Ottumwa,IA,"Wapello County",52501,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"415 Church St",Ottumwa,IA,,41.010098,-92.418039,1,range_interpolation,415,"Church St",Ottumwa,IA,"Wapello County",52501,US,"TIGER/Line® dataset from the US Census Bureau"
+Biden,"1754 Hamilton Blvd","Sioux City",IA,,42.508999,-96.416572,1,range_interpolation,1754,"Hamilton Blvd","Sioux City",IA,"Woodbury County",51103,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"700 Pierce St","Sioux City",IA,,42.497273,-96.404953,1,range_interpolation,700,"Pierce St","Sioux City",IA,"Woodbury County",51101,US,"TIGER/Line® dataset from the US Census Bureau"
+Klobuchar,"511 5th St","Sioux City",IA,,42.495392,-96.404835,1,range_interpolation,511,"5th St","Sioux City",IA,"Woodbury County",51101,US,"TIGER/Line® dataset from the US Census Bureau"
+Sanders,"409 Nebraska St","Sioux City",IA,,42.494223,-96.403606,1,range_interpolation,409,"Nebraska St","Sioux City",IA,"Woodbury County",51101,US,"TIGER/Line® dataset from the US Census Bureau"
+Steyer,"1308 Pierce St","Sioux City",IA,,42.504072,-96.404891,1,range_interpolation,1308,"Pierce St","Sioux City",IA,"Woodbury County",51105,US,"TIGER/Line® dataset from the US Census Bureau"
+Warren,"520 14th St","Sioux City",IA,,42.504855,-96.404831,1,range_interpolation,520,"14th St","Sioux City",IA,"Woodbury County",51105,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"521 Nebraska St","Sioux City",IA,,42.495477,-96.403619,1,range_interpolation,521,"Nebraska St","Sioux City",IA,"Woodbury County",51101,US,"TIGER/Line® dataset from the US Census Bureau"
+Buttigieg,"1019 S Grand Ave",Spencer,IA,,43.127263,-95.143835,1,rooftop,1019,"S Grand Ave",Spencer,IA,"Clay County",51301,US,Clay
+Klobuchar,"223 E Court St",Winterset,IA,,41.334722,-94.011022,1,rooftop,223,"E Court Ave",Winterset,IA,"Madison County",50273,US,Madison
+Sanders,"14 W 221st St",Spencer,IA,,43.13291,-95.177909,0.33,place,,,Spencer,IA,"Clay County",51301,US,"TIGER/Line® dataset from the US Census Bureau"
+Steyer,"605 Lake St","Spirit Lake",IA,,43.423348,-95.09916,1,rooftop,605,"Lake St","Spirit Lake",IA,"Dickinson County",51360,US,Dickinson
+Biden,"615 Lake Ave","Storm Lake",IA,,42.645057,-95.20069,1,rooftop,615,"Lake Ave","Storm Lake",IA,"Buena Vista County",50588,US,"Buena Vista"
+Buttigieg,"119 Railroad St","Storm Lake",IA,,42.64314,-95.199955,0.9,rooftop,119,"E Railroad St","Storm Lake",IA,"Buena Vista County",50588,US,"Buena Vista"
+Warren,"816 Flint Dr","Storm Lake",IA,,42.646608,-95.191304,1,range_interpolation,816,"Flindt Dr","Storm Lake",IA,"Buena Vista County",50588,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"1515 E Lakeshore Dr","Storm Lake",IA,,42.633809,-95.179878,1,rooftop,1515,"E Lakeshore Dr","Storm Lake",IA,"Buena Vista County",50588,US,"Buena Vista"
+Biden,"10 W 4th St",Waterloo,IA,,42.496493,-92.339236,1,rooftop,10,"W 4th St",Waterloo,IA,"Black Hawk County",50701,US,"City of Waterloo"
+Buttigieg,"110 E 4th St",Waterloo,IA,,42.497602,-92.336314,1,rooftop,110,"E 4th St",Waterloo,IA,"Black Hawk County",50703,US,"City of Waterloo"
+Klobuchar,"10 W 4th St",Waterloo,IA,,42.496493,-92.339236,1,rooftop,10,"W 4th St",Waterloo,IA,"Black Hawk County",50701,US,"City of Waterloo"
+Sanders,"1712 W 4th St",Waterloo,IA,,42.483724,-92.358042,1,rooftop,1712,"W 4th St",Waterloo,IA,"Black Hawk County",50701,US,"City of Waterloo"
+Steyer,"10 W 4th St",Waterloo,IA,,42.496493,-92.339236,1,rooftop,10,"W 4th St",Waterloo,IA,"Black Hawk County",50701,US,"City of Waterloo"
+Warren,"630 Sycamore St",Waterloo,IA,,42.49793,-92.335762,1,range_interpolation,630,"Sycamore St",Waterloo,IA,"Black Hawk County",50703,US,"TIGER/Line® dataset from the US Census Bureau"
+Yang,"217 W 4th St",Waterloo,IA,,42.494526,-92.340016,1,rooftop,217,"W 4th St",Waterloo,IA,"Black Hawk County",50701,US,"City of Waterloo"

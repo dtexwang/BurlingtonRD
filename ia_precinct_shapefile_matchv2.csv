@@ -1,0 +1,1690 @@
+VAN_Precinct_Code,ObjectID,County,Short_Precinct_Name,Long_Precinct_Name,OrigPrctName1,OrigPrctName2
+946557,868,Appanoose,Bl,Bellair/Lincoln,BELLAIR,Bellair/Lincoln
+946558,877,Appanoose,Cv1,Centerville Ward 1,CENTER1,Centerville 1
+946559,878,Appanoose,Cv2,Centerville Ward 2,CENTER2,Centerville 2
+946560,879,Appanoose,Cv3,Centerville Ward 3,CENTER3,Centerville 3
+946561,874,Appanoose,Cw,Caldwell Township,CALDWELL,Caldwell
+946562,872,Appanoose,Jo,Johns/Independence,JOHNS,Johns/Independence
+946563,871,Appanoose,Ps,Pleasant/Franklin,PLEASANT,Pleasant/Franklin
+946564,869,Appanoose,Ty,Taylor/Chariton,TAYLOR,Taylor/Chariton
+946565,875,Appanoose,Ud,Union / Udell Township,UDELL,Udell
+946565,876,Appanoose,Ud,Union / Udell Township,UNION,Union
+946567,870,Appanoose,Vm,Vermillion/Douglas/Sharon,VERMILLION,Vermillion/Douglas/Sharon
+946569,873,Appanoose,Ws,Washington/Wells,WASHINGTON,Washington/Wells
+946570,398,Audubon,1,Precinct One,AUDUBON,Audubon
+946571,399,Audubon,2,Precinct Two,EXIRA,Exira
+946574,1536,Benton,Bg,Big Grove-Union-Van Horne,BUV,Benton Cnty Big Grove/ Union/ Van Horne Pct
+946575,1534,Benton,Bn,Benton-Canton-Shellsburg,BCS,Benton Cty Benton/ Canton/ Shellsburg Prnct
+946576,1547,Benton,Bp1,Belle Plaine 1,BP1,Belle Plaine 2
+946577,1546,Benton,Bp2,Belle Plaine 2,BP2,Belle Plaine 2
+946578,1548,Benton,Bp3,Belle Plaine 3,BP3,Belle Plaine 3
+946579,1535,Benton,Br,Bruce-Cedar-Mt Auburn,BCM,Benton Cnty Bruce/ Cedar/ Mt. Auburn Pct
+946580,1537,Benton,Ed,Eden-Harrison-Taylor,EHT,Benton County Eden/ Harrison/ Taylor Pct
+946581,1538,Benton,El,Eldorado-Newhall,EN,Benton County El Dorado/ Newhall Pct
+946582,1539,Benton,Fl,Florence-St Clair-Norway,FSN,Benton County Florence/ St. Clair/ Norway P
+946583,1540,Benton,Fr,Fremont-Atkins,FA,Benton County Fremont/ Adkins Precinct
+946584,1541,Benton,Ho,Homer-Monroe-Jackson-Garrison,HMJG,Benton Cty Homer/ Monroe/ Jackson/ Garrison
+946585,1542,Benton,Ia,Iowa-Leroy-Luzerne-Blairstown,ILLB,Benton Cty Iowa/ Leroy/ Luzerne/ Blairstown
+946586,1543,Benton,Ka,Kane-Keystone,KK,Benton County Kane/ Keystone Precinct
+946587,1544,Benton,Po,Polk-Urbana,PU,Benton County Polk/ Urbana Pct
+946588,1549,Benton,Vt1,Vinton 1,VIN1,Vinton Precinct 1
+946589,1550,Benton,Vt2,Vinton 2,VIN2,Vinton Precinct 2
+946590,1551,Benton,Vt3,Vinton 3,VIN3,Vinton Precinct 3
+946591,1552,Benton,Vt4,Vinton 4,VIN4,Vinton Precinct 4
+946592,1545,Benton,Wa,Walford,WALFORD,Walford
+946594,1411,Black Hawk,B000,Bennington,BENNINGTON,Black Hawk County Bennington Precinct
+946600,640,Black Hawk,J100,Evansdale W1,EVANSDALE1,Evandale1
+946601,641,Black Hawk,J200,Evansdale W2,EVANSDALE2,Evansdale 2
+946602,642,Black Hawk,J300,Evansdale W3,EVANSDALE3,Evansdale 3
+946603,643,Black Hawk,J400,Evansdale W4,EVANSDALE4,Evansdale 4
+946606,1412,Black Hawk,N000,Mt Vernon,MOUNTVERNON,Black Hawk County Mount Vernon Precinct
+946607,1413,Black Hawk,Ph01,Poyner P1 & East Wloo,POY1EASTWLOO,Black Hawk County Poyner 1/ East Waterloo
+946608,1386,Black Hawk,Pk02,Poyner P2 Fox Gilbert Jesup,POY2FOX,Black Hawk Poyner 2/ Fox Precinct
+946609,1414,Black Hawk,R000,Union,UNION,Black Hawk County Union Precinct
+946610,1415,Black Hawk,S000,Washington Janesville,WASHINGTON,Black Hawk County Washington Precinct
+946611,1668,Black Hawk,W101,WL 1-1,W1P1,Waterloo ward 1 precinct 1
+946612,1669,Black Hawk,W102,WL 1-2,W1P2,Waterloo ward 1 precinct 2
+946613,1388,Black Hawk,W103,WL 1-3,W1P3,Waterloo ward 1 precinct 3
+946614,1670,Black Hawk,W104,WL 1-4,W1P4,Waterloo ward 1 precinct 4
+946615,1671,Black Hawk,W105,WL 1-5,W1P5,Ward 1 precinct 5
+946616,1672,Black Hawk,W106,WL 1-6,W1P6,Waterloo ward 1 precinct 6
+946617,1389,Black Hawk,W201,WL 2-1,W2P1,Waterloo ward 2 precinct 1
+946618,1675,Black Hawk,W202,WL 2-2,W2P2,Ward 2 precinct 2
+946619,1676,Black Hawk,W203,WL 2-3,W2P3,Waterloo ward 2 precinct 3
+946620,1677,Black Hawk,W204,WL 2-4,W2P4,Waterloo ward 2 precinct 4
+946621,1678,Black Hawk,W205,WL 2-5,W2P5,Waterloo ward 2 precinct 5
+946622,1673,Black Hawk,W206,WL 2-6,W2P6,Waterloo ward 2 precinct 6
+946623,644,Black Hawk,W301,WL 3-1,W3P1,Waterloo ward 3 precinct 1
+946624,645,Black Hawk,W302,WL 3-2,W3P2,Waterloo ward 3 precinct 2
+946625,646,Black Hawk,W303,WL 3-3,W3P3,Waterloo ward 3 precinct 3
+946626,647,Black Hawk,W304,WL 3-4,W3P4,Waterloo ward 3 precinct 4
+946627,1390,Black Hawk,W305,WL 3-5,W3P5,Waterloo ward 3 precinct 5
+946628,1679,Black Hawk,W306,WL 3-6,W3P6,Ward 3 precinct 6
+946629,1391,Black Hawk,W401,WL 4-1,W4P1,Waterloo ward 4 precinct 1
+946630,1392,Black Hawk,W402,WL 4-2,W4P2,Waterloo ward 4 precinct 2
+946631,1393,Black Hawk,W403,WL 4-3,W4P3,Waterloo ward 4 precinct 3
+946632,1394,Black Hawk,W404,WL 4-4,W4P4,Waterloo ward 4 precinct 4
+946633,1395,Black Hawk,W405,WL 4-5,W4P5,Waterloo ward 4 precinct 5
+946634,1396,Black Hawk,W406,WL 4-6,W4P6,Waterloo ward 4 precinct 6
+946635,1680,Black Hawk,W501,WL 5-1,W5P1,Waterloo ward 5 precinct 1
+946636,1681,Black Hawk,W502,WL 5-2,W5P2,Waterloo ward 5 precinct 2
+946637,1682,Black Hawk,W503,WL 5-3,W5P3,Waterloo ward 5 precinct 3
+946638,1683,Black Hawk,W504,WL 5-4,W5P4,Waterloo ward 5 precinct 4
+946639,1674,Black Hawk,W505,WL 5-5,W5P5,Waterloo ward 5 precinct 5
+946640,1372,Black Hawk,W506,WL 5-6,W5P6,Waterloo ward 5 precinct 6
+946641,1373,Black Hawk,X101,CF W1 P1,CFW1P1,Cedar Falls Ward 1 Precinct 1
+946642,1374,Black Hawk,X102,CF W1 P2,CFW1P2,Cedar Falls Ward 1 Precinct 2
+946643,1375,Black Hawk,X103,CF W1 P3,CFW1P3,Cedar Falls ward 1 precinct 3
+946644,1376,Black Hawk,X201,CF W2 P1,CFW2P1,Cedar Falls ward 2 precinct 1
+946645,1371,Black Hawk,X202,CF W2 P2 & CF Twp,CEDARFALLS,Black Hawk County Cedar Falls Township Prec
+946645,1666,Black Hawk,X202,CF W2 P2 & CF Twp,CFW2P2,Cedar Falls ward 2 precinct 2
+946646,1693,Black Hawk,X203,CF W2 P3,CFW2P3,Cedar Falls ward 2 precinct 3
+946647,1377,Black Hawk,X301,CF W3 P1,CFW3P1,Cedar Falls ward 3 precinct 1
+946648,1378,Black Hawk,X302,CF W3 P2,CFW3P2,Cedar Falls ward 3 precinct 2
+946649,1379,Black Hawk,X303,CF W3 P3,CFW3P3,Cedar Falls ward 3 precinct 3
+946650,1380,Black Hawk,X401,CF W4 P1,CFW4P1,Cedar Falls ward 4 precinct 1
+946651,1381,Black Hawk,X402,CF W4 P2,CFW4P2,Cedar Falls ward 4 precinct 2
+946652,1382,Black Hawk,X403,CF W4 P3,CFW4P3,Cedar Falls ward 4 precinct 3
+946653,1383,Black Hawk,X501,CF W5 P1,CFW5P1,Cedar Falls ward 5 precinct 1
+946654,1384,Black Hawk,X502,CF W5 P2,CFW5P2,Cedar Falls ward 5 precinct 2
+946655,1667,Black Hawk,X503,CF W5 P3,CFW5P3,Cedar Falls ward 5 precinct 3
+946656,119,Boone,Bn1,Boone 1st Ward,BOONE1,Boone 1
+946657,120,Boone,Bn2,Boone 2nd Ward,BOONE2,Boone 2
+946658,121,Boone,Bn3,Boone 3rd Ward,BOONE3,Boone 3
+946659,117,Boone,Bn4,Boone 4th Ward,BOONE4,Boone-Rural and Boone City 4l
+946660,122,Boone,Bn5,Boone 5th Ward,BOONE5,Boone 5
+946661,140,Boone,Md1,Madrid 1st Ward,MADRID1,Madrid 1
+946662,141,Boone,Md2,Madrid 2nd Ward,MADRID2,Madrid 2
+946663,142,Boone,Md3,Madrid 3rd Ward,MADRID3,Madrid 3
+946664,118,Boone,Og,Ogden,OGDEN,Boone-City of Ogden
+946665,138,Boone,Rp1,Rural Precinct 1,RURAL1,Boone-Rural Precinct 1
+946666,113,Boone,Rp2,Rural Precinct 2,RURAL2,Boone-Rural Precinct 2
+946667,114,Boone,Rp3,Rural Precinct 3,RURAL3,Boone-Rural Precinct 3
+946668,115,Boone,Rp4,Rural Precinct 4,RURAL4,Boone-Rural Precinct 4
+946669,116,Boone,Rp5,Rural Precinct 5,RURAL5,Boone-Rural Precinct 5
+946670,139,Boone,Rp6,Rural Precinct 6,RURAL6,Boone-Rural Precinct 6
+946673,1403,Bremer,Dv,CITY OF DENVER/JEFFERSON TWP,DENVER,Bremer County Denver Precinct
+946675,1398,Bremer,Fd,CITY OF FREDERIKA- FREDERIKA & LEROY TWP,FREDERIKA,Bremer County Frederika Precinct
+946679,1404,Bremer,Jv,CITY OF JANESVILLE/JACKSON TWP,JANESVILLE,Bremer County Janesville Precinct
+946680,1401,Bremer,La,LAFAYETTE TWP/WARREN TWPS,LAFAYETTE,Bremer County Lafayette/ Warren Precinct
+946681,1399,Bremer,Su,CITY OF SUMNER/SUMNER TWP/DAYTON TWP,SUMNER,Bremer County Sumner Precinct
+946682,1405,Bremer,Wl1,WAVERLY WARD I/E WASHINGTON TWP,WAVERLYWARD1,Bremer County Waverly Ward 1
+946683,1406,Bremer,Wl2,WAVERLY WARD II/NE 1/4 SEC 36 WASHINGTON TWP,WAVERLYWARD2,Bremer County Waverly Ward 2 Precinct
+946684,1407,Bremer,Wl3,WAVERLY WARD III,WAVERLYWARD3,Bremer County Waverly Ward 3 Precinct
+946685,1408,Bremer,Wl4,WAVERLY WARD IV,WAVERLYWARD4,Bremer County Waverly Ward 4 Precinct
+946686,1409,Bremer,Wl5,WAVERLY WARD V/W WASHINGTON TWP,WAVERLYWARD5,Bremer County Waverly Ward 5 Precinct
+946688,1416,Buchanan,Ar,Aurora,AURORA,Aurora
+946689,1417,Buchanan,Bd,Brandon,BRANDON,Brandon
+946690,1418,Buchanan,Fb,Fairbank,FAIRBANK,Fairbank
+946691,1419,Buchanan,Ht,Hazleton,HAZLETON,Hazleton
+946692,1427,Buchanan,I1,Independence 1st Ward,IND1,Independence 1
+946693,1424,Buchanan,I2,Independence 2nd Ward,IND2,Independence 2
+946694,1428,Buchanan,I3,Independence 3rd Ward,IND3,Independence 3
+946695,1425,Buchanan,I4,Independence 4th Ward,IND4,Independence 4
+946696,1426,Buchanan,I5,Independence 5th Ward,IND5,Independence 5
+946697,1420,Buchanan,Js,Jesup,JESUP,Jesup
+946699,1421,Buchanan,Pw,Perry-Westburg,PERRY,Perry/Westburg
+946700,1422,Buchanan,Qt,Quasqueton,QUASQUETON,Quasqueton
+946701,1576,Buchanan,Rw,Rowley,ROWLEY,Rowley
+946702,1423,Buchanan,Wn,Winthrop,WINTHROP,Winthrop
+946703,387,Buena Vista,1,SL01,SL01,Storm Lake 1
+946704,386,Buena Vista,2,SL02,SL02,Storm Lake 2
+946705,397,Buena Vista,3,SL03,SL03,Storm Lake 3
+946706,385,Buena Vista,4,SL04,SL04,Storm Lake 4
+946719,402,Carroll,1,Carroll Ward One,CARP1,Carroll Precinct 1
+946720,403,Carroll,2,Carroll Ward Two &amp; N1/2 Maple River Twp,CARP2,Carroll Precinct 2
+946721,404,Carroll,3,Carroll Ward Three &amp; S1/2 Maple River Twp,CARP3,Carroll Precinct 3
+946722,405,Carroll,4,Carroll Ward Four,CARP4,Carroll Precinct 4
+946723,406,Carroll,5,Wheatland-Kniest,CARP5,Carroll Precinct 5
+946724,407,Carroll,6,Sheridan-Grant-Jasper,CARP6,Carroll Precinct 6
+946725,408,Carroll,7,Arcadia,CARP7,Carroll Precinct 7
+946726,409,Carroll,8,Glidden-Richland,CARP8,Carroll Precinct 8
+946727,410,Carroll,9,Washington-Roselle,CARP9,Carroll Precinct 9
+946728,411,Carroll,10,Pleasant Valley-Newton,CARP10,Carroll Precinct 10
+946729,412,Carroll,11,Ewoldt,CARP11,Carroll Precinct 11
+946730,413,Carroll,12,Eden,CARP12,Carroll Precinct 12
+946731,414,Carroll,13,Union,CARP13,Carroll Precinct 13
+946732,538,Cass,At1,Atlantic 1,CASS1,Cass 1/Atlantic 1
+946733,539,Cass,At2,Atlantic 2,CASS2,Cass 2/Atlantic 2
+946734,540,Cass,At3,Atlantic 3,CASS3,Cass 3/Atlantic 3
+946735,541,Cass,At4,Atlantic 4,CASS4,Cass 4/Atlantic 4
+946736,542,Cass,At5,Atlantic 5,CASS5,Cass 5/Atlantic 5
+946737,513,Cass,Bn,Benton- Franklin Twp/Wiota,CASS7,Cass 7 - Benton and Franklin/Wiota
+946738,543,Cass,Lw,Bear Grove- Cass Twp/Lewis,CASS6,Cass 6 - Bear Grove and Cass/Lewis
+946739,514,Cass,An,Grant- Lincoln Twp/Anita,CASS10,Cass 10
+946740,544,Cass,Mr,Brighton- Grove- Pymosa- Washington Twp/Marne,CASS8,Cass 8
+946741,547,Cass,Ms,Massena Twp/Massena City,CASS12,Cass 12
+946742,546,Cass,Gs,Noble- Pleasant Twp/Griswold,CASS11,Cass 11
+946743,548,Cass,Cu,Union Twp/Cumberland,CASS13,Cass 13
+946744,545,Cass,VI,Enda- Victoria Twp,CASS9,CASS 9
+946745,806,Cedar,Cn,CASS/CENTER/IOWA/ROCHESTER,CASS,Cass/Center/Iowa/Rochester
+946746,807,Cedar,Da,DAYTON/FAIRFIELD,DAYTON,Dayton/Fairfield
+946747,808,Cedar,Fm,FARMINGTON/SUGAR CREEK,FARMINGTON,Farmington/Sugar Creek
+946748,810,Cedar,Fr,FREMONT/RED OAK,FREMONT,Fremont/Red Oak
+946749,809,Cedar,Gw,GOWER/SPRINGDALE,GOWER,Gower/Springdale
+946750,811,Cedar,In,INLAND,INLAND,Inland
+946751,812,Cedar,Ln,LINN/PIONEER,LINN,Linn/Pioneer
+946752,813,Cedar,Ma,MASSILLON/SPRINGFIELD,MASSILLON,Massillon/Springfield
+946753,816,Cedar,Tt1,TIPTON 1,TIPTON1,Tipton 1
+946754,815,Cedar,Tt2,TIPTON 2,TIPTON2,Tipton 2
+946755,814,Cedar,Tt3,TIPTON 3,TIPTON3,Tipton 3
+946756,221,Cerro Gordo,Cl,Clear Lake - Grant - Union,CLEARLAKE,Clear Lake/Grant/Union
+946757,226,Cerro Gordo,Cl1,Clear Lake - Ward 1,CLEARLAKE1,Clear Lake 1
+946758,227,Cerro Gordo,Cl2,Clear Lake - Ward 2,CLEARLAKE2,Clear Lake 2
+946759,228,Cerro Gordo,Cl3,Clear Lake - Ward 3,CLEARLAKE3,Clear Lake 3
+946761,187,Cerro Gordo,Fln,Falls - Plymouth Pct,FALLS-PLY,Falls/Plymouth
+946762,188,Cerro Gordo,Fls,Falls - Rock Falls Pct,FALLS-ROCK,Falls-Rock Falls
+946763,223,Cerro Gordo,Gme,Grimes - Thornton Pct,GRIMES-THOR,Grimes-Thornton
+946764,222,Cerro Gordo,Gmw,Grimes - Meservey Pct,GRIMES-MES,Grimes-Meservey
+946765,213,Cerro Gordo,Gn,Geneseo Twp Pct,GENESEO,Geneseo
+946766,224,Cerro Gordo,Lk,Lake / Lincoln Twps Pct,LAKE-LINCOLN,Lake/Lincoln
+946767,216,Cerro Gordo,Mc W1p1,Mason City W-1 P-1,MCW1P1,Mason City ward 1 precinct 1
+946768,202,Cerro Gordo,Mc W1p2,Mason City W-1 P-2,MCW1P2,Mason City ward 1 precinct 2
+946769,203,Cerro Gordo,Mc W1p3,Mason City W-1 P-3,MCW1P3,Mason City ward 1 precinct 3
+946770,204,Cerro Gordo,Mc W2p1,Mason City W-2 P-1,MCW2P1,Mason City ward 2 precinct 1
+946771,205,Cerro Gordo,Mc W2p2,Mason City W-2 P-2,MCW2P2,Mason City ward 2 precinct 2
+946772,206,Cerro Gordo,Mc W2p3,Mason City W-2 P-3,MCW2P3,Mason City ward 2 precinct 3
+946773,207,Cerro Gordo,Mc W3p1,Mason City W-3 P-1,MCW3P1,Mason City ward 3 precinct 1
+946774,208,Cerro Gordo,Mc W3p2,Mason City W-3 P-2,MCW3P2,Mason City ward 3 precinct 2
+946775,209,Cerro Gordo,Mc W3p3,Mason City W-3 P-3,MCW3P3,Mason City ward 3 precinct 3
+946776,210,Cerro Gordo,Mc W4p1,Mason City W-4 P-1,MCW4P1,Mason City ward 4 precinct 1
+946777,211,Cerro Gordo,Mc W4p2,Mason City W-4 P-2,MCW4P2,Mason City ward 4 precinct 2
+946778,212,Cerro Gordo,Mc W4p3,Mason City W-4 P-3,MCW4P3,Mason City ward 4 precinct 3
+946780,225,Cerro Gordo,Mv,Mt Vernon - Pl Valley Twps,MOUNTVERNON,Mount Vernon/Pleasant Valley
+946782,54,Cherokee,5 Ch W1,#5 Cherokee Ward 1,CHERCITY1,Cherokee city 1
+946783,56,Cherokee,6 Ch W2,#6 Cherokee Ward 2,CHERCITY2,Cherokee city 2
+946784,55,Cherokee,7 Ch W3,#7 Cherokee Ward 3,CHERCITY3,Cherokee city 3
+946785,190,Chickasaw,Bd,Bradford,BRADFORD,Bradford
+946786,191,Chickasaw,Ch,Chickasaw,CHICKASAW,Chickasaw
+946787,192,Chickasaw,Da-Rd,Dayton-Richland,DAY-RICH,Dayton-Richland
+946788,193,Chickasaw,Df-W2,Deerfield-Washington 2,DEER-WASH,Deerfield-Washington
+946789,194,Chickasaw,Ds-Fb,Dresden-Fredericksburg,DRES-FRED,Dresden-Fredericksburg
+946790,1619,Chickasaw,Ja-Ut,Jacksonville-Utica,JACK-UTICA,Jasonville-Utica
+946791,200,Chickasaw,Nh1,City of New Hampton Ward One,NH1,New Hampton 1
+946792,199,Chickasaw,Nh2,City of New Hampton Ward Two,NH2,New Hampton 2
+946793,201,Chickasaw,Nh3,City of New Hampton Ward Three,NH3,New Hampton 3
+946794,198,Chickasaw,Nh4,City of New Hampton Ward Four,NH4,New Hampton 4
+946795,195,Chickasaw,Nhr,New Hampton Rural,NEWHAMP,New Hampton
+946796,196,Chickasaw,St,Stapleton,STAPLETON,Stapleton
+946797,197,Chickasaw,Wa1,Washington 1 Township,WASHINGTON,Washington
+946798,1119,Clarke,My,Murray Precinct,MURRAY,Murray
+946800,1121,Clarke,Oc1,Osceola 1st Ward Precinct,OSCEOLA1,Osceola 1
+946801,1122,Clarke,Oc2,Osceola 2nd Ward Precinct,OSCEOLA2,Osceola 2
+946802,1123,Clarke,Oc3,Osceola 3rd Ward Precinct,OSCEOLA3,Osceola 3
+946804,1124,Clarke,Wb,Woodburn Precinct,WOODBURN,Woodburn
+946805,10,Clay,Dgpe,Douglas-Peterson,DGPE,Douglas/Peterson
+946806,11,Clay,Gfhd,Garfield-Herdland,GFHD,Garfield/Herland
+946807,5,Clay,Lafr,Lake-Freeman,LAFR,Lake/Freeman
+946808,8,Clay,Lggg,Logan-Gillett Grove,LGGG,Logan/Gillett Grove
+946809,9,Clay,Lncl,Lincoln-Clay,LNCL,Lincoln/Clay
+946812,12,Clay,Sp1,Spencer Ward 1,SPENCER1,Spencer 1
+946813,13,Clay,Sp2,Spencer Ward 2,SPENCER2,Spencer 2
+946814,16,Clay,Sp3,Spencer Ward 3,SPENCER3,Spencer 3
+946815,15,Clay,Sp4,Spencer Ward 4,SPENCER4,Spencer 4
+946816,14,Clay,Sp5,Spencer Ward 5,SPENCER5,Spencer 5
+946817,7,Clay,Wflt,Waterford-Lone Tree,WFLT,Waterford/Lone Tree
+946818,1305,Clayton,Bv,BUENA VISTA,BUENAVISTA,Buena Vista
+946819,1301,Clayton,Cs,CASS,CASS,Cass
+946820,1298,Clayton,Gm,GRAND MEADOW,GRANDMEADOW,Grand Meadow
+946821,1302,Clayton,Lm,LODOMILLO,LODOMILLO,Lodomillo
+946822,1332,Clayton,Mr,MARION,MARION,Marion
+946823,1299,Clayton,Rd,READ,READ,Read
+946826,1256,Clinton,Cam1,CAMANCHE 1,CAMANCHE1,Camanche 1
+946827,1257,Clinton,Cam2,CAMANCHE 2,CAMANCHE2,Camanche 2
+946829,1234,Clinton,Cent,CENTER TWP,CLINT2,Clinton-Center
+946830,1240,Clinton,Cl11,CLINTON 1-1,W1P1,Clionton ward 1 precinct 1
+946831,1239,Clinton,Cl12,CLINTON 1-2,CLINTONW1P2,Clintonw1p2
+946832,1241,Clinton,Cl21,CLINTON 2-1,W2P1,Clinton ward 2 precinct 1
+946833,1242,Clinton,Cl22,CLINTON 2-2,W2P2,Clinton ward 2 precinct 2
+946834,1243,Clinton,Cl31,CLINTON 3-1,W3P1,Clinton ward 3 precinct 1
+946835,1244,Clinton,Cl32,CLINTON 3-2,W3P2,Clinton ward 3 precinct 2
+946836,1245,Clinton,Cl41,CLINTON 4-1,W4P1,Clinton ward 4 precinct 1
+946837,1246,Clinton,Cl42,CLINTON 4-2,W4P2,Clintono ward 4 precinct 2
+946839,1258,Clinton,Dew1,DEWITT 1,DEWITT1,DeWitt 1
+946840,1259,Clinton,Dew2,DEWITT 2,DEWITT2,DeWitt 2
+946841,1249,Clinton,Dewt,DEWITT TWP,CLINT5,Clinton-Dewitt
+946857,449,Crawford,Co,Charter Oak,CHARTEROAK,Charter Oak
+946858,452,Crawford,D1,Denison Ward 1,DENISON1,Denison 1
+946859,454,Crawford,D2-Dt,Denison Ward 2-Denison Twp,DENISON2,Denison 2
+946878,491,Dallas,Do,DESOTO,DESOTO,Dallas County De Soto Precinct
+946883,517,Dallas,Py1,PERRY 1,PERRY1,Dallas County Perry 1 Precinct
+946884,518,Dallas,Py2,PERRY 2,PERRY2,Dallas County Perry 2 Precinct
+946885,519,Dallas,Py3,PERRY 3,PERRY3,Dallas County Perry 3 Precinct
+946889,494,Dallas,Vm,VAN METER,VANMETER,Dallas County Van Meter Precinct
+946892,1097,Dallas,Wk1,WAUKEE 1,WAUKEE1,Dallas County Waukee Precinct 1
+946893,1100,Dallas,Wk2,WAUKEE 2,WAUKEE2,Dallas County Waukee Precinct 2
+946894,1098,Dallas,Wk3,WAUKEE 3,WAUKEE3,Dallas County Waukee Precinct 3
+946895,1099,Dallas,Wk4,WAUKEE 4,WAUKEE4,Dallas County Waukee Precinct 4
+946897,920,Davis,Bf1,Bloomfield Ward 1,BLOOMFIELD1,Bloomfield 1
+946898,921,Davis,Bf2,Bloomfield Ward 2,BLOOMFIELD2,Bloomfield 2
+946899,914,Davis,Bf3,Bloomfield Ward 3,BLOOMFIELD3,Bloomfield 3
+946900,918,Davis,Cn,Central,CENTRAL,Central
+946901,916,Davis,Ne,Northeast,NORTHEAST,Northeast
+946902,915,Davis,Nw,Northwest,NORTHWEST,Northwest
+946903,917,Davis,Se,Southeast,SOUTHEAST,Southeast
+946904,919,Davis,Sw,Southwest,SOUTHWEST,Southwest
+946905,1126,Decatur,Bu,BU/HA/MO/NB/Davis City/Pleasanton,DECATUR2,Decatur County Precinct 2
+946907,1128,Decatur,De,DE/Decatur City,DECATUR4,Decatur County Precinct 4
+946909,1129,Decatur,Gg,GG/HP/WE/Garden Grove/LeRoy,DECATUR5,Decatur County Precinct 5
+946910,1130,Decatur,Gr,GR/RL/Grand River,DECATUR6,Decatur County Precinct 6
+946915,1131,Decatur,Lc,FR/LC/Van Wert/Weldon,DECATUR7,Decatur County Precinct 7
+946916,1127,Decatur,Le,CE/ED/Leon,DECATUR3,Decatur County Precinct 3
+946919,1566,Delaware,Cl,Colony,DELAWARE2,Delaware County Precinct 2
+946920,1568,Delaware,Dh,Delhi/Delaware Corp,DELAWARE4,Delaware County Precinct 4
+946923,1685,Delaware,Mc1,Manchester Ward 1,DELAWARE6,Delaware County Precinct 6
+946924,1687,Delaware,Mc2,Manchester Ward 2,DELAWARE7,Delaware County Precinct 7
+946925,1686,Delaware,Mc3,Manchester Ward 3,DELAWARE8,Delaware County Precinct 8
+946943,1163,Des Moines,Dm,PCT DM,DM,DesMoines10-Danville twnshp and city
+946944,1164,Des Moines,Fm,PCT FM,FM,DesMoines11-Flint Rvr/Middltwn/Beavrdale
+946945,1160,Des Moines,Hj,PCT HJ,HJ,DesMoines12-Huron/Jackson/Benton
+946946,1161,Des Moines,My,PCT MY,MY,DesMoines-YellowSpring/Franklin/Mediapolis
+946947,1162,Des Moines,Pw,PCT PW,PW,DesMoines14-Pleasant Grove/Washington
+946949,1172,Des Moines,Wb,PCT WB,WB,Des Moines 16-West Burlington
+946950,1602,Dubuque,1,Dubuque_01,DUB1,Dubuque 1
+946951,1603,Dubuque,2,Dubuque_02,DUB2,Dubuque 2
+946952,1600,Dubuque,3,Dubuque_03,DUB3,Dubuque 3
+946953,1604,Dubuque,4,Dubuque_04,DUB4,Dubuque 4
+946954,1599,Dubuque,5,Dubuque_05,DUB5,Dubuque 5
+946955,1610,Dubuque,6,Dubuque_06,DUB6,Dubuque 6
+946956,1598,Dubuque,7,Dubuque_07,DUB7,Dubuque 7
+946957,1614,Dubuque,8,Dubuque_08,DUB8,Dubuque 8
+946959,1597,Dubuque,10,Dubuque_10,DUB10,Dubuque 10
+946960,1611,Dubuque,11,Dubuque_11,DUB11,Dubuque 11
+946961,1606,Dubuque,12,Dubuque_12,DUB12,Dubuque 12
+946962,1607,Dubuque,13,Dubuque_13,DUB13,Dubuque 13
+946963,1609,Dubuque,14,Dubuque_14,DUB14,Dubuque 14
+946964,1608,Dubuque,15,Dubuque_15,DUB15,Dubuque 15
+946965,1615,Dubuque,16,Dubuque_16,DUB16,Dubuque 16
+946966,1612,Dubuque,17,Dubuque_17,DUB17,Dubuque 17
+946967,1595,Dubuque,18,Dubuque_18,DUB18,Dubuque 18
+946968,1596,Dubuque,19,Dubuque_19,DUB19,Dubuque 19
+946969,1601,Dubuque,20,Dubuque_20,DUB20,Dubuque 20
+946971,1369,Dubuque,31,Dubuque_31,ASBURYEAST,Asbury East - Dubuque precinct 31
+946972,1358,Dubuque,32,Dubuque_32,ASBURYWEST,Asbury west/Center north - precinct 32
+946973,1334,Dubuque,33,Dubuque_33,CASCADE,Cascade/White Water - Dubuque 33
+946974,1359,Dubuque,34,Dubuque_34,CENTERSOUTH,Center South/Vernon - Dubuque 34
+946975,1360,Dubuque,35,Dubuque_35,CONCORD,Concorn/Liberty/New Wine - Dubuque 35
+946976,1605,Dubuque,36,Dubuque_36,DUBUQUENORTH,Dubuque North - precinct 36
+946977,1367,Dubuque,37,Dubuque_37,DYERSVILLE2,Dyersville 2 - Dubuque precinct 37
+946978,1368,Dubuque,38,Dubuque_38,DYERSVILLE3,Dyersville 3 - Dubuque 38
+946979,1361,Dubuque,39,Dubuque_39,DYERS-DODGE,Dyersville/Dodge - Dubuque precinct 39
+946980,1362,Dubuque,40,Dubuque_40,FARLEY,Farley - Dubuque 40
+946981,1363,Dubuque,41,Dubuque_41,IOWA-TAYLOR,Iowa/Taylor - Dubuque precinct 41
+946982,1364,Dubuque,42,Dubuque_42,JEFF-PERU,Jefferson/Peru - Dubuque 42
+946983,1622,Dubuque,43,Dubuque_43,MOSALEM,Mosalem/Table Mound E/Washington - Dubuque
+946984,1365,Dubuque,44,Dubuque_44,PRAIRIECREEK,Prairie Creek - Dubuque precinct 44
+946985,1366,Dubuque,45,Dubuque_45,TABLEMOUNDW,Table Mound West - Dubuque precinct 45
+946989,299,Emmet,1,AG-IL-Armstrong,EMMET1,Emmet County Precinct 1
+946990,318,Emmet,10,Estherville Ward 5,EST5,Estherville Precinct/ Ward 5
+946991,304,Emmet,11,HL-TM-Wallingford,EMMET11,Emmet County Precinct 11
+946992,300,Emmet,2,CN-SL-Gruver,EMMET2,Emmet County Precinct 2
+946993,301,Emmet,3,DM-JC-Ringsted,EMMET3,Emmet County Precinct 3
+946994,302,Emmet,4,EL-LN-Dolliver,EMMET4,Emmet County Precinct 4
+946995,303,Emmet,5,Emmet-Estherville,EMMET5,Emmet County Precinct 5
+946996,314,Emmet,6,Estherville Ward 1,EST1,Estherville Precinct/ Ward 1
+946997,315,Emmet,7,Estherville Ward 2,EST2,Estherville Precinct/ Ward 2
+946998,316,Emmet,8,Estherville Ward 3,EST3,Estherville Precinct/ Ward 3
+946999,317,Emmet,9,Estherville Ward 4,EST4,Estherville Precinct/ Ward 4
+947000,1310,Fayette,Au,AUBURN TWP,AUBURN,Auburn
+947001,1312,Fayette,Cl,CLERMONT TWP,CLERMONT,Clermont
+947002,1430,Fayette,Ce,CENTER TWP,CENTER,Center
+947003,1313,Fayette,Dv,DOVER TWP,DOVER,Dover
+947004,1314,Fayette,Ed,EDEN TWP,EDEN,Eden
+947005,1431,Fayette,Fb,FAIRBANK INC,FAIRBANK,Fairbank
+947006,1433,Fayette,Hl,HARLAN TWP,HARLAN,Harlan
+947007,1315,Fayette,Il,ILLYRIA TWP,ILLYRIA,Illyria
+947008,1434,Fayette,Jf,JEFFERSON TWP,JEFFERSON,Jefferson
+947009,1438,Fayette,Oe1,OELWEIN - WARD 1,OELWIN1,Oelwin 1
+947010,1439,Fayette,Oe2,OELWEIN - WARD 2,OELWIN2,Oelwin 2
+947011,1440,Fayette,Oe3,OELWEIN - WARD 3,OELWIN3,Oelwin 3
+947012,1441,Fayette,Oe4,OELWEIN - WARD 4,OELWIN4,Oelwin 4
+947013,1435,Fayette,Or,ORAN TWP,ORAN,Oran
+947014,1316,Fayette,Pl,PLEASANT VALLEY TWP,PV,Pleasant Valley
+947015,1436,Fayette,Sc,SCOTT TWP,SCOTT,Scott
+947016,1437,Fayette,Sf,SMITHFIELD TWP,SMITHFIELD,Smithfield
+947017,1317,Fayette,Un,UNION TWP,UNION,Union
+947018,1318,Fayette,Wf,WESTFIELD TWP,WESTFIELD,Westfield
+947019,1319,Fayette,We1,WEST UNION - WARD 1,WESTUNION1,West Union 1
+947020,1321,Fayette,We2,WEST UNION - WARD 2,WESTUNION2,West Union 2
+947021,1320,Fayette,We3,WEST UNION - WARD 3,WESTUNION3,West Union 3
+947022,184,Floyd,Cc1,Charles City Corp/CC1,CHARLESCITY1,Charles City 1
+947023,185,Floyd,Cc2,Charles City Corp/CC2,CHARLESCITY2,Charles City 2
+947024,186,Floyd,Cc3,Charles City Corp/CC3,CHARLESCITY3,Charles City 3
+947028,231,Franklin,Hp1,HAMPTON 1,FRANKLIN4,Franklin County Precinct 4
+947029,232,Franklin,Hp2,HAMPTON 2,FRANKLIN5,Franklin County Precinct 5
+947030,233,Franklin,Hp3,HAMPTON 3,FRANKLIN6,Franklin County Precinct 6
+947031,234,Franklin,Hp4,HAMPTON 4,FRANKLIN7,Franklin County Precinct 7
+947034,670,Fremont,Fg,Farragut,FAR,Farragut
+947034,674,Fremont,Fg,Farragut,SHENANDOAH1,Shenadoah1
+947035,669,Fremont,Hb,Hamburg/Washington,HAMBURG,Washington - Hamburg 1
+947035,675,Fremont,Hb,Hamburg/Washington,HAMBURG2,Hamburg 2
+947035,676,Fremont,Hb,Hamburg/Washington,HAMBURG3,Hamburg 3
+947038,672,Fremont,Rt,Riverton,RIVER,Riverton
+947039,673,Fremont,Sn,Sidney,SID,Sidney
+947040,110,Greene,J1,Jefferson 1 Precinct,JEF1,Jefferson Precinct1
+947041,111,Greene,J2,Jefferson 2 Precinct,JEF2,Jefferson Precinct 2
+947042,112,Greene,J3,Jefferson 3 Precinct,JEF3,Jefferson Precinct 3
+947043,143,Grundy,P1,PRECINCT 1,P1,Grundy precinct 1
+947044,144,Grundy,P2,PRECINCT 2,P2,Grundy precinct 2
+947045,145,Grundy,P3,PRECINCT 3,P3,Grundy Precinct 3
+947046,146,Grundy,P4,PRECINCT 4,P4,Grundy precinct 4
+947047,147,Grundy,P5,PRECINCT 5,P5,Grundy Precinct 5
+947048,148,Grundy,P6,PRECINCT 6,P6,Grundy Precinct 6
+947049,149,Grundy,P7,PRECINCT 7,P7,Grundy precinct 7
+947050,523,Guthrie,1,Black,BLACK,Guthrie - Black
+947051,525,Guthrie,2,Blue,BLUE,Blue
+947052,524,Guthrie,3,Brown,BROWN,Guthrie - Brown
+947053,526,Guthrie,4,Gold,GOLD,Guthrie - Gold
+947054,527,Guthrie,6,Purple,PURPLE,Guthrie - Purple
+947055,520,Guthrie,7,Red,RED,Guthrie - red
+947056,522,Guthrie,8,White,WHITE,Guthrie - White
+947066,129,Hamilton,Wc1,Webster City 1,WEBSTERCITY1,Webster City 1
+947067,128,Hamilton,Wc2,Webster City 2,WEBSTERCITY2,Webster City 2
+947068,130,Hamilton,Wc3,Webster City 3,WEBSTERCITY3,Webster City 3
+947070,279,Hancock,1,Precinct 1,HAN1,Hancock County Precinct 1
+947071,280,Hancock,2,Precinct 2,HAN2,Hancock County Precinct 2
+947072,281,Hancock,3,Precinct 3,HAN3,Hancock County Precinct 3
+947073,282,Hancock,4,Precinct 4,HAN4,Hancock County Precinct 4
+947074,283,Hancock,5,Precinct 5,HAN5,Hancock County Precinct 5
+947075,284,Hancock,6,Precinct 6,HAN6,Hancock County Precinct 6
+947076,285,Hancock,7,Precinct 7,HAN7,Hancock County Precinct 7
+947077,286,Hancock,8,Precinct 8,HAN8,Hancock County Precinct 8
+947078,287,Hancock,9,Precinct 9,HAN9,Hancock County Precinct 9
+947079,288,Hancock,10,Precinct 10,HAN10,Hancock County Precinct 10
+947080,150,Hardin,Al,Alden/Buckeye,ALDENBUCKEYE,Hardin County Alden/ Buckeye Precinct
+947081,160,Hardin,Cc,Concord/Sherman/Grant/Tip,CSGT,Hardin Cnty Concord/ Sherman/ Grant/ Tip
+947083,159,Hardin,El,Eldora/Pleasant/Prov/Unio,EPPU,Hardin Cnty Eldora/ Pleasant/ Provid/ Union
+947084,151,Hardin,Et,Etna/Clay,ETNACLAY,Hardin County Etna/ Clay Precinct
+947085,152,Hardin,Ha,Hardin/Ellis/Jackson,HEJ,Hardin County Hardin/ Ellis/ Jackson Pct
+947086,153,Hardin,If1,Iowa Falls #1,IOWAFALLS1,Hardin County Iowa Falls 1 Precinct
+947087,154,Hardin,If2,Iowa Falls #2,IOWAFALLS2,Hardin County Iowa Falls 2 Precinct
+947088,484,Harrison,Bo,Precinct #6-Boyer/Lincoln,HARRISON6,Harrison 6
+947089,445,Harrison,Hs,Precinct #3-Dunlap,HARRISON3,Harrison 3
+947090,481,Harrison,Ja,Precinct #2-Pisgah,HARRISON2,Harrison 2
+947091,447,Harrison,Jf,Precinct #9-Jefferson/LaGrange,HARRISON9,Harrison 9
+947092,446,Harrison,Lo,Precinct #10 - Logan,HARRISON10,Harrison 10
+947093,480,Harrison,Ls,Precinct #1-Little Sioux,HARRISON1,Harrison 1
+947094,483,Harrison,Ma,Precinct #5-Magnolia,HARRISON5,Harrison 5
+947095,482,Harrison,Mr,Precinct #4-Mondamin,HARRISON4,Harrison 4
+947096,487,Harrison,Mv,Precinct #12 - Missouri Valley,HARRISON12,Harrison 12
+947097,488,Harrison,Sj,Precinct #11 - St. John,HARRISON11,Harrison 11
+947098,486,Harrison,Ta,Precinct #8-Modale,HARRISON8,Harrison 8
+947099,485,Harrison,Wb,Precinct #7 - Woodbine,HARRISON7,Harrison 7
+947100,448,Harrison,Ws,Precinct #13-Persia,HARRISON13,Harrison 13
+947101,967,Henry,Ce,Central Precinct,HENRY3,Henry 3
+947102,971,Henry,Mp1,Mt. Pleasant Ward 1,HENRY4,Henry 4/Mount Pleasant 1
+947103,970,Henry,Mp2,Mt. Pleasant Ward 2,HENRY5,Henry 5/Mount Pleasant 2
+947104,972,Henry,Mp3,Mt. Pleasant Ward 3,HENRY6,Henry 6/Mount Pleasant 3
+947105,973,Henry,Mp4,Mt. Pleasant Ward 4,HENRY7,Henry 7/Mount Pleasant 4
+947106,1699,Howard,Af,Afton/Howard/Paris,PARIS,Paris-Afton-Howard
+947107,1696,Howard,Al,Albion/Forest City,ALBION,Albion-Forest City
+947109,1702,Howard,Cr1a,Cresco 1 A,CRESCO1A,Cresco 1A
+947110,1703,Howard,Cr1b,Vernon Springs,CRESCO1B,Cresco 1b-Vernon Springs
+947111,1701,Howard,Cr2,Cresco 2,CRESCO3,Cresco 3
+947112,1700,Howard,Cr3,Cresco 3,CRESCO2,Cresco2
+947114,1698,Howard,No,New Oregon,NEWOREGON,New Oregon
+947118,370,Humboldt,Dc-Gr,Dakota City-Grove,DAKCITYGROVE,Humboldt County Dakota City/ Grove Pct
+947121,363,Humboldt,H1-C-Sw,Humboldt 1-Corinth-South Weaver,HUMBOLDT1,Humboldt County Precinct 1
+947122,371,Humboldt,H2-B-Sn,Humboldt 2-Beaver-South Norway,HUMBOLDT2,Humboldt County Precinct 2
+947123,364,Humboldt,H3-Sr,Humboldt 3-South Rutland,HUMBOLDT3,Humboldt County Precinct 3
+947127,466,Ida,Bl,City of Arthur,IDA4,Ida 4
+947128,468,Ida,Gg,City of Holstein,IDA6,Ida 6
+947129,467,Ida,Gv,City of Galva,IDA5,Ida 5
+947130,471,Ida,Ig1,Ida Grove Ward 1,IDA1,Ida 1 - Ida Grove 1
+947131,470,Ida,Ig2,Ida Grove Ward 2,IDA2,Ida 2 - Ida Grove 2
+947132,472,Ida,Ig3,Ida Grove Ward 3,IDA3,Ida 3 - Ida Grove 3
+947133,469,Ida,Mp,City of Battle Creek & Grant Township,IDA7,Ida 7
+947134,658,Iowa,Da,Dayton/English I,DAYTON,Dayton - English 1
+947135,659,Iowa,En,English II,ENGLISH2,English 2
+947136,1559,Iowa,Fm,Fillmore/Greene,FILLMORE,Fillmore-Greene
+947137,1553,Iowa,Hc,Honey Creek/Marengo Rural,HONEYCREEK,Honey Creek-Marengo
+947138,660,Iowa,Hl,Hartford II/Lincoln,HARTFORD2,Hartford 2 - Lincoln
+947139,661,Iowa,Hs,Hartford I/Sumner,HARTFORD1,Hartford 1 - Sumner
+947140,1555,Iowa,Ht,Hilton/Washington,WASHINGTON,Washington-Hilton
+947141,1556,Iowa,Lx,Lenox/Iowa,LENOX,Lenox-Iowa
+947142,1554,Iowa,Mr,Marengo City,MARENGO,Marengo
+947143,1558,Iowa,Pi,Pilot/Troy/York,PILOT,Pilot-Troy-York
+947144,1557,Iowa,Wm,Williamsburg,WILLIAMSBURG,Williamsburg
+947145,1342,Jackson,1,Jackson 1,JACKSON1,Jackson 1
+947146,1343,Jackson,2,Jackson 2,JACKSON2,Jackson 2
+947147,1344,Jackson,3,Jackson 3,JACKSON3,Jackson 3
+947148,1345,Jackson,4,Jackson 4,JACKSON4,Jackson 4
+947149,1346,Jackson,5,Jackson 5,JACKSON5,Jackson 5
+947150,1347,Jackson,6,Jackson 6,JACKSON6,Jackson 6
+947151,1348,Jackson,7,Jackson 7,JACKSON7,Jackson 7
+947152,1349,Jackson,8,Jackson 8,JACKSON8,Jackson 8
+947153,1350,Jackson,9,Jackson 9,JACKSON9,Jackson 9
+947154,1351,Jackson,10,Jackson 10,JACKSON10,Jackson 10
+947155,1352,Jackson,11,Jackson 11,JACKSON11,Jackson 11
+947156,1353,Jackson,12,Jackson 12,JACKSON12,Jackson 12
+947157,1354,Jackson,13,Jackson 13,JACKSON13,Jackson 13
+947158,1355,Jackson,14,Jackson 14,JACKSON14,Jackson 14
+947159,1356,Jackson,15,Jackson 15,JACKSON15,Jackson 15
+947160,1357,Jackson,16,Jackson 16,JACKSON16,Jackson 16
+947161,797,Jasper,Cf-1,Colfax Ward 1,PRECINCT2,Jasper County Precinct 2
+947162,798,Jasper,Nt1-1,Newton 1-1,PRECINCT11,Jasper County Precinct 11
+947163,799,Jasper,Nt1-2,Newton 1-2,PRECINCT12,Jasper County Precinct 12
+947164,796,Jasper,Cf-2,Colfax Ward 2,PRECINCT3,Jasper County Precinct 3
+947165,800,Jasper,Nt2-1,Newton 2-1,PRECINCT13,Jasper County Precinct 13
+947166,801,Jasper,Nt2-2,Newton 2-2,PRECINCT14,Jasper County Precinct 14
+947167,795,Jasper,Cf-3,Colfax Ward 3,PRECINCT4,Jasper County Precinct 4
+947168,802,Jasper,Nt3-1,Newton 3-1,PRECINCT15,Jasper County Precinct 15
+947169,803,Jasper,Nt3-2,Newton 3-2,PRECINCT16,Jasper County Precinct 16
+947170,804,Jasper,Nt4-1,Newton 4-1,PRECINCT17,Jasper County Precinct 17
+947171,805,Jasper,Nt4-2,Newton 4-2,PRECINCT18,Jasper County Precinct 18
+947173,789,Jasper,Cp,Clear Creek/Poweshiek,PRECINCT1,Jasper County Precinct 1
+947174,790,Jasper,Dm,Des Moines,PRECINCT5,Jasper County Precinct 5
+947175,791,Jasper,Fv,Fairview,PRECINCT7,Jasper County Precinct 7
+947176,792,Jasper,Hr,HG/K/RC/BV/RL,PRECINCT8,Jasper County Precinct 8
+947179,793,Jasper,Mw,Mound Prairie/Washington,PRECINCT10,Jasper County Precinct 10
+947180,794,Jasper,Ns,Newton/Sherman,PRECINCT19,Jasper County Precinct 19
+947181,1150,Jasper,Pa,Palo Alto,PRECINCT20,Jasper County Precinct 20
+947182,923,Jefferson,Bh-Po,Blackhawk-Polk-Packwood,BLACKHAWK,Black Hawk-Polk
+947183,978,Jefferson,Bu,Buchanan Township,BUCHANAN,Buchanan
+947184,927,Jefferson,Ct,Center-Cedar-Maharishi Vedic City,CENTERCEDAR,Center-Cedar
+947185,924,Jefferson,Dm,Des Moines-Liberty-Libertyville,DESMOINES,Des Moines-Liberty
+947186,930,Jefferson,Ff1,Fairfield 1st Ward,FAIRFIELD1,Fairfield 1
+947187,928,Jefferson,Ff2,Fairfield 2nd Ward,FAIRFIELD2,Fairfield 2
+947188,922,Jefferson,Ff3,Fairfield 3rd Ward,FAIRFIELD3,Fairfield 3
+947189,931,Jefferson,Ff4,Fairfield 4th Ward,FAIRFIELD4,Fairfield 4
+947190,929,Jefferson,Ff5,Fairfield 5th Ward,FAIRFIELD5,Fairfield 5
+947191,925,Jefferson,Lg,Locust Grove-Batavia,LOCUSTGROVE,Locust Grove
+947194,818,Johnson,Bg,BIG GROVE TOWNSHIP,BIGGROVE,Johnson County Big Grove Precinct
+947195,835,Johnson,Cc,CLEAR CREEK/TIFFIN,CLEARCREEK,Johnson County Clear Creek Precinct
+947196,819,Johnson,Ce,CEDAR TOWNSHIP,CEDAR,Johnson County Cedar Precinct
+947197,833,Johnson,Cv.01,CORALVILLE 01,CV1,Johnson County Coralville Precinct 1
+947198,831,Johnson,Cv.02,CORALVILLE 02,CV2,Johnson County Coralville Precinct 2
+947199,828,Johnson,Cv.03,CORALVILLE 03,CV3,Johnson County Coralville Precinct 3
+947200,1626,Johnson,Cv.04,CORALVILLE 04,CV4,Johnson County Coralville Precinct 4
+947201,832,Johnson,Cv.05,CORALVILLE 05,CV5,Johnson County Coralville Precinct 5
+947202,829,Johnson,Cv.06,CORALVILLE 06,CV6,Johnson County Coralville Precinct 6
+947203,836,Johnson,Fr,FREMONT-LINCOLN (INCLUDES,FREMNTLINCLN,Johnson County Fremont Lincoln
+947204,820,Johnson,Gr,GRAHAM TOWNSHIP,GRAHAM,Johnson County Graham Precinct
+947205,837,Johnson,Hd,HARDIN TOWNSHIP,HARDIN,Johnson County Hardin Precinct
+947206,984,Johnson,Ic.01,IOWA CITY 01,IC1,Johnson County Iowa City Precinct 1
+947207,992,Johnson,Ic.02,IOWA CITY 02,IC2,Johnson County Iowa City Precinct 2
+947208,991,Johnson,Ic.03,IOWA CITY 03,IC3,Johnson County Iowa City Precinct 3
+947209,989,Johnson,Ic.04,IOWA CITY 04,IC4,Johnson County Iowa City Precinct 4
+947210,980,Johnson,Ic.05,IOWA CITY 05,IC5,Johnson County Iowa City Precinct 5
+947211,1000,Johnson,Ic.06,IOWA CITY 06,IC6,Johnson County Iowa City Precinct 6
+947212,825,Johnson,Ic.07,IOWA CITY 07,IC7,Johnson County Iowa City Precinct 7
+947213,834,Johnson,Ic.08,IOWA CITY 08,IC8,Johnson County Iowa City Precinct 8
+947214,826,Johnson,Ic.09,IOWA CITY 09,IC9,Johnson County Iowa City Precinct 9
+947215,995,Johnson,Ic.10,IC 10/ELSW,IC10,Johnson County Iowa City Precinct 10
+947216,994,Johnson,Ic.11,IOWA CITY 11,IC11,Johnson County Iowa City 11 Precinct
+947217,996,Johnson,Ic.12,IC 12/EAST LUCAS SE,IC12,Johnson County Iowa City Precinct 12
+947218,993,Johnson,Ic.13,IOWA CITY 13,IC13,Johnson County Iowa City Precinct 13
+947219,998,Johnson,Ic.14,IOWA CITY 14,IC14,Johnson County Iowa City Precinct 14
+947220,997,Johnson,Ic.15,IOWA CITY 15,IC15,Johnson County Iowa City Precinct 15
+947221,986,Johnson,Ic.16,IOWA CITY 16,IC16,Johnson County Iowa City Precinct 16
+947222,983,Johnson,Ic.17,IOWA CITY 17,IC17,Johnson County Iowa City Precinct 17
+947223,999,Johnson,Ic.18,IOWA CITY 18,IC18,Johnson County Iowa City Precinct 18
+947224,982,Johnson,Ic.19,IOWA CITY 19,IC19,Johnson County Iowa City Precinct 19
+947225,981,Johnson,Ic.20,IOWA CITY 20,IC20,Johnson County Iowa City Precinct 20
+947226,985,Johnson,Ic.21,IOWA CITY 21,IC21,Johnson County Iowa City Precinct 21
+947227,988,Johnson,Ic.22,IOWA CITY 22,IC22,Johnson County Iowa City Precinct 22
+947228,990,Johnson,Ic.23,IOWA CITY 23,IC23,Johnson County Iowa City Precinct 23
+947229,987,Johnson,Ic.24,IOWA CITY 24,IC24,Johnson County Iowa City Precinct 24
+947231,838,Johnson,Je,JEFFERSON EAST/SHUEYVILLE,JEFFERSONEST,Johnson County Jefferson East Precinct
+947232,839,Johnson,Jw,JW/MN/SW,JEFFERSONWST,Johnson County Jefferson West Precinct
+947233,1623,Johnson,Lb,LIBERTY-PLEASANT VALLEY,LIBPLVALLEY,Johnson County Liberty Pleasant Valley Prec
+947237,844,Johnson,Nl.01,NORTH LIBERTY 01,NL1,Johnson County North Liberty Precinct 1
+947238,846,Johnson,Nl.02,NORTH LIBERTY 02,NL2,Johnson County North Liberty Precinct 2
+947239,821,Johnson,Np,NEWPORT TOWNSHIP,NEWPORT,Johnson County Newport Precinct
+947240,840,Johnson,Ox,OXFORD TOWNSHIP/OXFORD,OXFORD,Johnson County Oxford Precinct
+947241,827,Johnson,Pn,PENN/ EAST LUCAS NORTH,PENN,Johnson County Penn Precinct
+947243,822,Johnson,Sc,SCOTT TWP-WEST BRANCH,SCOTT,Johnson County Scott Precinct
+947244,841,Johnson,Sn,SHARON TOWNSHIP,SHARON,Johnson County Sharon Precinct
+947245,823,Johnson,So,SOLON,SOLON,Johnson County Solon Precinct
+947247,1002,Johnson,Uh,UNIVERSITY HEIGHTS,UNIVHEIGHTS,Johnson County University Heights Precinct
+947248,1624,Johnson,Un,UNION TOWNSHIP,UNION,Johnson County Union Precinct
+947249,1625,Johnson,Wl,WEST LUCAS TOWNSHIP,WESTLUCAS,Johnson County West Lucas Precinct
+947250,842,Johnson,Ws,WASHINGTON TOWNSHIP,WASHINGTON,Johnson County Washington Precinct
+947257,1336,Jones,Gf,GF-GREENFIELD,GREENFIELD,Greenfield
+947258,1571,Jones,Mn1,MN1-MONTICELLO 1,MONTICELLO1,Monticello 1
+947259,1572,Jones,Mn2,MN2-MONTICELLO 2,MONTICELLO2,Monticello 2
+947260,1573,Jones,Mn3,MN3-MONTICELLO 3,MONTICELLO3,Monticello 3
+947261,1574,Jones,Mn4,MN4-MONTICELLO 4,MONTICELLO4,Monticello 4
+947263,1337,Jones,Ox,OX-OXFORD,OXFORD,Oxford
+947264,1338,Jones,Rlws,RLWS-RICHLAND WASHINGTON,RICHLAND,Richland/Washington
+947265,1339,Jones,Roha,ROHA-ROME/HALE,ROME-HALE,Rome/Hale
+947267,1341,Jones,Wy,WY-WYOMING,WYOMING,Wyoming
+947268,1643,Keokuk,Ad,Adams,KC1,Adams
+947269,1644,Keokuk,Bn,Benton/Steady Run,KC2,Benton Steady Run
+947271,1645,Keokuk,Er,English River/Liberty,KC3,English River Liberty
+947272,1646,Keokuk,Ja,Jackson,KC4,Jackson
+947273,858,Keokuk,Lc,East/West Lancaster,KC6,East West Lancaster
+947274,859,Keokuk,Pr,Prairie,KC7,Prairie
+947275,860,Keokuk,Rl,Richland,KC8,Richland
+947276,1639,Keokuk,Sg1,Sigourney 1st Ward,SIG1,Sigourney Precinct/Ward 1
+947277,1640,Keokuk,Sg2,Sigourney 2nd Ward,SIG2,Sigourney Precinct/Ward 2
+947278,1641,Keokuk,Sg3,Sigourney 3rd Ward,SIG3,Sigourney Precinct/Ward 3
+947279,1642,Keokuk,Sg4,Sigourney 4th Ward,SIG4,Sigourney Precinct/Ward 4
+947280,861,Keokuk,Sgr,Sigourney/Plank/Van Buren,KC9,Sigourney Plank VanBuren
+947281,863,Keokuk,Wc,What Cheer/Washington,KC15,What Cheer Washington
+947283,862,Keokuk,Wn,Warren,KC14,Warren
+947284,308,Kossuth,Al1,AL1,KOSSUTH17,Kossuth 17/Algona 1
+947285,307,Kossuth,Al2,AL2,KOSSUTH18,Kossuth 18/Algona 2
+947286,305,Kossuth,Al3,AL3,KOSSUTH19,Kossuth 19/Algona 3
+947287,313,Kossuth,Al4,AL4,KOSSUTH20,Kossuth 20/Algona 4
+947288,277,Kossuth,Bf,BF- PT,KOSSUTH6,Kossuth 6
+947290,311,Kossuth,Bt,BT- FT- UN,KOSSUTH5,Kossuth 5
+947291,269,Kossuth,Cr,CR- IV- RV,KOSSUTH13,Kossuth 13
+947292,312,Kossuth,Eg,EG- GT- HS- SW,KOSSUTH1,Kossuth 1
+947295,270,Kossuth,Gf,GF- WM,KOSSUTH12,Kosusth 12
+947296,309,Kossuth,Gw,GW- SN,KOSSUTH3,Kossuth 3
+947297,306,Kossuth,Hb,HB- LY- LN- SF,KOSSUTH2,Kossuth 2
+947298,272,Kossuth,IV,IV- PC,KOSSUTH10,Kossuth 10
+947299,276,Kossuth,Lc,LC,KOSSUTH7,Kossuth 7
+947300,268,Kossuth,Lv,LV- SM,KOSSUTH14,Kossuth 14
+947301,310,Kossuth,Pc,PC,KOSSUTH8,Kpossuth 8
+947306,951,Lee,Fm1,FM1,FM1,Fort Madison 1
+947307,953,Lee,Fm2,FM2,FM2,Fort Madison 2
+947308,954,Lee,Fm3,FM3,FM3,Fort Madison 3
+947309,955,Lee,Fm4a,FM4A,FM4A,Fort Madison 4a
+947310,952,Lee,Fm5,FM5,FM5,Fort Madison ward 5/precinct 6
+947311,957,Lee,Ke1,KE1,KEOKUK1,Keokuk 1
+947312,964,Lee,Ke2a,KE2B,KEOKUK3,Keokuk 3
+947313,959,Lee,Ke3,KE3,KEOKUK4,Keokuk 4
+947314,960,Lee,Ke4,KE4,KEOKUK5,Keokuk 5
+947315,961,Lee,Ke5,KE5,KEOKUK6,Keokuk 6
+947316,962,Lee,Ke6,KE6,KEOKUK7,Keokuk 7
+947317,963,Lee,Ke7,KE7,KEOKUK8,Keokuk 8
+947318,975,Lee,Fr Ce,PILOT GROVE BANK COMM A,FCM,Franklin/Cedar/Marion
+947319,948,Lee,Jk,Jackson,JACKSON,Jackson
+947320,949,Lee,Jf,Jefferson,JEFFERSON,Jefferson
+947321,950,Lee,Mo,Montrose,MONTROSE,Montrose
+947401,1593,Linn,Mvn,Mount Vernon north,MVNORTH,Mount Vernon north
+947402,1594,Linn,Mvs,Mount Vernon South,MVSOUTH,Mount Vernon South
+947409,1154,Louisa,Cj,Columbus Junction,COLJUNC,Columbus Junction
+947412,1155,Louisa,Gv,Grandview-Port Louisa,GRANDVIEW,Grandview Port Louisa
+947413,1156,Louisa,Ms,Morning Sun - Marshall,MORNINGSUN,Morning Sun Marshall
+947414,1158,Louisa,Wl,West Louisa,WESTLOUISA,West Louisa
+947417,1134,Lucas,C1,Chariton Precinct 1,CHAR1,Chariton Precinct 1
+947418,1135,Lucas,C2,Chariton Precinct 2,CHAR2,Chariton Precinct 2
+947421,1132,Lucas,Ex,Lucas-Extension Office Precinct,LUCAS3,Lucas-Extension Office Precinct
+947422,1133,Lucas,Lc,Lucas,LUCAS4,Lucas-Lucas Precinct
+947423,1152,Lucas,Rs,City of Russell- Cedar and Washington Townships,LUCAS6,Lucas-Russell precinct
+947424,1153,Lucas,Wm,Williamson,LUCAS7,Lucas-Williamson precinct
+947425,42,Lyon,P1,Lyon County Precinct 1,LYON1,Lyon County Precinct 1
+947426,43,Lyon,P2,Lyon County Precinct 2,LYON2,Lyon County Precinct 2
+947427,44,Lyon,P3,Lyon County Precinct 3,LYON3,Lyon County Precinct 3
+947428,45,Lyon,P4,Lyon County Precinct 4,LYON4,Lyon County Precinct 4
+947429,46,Lyon,P5,Lyon County Precinct 5,LYON5,Lyon County Precinct 5
+947430,49,Lyon,P6,Lyon County Precinct 6,LYON6,Lyon County Precinct 6
+947431,47,Lyon,P7,Lyon County Precinct 7,LYON7,Lyon County Precinct 7
+947432,48,Lyon,P8,Lyon County Precinct 8,LYON8,Lyon County Precinct 8
+947435,708,Madison,Jl,Jefferson-Lee,JEFFERSONLEE,Jefferson-Lee
+947436,707,Madison,Pm,Penn-Madison,PENNMADISON,Penn-Madison
+947440,713,Madison,Wo,Walnut-Ohio,WALNUTOHIO,Walnut-Ohio
+947441,706,Madison,Wt1,Winterset 1,WINTERSET1,Winterset 1
+947442,705,Madison,Wt2,Winterset 2,WINTERSET2,Winterset 2
+947443,886,Mahaska,Ad,AD/MN/PG/UN,MAHASKA1,Mahaska County Precinct 1
+947444,898,Mahaska,Bo,BO/ST,MAHASKA2,Mahaska County Precinct 2
+947445,887,Mahaska,Ce,CE/HA/WO,MAHASKA3,Mahaska County Precinct 3
+947446,899,Mahaska,Ed,E-W DM/JF,MAHASKA4,Mahaska County Precinct 4
+947447,888,Mahaska,Gf,GF/LN/MD,MAHASKA6,Mahaska County Precinct 6
+947448,900,Mahaska,Os1,Oskaloosa 1st Ward,MAHASKA7,Mahaska County Precinct 7
+947449,901,Mahaska,Os2,Oskaloosa 2nd Ward,MAHASKA8,Mahaska County Precinct 8
+947450,902,Mahaska,Os3,OS3/UP,MAHASKA9,Mahaska County Precinct 9
+947451,903,Mahaska,Os4,OS4/LN,MAHASKA10,Mahaska County Precinct 10
+947452,905,Mahaska,Pr,PR/RL,MAHASKA11,Mahaska County Precinct 11
+947453,904,Mahaska,Sp,SP/KE,MAHASKA5,Mahaska County Precinct 5
+947454,1137,Marion,Da,Dallas,DALLAS,Dallas
+947455,1142,Marion,In,Indiana Township,INDIANANA,Indiana
+947456,1144,Marion,Kx1,Knoxville One,KNOXVILLE1,Knoxville 1
+947457,1145,Marion,Kx2,Knoxville Two,KNOXVILLE2,Knoxville 2
+947458,1146,Marion,Kx3,Knoxville Three,KNOXVILLE3,Knoxville 3
+947459,1147,Marion,Kx4,Knoxville Four,KNOXVILLE4,Knoxville 4\
+947460,1140,Marion,Kxt,Knoxville Township,KNOXVILLE,Knoxville
+947461,1138,Marion,Lb,Liberty,LIBERTY,Liberty
+947462,893,Marion,Lp,Lake Prairie Township,LAKEPRAIRIE,Lake Prairie
+947463,894,Marion,Pe1,Pella One,PELLA1,Pella 1
+947464,896,Marion,Pe2,Pella Two,PELLA2,Pella 2
+947465,897,Marion,Pe3,Pella Three,PELLA3,Pella 3
+947466,895,Marion,Pe4,Pella Four,PELLA4,Pella 4
+947467,1141,Marion,Ws,Washington Township,WASHINGTON,Washington
+947478,1504,Marshall,19 Tc,TIMBER CREEK,TIMBERCREEK,Timber Creek
+947479,1497,Marshall,2 Ed-Lo,EDEN / LOGAN,EDEN-LOGAN,Eden/Logan
+947480,1498,Marshall,3 Gc,GREEN CASTLE,GREENCASTLE,Green Castle
+947487,679,Mills,Dr,Deer Creek/White Cloud,MILLS6,Mills-Deer Creek/White Cloud
+947488,677,Mills,Em,Emerson/Hastings/Indian Creek,MILLS1,Mills-Emerson/Hastings/Indian Creek
+947489,602,Mills,Gw1,Glenwood Ward 1,GLENWOOD1,Glenwood 1
+947490,667,Mills,Gw2,Glenwood Ward 2,GLENWOOD2,Glenwood 2
+947491,668,Mills,Gw3,Glenwood Ward 3,GLENWOOD3,Glenwood 3
+947492,678,Mills,Gwr,Glenwood Township,MILLS2,Mills-Glenwood township
+947493,680,Mills,Hn,Henderson/Anderson,MILLS7,Mills-Henderson/Anderson
+947494,681,Mills,Mv,Malvern/Tabor/Center Twp/Rawles Twp/Silver Creek,MILLS8,Mills-Malvern/Tabor/SliverCrk/Centr/Rawls
+947495,682,Mills,Ok,Oak/St. Mary,MILLS9,Mills-Oak/Saint Marys
+947496,683,Mills,Pj,Pacific Junction/Lyons/Platville,MILLS10,Mills-PacificJunction/Plattville/Lyons
+947497,684,Mills,Sv,Silver City/Ingraham,MILLS11,Mills-Silver City/Ingraham
+947498,1266,Mitchell,Bo,Mitchell 1,MITCHELL1,Mitchell 1
+947500,1267,Mitchell,Dg,Mitchell 2,MITCHELL2,Mitchell 2
+947501,1268,Mitchell,Jk,Mitchell 3,MITCHELL3,Mitchell 3
+947503,1265,Mitchell,Mt,Mitchell 4,MITCHELL4,Mitchell 4
+947504,1272,Mitchell,Os1,Osage 1,OSAGE1,Osage 1
+947505,1273,Mitchell,Os2,Osage 2,OSAGE2,Osage 2
+947506,1274,Mitchell,Os3,Osage 3,OSAGE3,Osage 3
+947507,1275,Mitchell,Os4,Osage 4,OSAGE4,Osage 4
+947509,1269,Mitchell,Ot,Mitchell 9,MITCHELL9,Mitchell 9
+947510,1270,Mitchell,Sa,Mitchell 10,MITCHELL10,Mitchell 10
+947511,1271,Mitchell,Sv,Mitchell 11,MITCHELL11,Mitchell 11
+947512,880,Monroe,Al1,No. 1-Albia First Ward,ALBIA1,Albia 1
+947513,881,Monroe,Al2,No. 2-Albia Second Ward,ALBIA2,Albia 2
+947514,884,Monroe,Al3,No. 3-Albia Third Ward,ALBIA3,Albia 3
+947515,885,Monroe,Al4,No. 4-Albia Fourth Ward,ALBIA4,Albia 4
+947516,597,Montgomery,1,Montgomery Precinct 1,MTGP1,Montgomery Precinct 1
+947517,598,Montgomery,2,Montgomery Precinct 2,MTGP2,Montgomery Precinct 2
+947518,599,Montgomery,3,Montgomery Precinct 3,MTGP3,Montgomery Precinct 3
+947519,600,Montgomery,4,Montgomery Precinct 4,MTGP4,Montgomery Precinct 4
+947520,601,Montgomery,5,Montgomery Precinct 5,MTGP5,Montgomery Precinct 5
+947521,577,Montgomery,6,Montgomery Precinct 6,MTGP6,Montgomery Precinct 6
+947522,578,Montgomery,7,Montgomery Precinct 7,MTG7,Montgomery Precinct 7
+947526,1205,Muscatine,F1,Fruitland One-City,FRUITLAND1,Muscatine County Fruitland 1 Precinct
+947529,1167,Muscatine,Go,Goshen-City,GOSHEN,Muscatine County Goshen Precinct
+947531,1194,Muscatine,Mu01,Muscatine First,MUSC1,Muscatine 1
+947532,1195,Muscatine,Mu02,Muscatine Second,MUSC2,Muscatine 2
+947533,1196,Muscatine,Mu03,Muscatine Third,MUSC3,Muscatine 3
+947534,1197,Muscatine,Mu04,Muscatine Fourth,MUSC4,Muscatine 4
+947535,1198,Muscatine,Mu05,Muscatine Fifth,MUSC5,Muscatine 5
+947536,1199,Muscatine,Mu06,Muscatine Sixth,MUSC6,Muscatine 6
+947537,1200,Muscatine,Mu07,Muscatine Seventh,MUSC7,Muscatine 7
+947538,1201,Muscatine,Mu08,Muscatine Eighth,MUSC8,Muscatine 8
+947539,1202,Muscatine,Mu09,Muscatine Ninth,MUSC9,Muscatine 9
+947540,1203,Muscatine,Mu10,Muscatine Tenth,MUSC10,Muscatine 10
+947541,1168,Muscatine,Or,Orono-City,ORONO,Muscatine County Orono Precinct
+947542,1169,Muscatine,Pi,Pike-City,PIKE,Muscatine County Pike Precinct
+947543,1207,Muscatine,Sw,Wilton City,SWEETLAND,Muscatine County Sweetland Precinct
+947545,824,Muscatine,Wc,Wilton,WILTONCITY,Muscatine County Wilton City Precinct
+947547,1171,Muscatine,Wtmw,Wilton/Moscow-Wilton,MOSCOWWILTON,Muscatine County Moscow/ Wilton Precinct
+947548,61,O'Brien,P1,Carroll-Floyd,OBRIEN1,O'Brien 1 - Carroll-Floyd
+947549,62,O'Brien,P2,Franklin,OBRIEN2,O'Brien 2 - Franklin
+947550,63,O'Brien,P3,Hartley-Lincoln-Omega,OBRIEN3,O'Brien 3 - Hartley-Lincoln-Omega
+947551,58,O'Brien,P4,Sheldon 1st Ward,OBRIEN4,O'Brien 4 -Sheldon 1
+947552,59,O'Brien,P5,Sheldon 2nd Ward,OBRIEN5,O'Brien 5 - Sheldon 2
+947553,60,O'Brien,P6,Sheldon 3rd Ward,OBRIEN6,O'Brien 6 - Sheldon 3
+947554,64,O'Brien,P7,Summit-Center-Dale-Highland,OBRIEN7,O'Brien 7 - Summit-Center-Dale-Highland
+947555,65,O'Brien,P8,Union-Baker-Caledonia,OBRIEN8,O'Brien 8 - Union-Baker-Caledonia
+947556,66,O'Brien,P9,Waterman-Grant-Liberty,OBRIEN9,O'Brien 9 - Waterman-Grant-Liberty
+947557,36,Osceola,Mc,May City Precint 0300,MAYCITY,May City
+947558,34,Osceola,At,Ashton Precinct 0100,ASHTON,Ashton
+947560,35,Osceola,Ha,Harris Precinct 0200,HARRIS,Harris
+947561,37,Osceola,Mv,Melvin Precinct 0400,MELVIN,Melvin
+947562,38,Osceola,Ox,Ocheyedan Precinct 0500,OCHEYEDAN,Ocheyedan
+947567,1707,Page,Cl1,Clarinda Ward 1,CLARINDA1,Clarinda 1
+947568,1708,Page,Cl2,Clarinda Ward 2,CLARINDA2,Clarinda 2
+947571,1705,Page,Er,Am-Bu-ER-Doug-Har-Neb-Nod-Val-Brad-CS-He-Sh-Yt,EASTRIVER,East River
+947572,1706,Page,Gt,Cx-Gr-Linc-Mort-Tarkio-Wash-Blan-Coin-Nboro,GRANT,Grant
+947573,1704,Page,Pc,"Pierce and Fremont Townships, Essex",PIERCE,Pierce
+947574,1709,Page,Sd1,Shenandoah 1,SHENANDOAH1,Shenandoah 1
+947575,1710,Page,Sd2,Shenandoah 2,SHENANDOAH2,Shenandoah 2
+947576,1711,Page,Sd3,Shenandoah 3,SHENANDOAH3,Shenandoah 3
+947578,18,Palo Alto,Em1,Emmetsburg Ward 1,EMMETSBURG1,Emmetsburg 1
+947579,17,Palo Alto,Em2,Emmetsburg Ward 2,EMMETSBURG2,Emmetsburg 2
+947580,21,Palo Alto,Em3,EM Ward 3/Ayrshire/pt. HL&WL&EM,EMMETSBURG3,Emmetsburg 3
+947581,22,Palo Alto,Em4,EM Ward 4/FV/FR/VN/pt. EM,EMMETSBURG4,Emmetsburg 4
+947583,19,Palo Alto,Wb,City of WB/EL/RL/BO/GO/NV,PALOALTO6,Palo Alto 6
+947584,252,Plymouth,Ak,Plymouth 1,PLYMOUTH1,Plymouth 1
+947585,254,Plymouth,Bv,Plymouth 4,PLYMOUTH4,Plymouth 4
+947587,258,Plymouth,Ht,Plymouth 9,PLYMOUTH9,Plymouth 9
+947588,259,Plymouth,Kl,Plymouth 10,PLYMOUTH10,Plymouth 10
+947589,257,Plymouth,Py,Plymouth 8,PLYMOUTH8,Plymouth 8
+947590,1616,Plymouth,Rm,Plymouth 5,PLYMOUTH5,Plymouth 5
+947591,376,Pocahontas,Bv,Bellville-Lizard-S Lake-S Lincoln,P7,Pocahontas County Precinct 7
+947592,375,Pocahontas,Cd,Cedar-Colfax-Dover,P6,Pocahontas County Precinct 6
+947594,377,Pocahontas,Dm,DSM-Cummins-Pow-N Garf-N Sherm-N Roose,P2,Pocahontas County Precinct 2
+947596,378,Pocahontas,Gt,Grant-S Marshall-S Sherman,P3,Pocahontas Precinct 3
+947598,373,Pocahontas,Ph1,Pocahontas #1,P4,Pocahontas Precinct 4
+947599,374,Pocahontas,Ph2,Pocahontas #2,P5,Pocahontas County Precinct 5
+947601,372,Pocahontas,Sw,Swan Lake-N Marshall,P1,Pocahontas County Precinct 1
+947602,1017,Polk,Dm 001,DES MOINES-1,DSM1,Des Moines Precinct 1
+947603,747,Polk,Dm 002,DES MOINES-2,DSM2,Des Moines Precinct 2
+947604,738,Polk,Dm 003,DES MOINES-3,DSM3,Des Moines Precinct 3
+947605,739,Polk,Dm 004,DES MOINES-4,DSM4,Des Moines Precinct 4
+947606,604,Polk,Dm 005,DES MOINES-5,DSM5,Des Moines Precinct 5
+947607,605,Polk,Dm 006,DES MOINES-6,DSM6,Des Moines Precinct 6
+947608,1631,Polk,Dm 007,DES MOINES-7,DSM7,Des Moines Precinct 7
+947609,606,Polk,Dm 008,DES MOINES-8,DSM8,Des Moines Precinct 8
+947610,1003,Polk,Dm 009,DES MOINES-9,DSM9,Des Moines Precinct 9
+947611,1004,Polk,Dm 010,DES MOINES-10,DSM10,Des Moines Precinct 10
+947612,1005,Polk,Dm 011,DES MOINES-11,DSM11,Des Moines Precinct 11
+947613,1006,Polk,Dm 012,DES MOINES-12,DSM12,Des Moines Precinct 12
+947614,612,Polk,Dm 013,DES MOINES-13,DSM13,Des Moines Precinct 13
+947615,613,Polk,Dm 014,DES MOINES-14,DSM14,Des Moines Precinct 14
+947616,614,Polk,Dm 015,DES MOINES-15,DSM15,Des Moines Precinct 15
+947617,615,Polk,Dm 016,DES MOINES-16,DSM16,Des Moines Precinct 16
+947618,607,Polk,Dm 017,DES MOINES-17,DSM17,Des Moines Precinct 17
+947619,608,Polk,Dm 018,DES MOINES-18,DSM18,Des Moines Precinct 18
+947620,609,Polk,Dm 019,DES MOINES-19,DSM19,Des Moines Precinct 19
+947621,740,Polk,Dm 020,DES MOINES-20,DSM20,Des Moines Precinct 20
+947622,741,Polk,Dm 021,DES MOINES-21,DSM21,Des Moines Precinct 21
+947623,748,Polk,Dm 022,DES MOINES-22,DSM22,Des Moines Precinct 22
+947624,749,Polk,Dm 023,DES MOINES-23,DSM23,Des Moines Precinct 23
+947625,743,Polk,Dm 024,DES MOINES-24,DSM24,Des Moines Precinct 24
+947626,744,Polk,Dm 025,DES MOINES-25,DSM25,Des Moines Precinct 25
+947627,750,Polk,Dm 026,DES MOINES-26,DSM26,Des Moines Precinct 26
+947628,751,Polk,Dm 027,DES MOINES-27,DSM27,Des Moines Precinct 27
+947629,752,Polk,Dm 028,DES MOINES-28,DSM28,Des Moines Precinct 28
+947630,1632,Polk,Dm 029,DES MOINES-29,DSM29,Des Moines Precinct 29
+947631,753,Polk,Dm 030,DES MOINES-30,DSM30,Des Moines Precinct 30
+947632,754,Polk,Dm 031,DES MOINES-31,DSM31,Des Moines Precinct 31
+947633,755,Polk,Dm 032,DES MOINES-32,DSM32,Des Moines Precinct 32
+947634,745,Polk,Dm 033,DES MOINES-33,DSM33,Des Moines Precinct 33
+947635,788,Polk,Dm 034,DES MOINES-34,DSM34,Des Moines Precinct 34
+947636,610,Polk,Dm 035,DES MOINES-35,DSM35,Des Moines Precinct 35
+947637,611,Polk,Dm 036,DES MOINES-36,DSM36,Des Moines Precinct 36
+947638,785,Polk,Dm 037,DES MOINES-37,DSM37,Des Moines Precinct 37
+947639,786,Polk,Dm 038,DES MOINES-38,DSM38,Des Moines Precinct 38
+947640,616,Polk,Dm 039,DES MOINES-39,DSM39,Des Moines Precinct 39
+947641,1063,Polk,Dm 040,DES MOINES-40,DSM40,Des Moines Precinct 40
+947642,617,Polk,Dm 041,DES MOINES-41,DSM41,Des Moines Precinct 41
+947643,618,Polk,Dm 042,DES MOINES-42,DSM42,Des Moines Precinct 42
+947644,1052,Polk,Dm 043,DES MOINES-43,DSM43,Des Moines Precinct 43
+947645,1050,Polk,Dm 044,DES MOINES-44,DSM44,Des Moines Precinct 44
+947646,1051,Polk,Dm 045,DES MOINES-45,DSM45,Des Moines Precinct 45
+947647,787,Polk,Dm 046,DES MOINES-46,DSM46,Des Moines Precinct 46
+947648,746,Polk,Dm 047,DES MOINES-47,DSM47,Des Moines Precinct 47
+947649,760,Polk,Dm 048,DES MOINES-48,DSM48,Des Moines Precinct 48
+947650,761,Polk,Dm 049,DES MOINES-49,DSM49,Des Moines Precinct 49
+947651,762,Polk,Dm 050,DES MOINES-50,DSM50,Des Moines Precinct 50
+947652,763,Polk,Dm 051,DES MOINES-51,DSM51,Des Moines Precinct 51
+947653,764,Polk,Dm 052,DES MOINES-52,DSM52,Des Moines Precinct 52
+947654,765,Polk,Dm 053,DES MOINES-53,DSM53,Des Moines Precinct 53
+947655,766,Polk,Dm 054,DES MOINES-54,DSM54,Des Moines Precinct 54
+947656,775,Polk,Dm 055,DES MOINES-55,DSM55,Des Moines Precinct 55
+947657,776,Polk,Dm 056,DES MOINES-56,DSM56,Des Moines Precinct 56
+947658,1053,Polk,Dm 057,DES MOINES-57,DSM57,Des Moines Precinct 57
+947659,1054,Polk,Dm 058,DES MOINES-58,DSM58,Des Moines Precinct 58
+947660,1055,Polk,Dm 059,DES MOINES-59,DSM59,Des Moines Precinct 59
+947661,1056,Polk,Dm 060,DES MOINES-60,DSM60,Des Moines Precinct 60
+947662,1057,Polk,Dm 061,DES MOINES-61,DSM61,Des Moines Precinct 61
+947663,1058,Polk,Dm 062,DES MOINES-62,DSM62,Des Moines Precinct 62
+947664,1059,Polk,Dm 063,DES MOINES-63,DSM63,Des Moines Precinct 63
+947665,1060,Polk,Dm 064,DES MOINES-64,DSM64,Des Moines Precinct 64
+947666,1061,Polk,Dm 065,DES MOINES-65,DSM65,Des Moines Precinct 65
+947667,777,Polk,Dm 066,DES MOINES-66,DSM66,Des Moines Precinct 66
+947668,767,Polk,Dm 067,DES MOINES-67,DSM67,Des Moines Precinct 67
+947669,778,Polk,Dm 068,DES MOINES-68,DSM68,Des Moines Precinct 68
+947670,768,Polk,Dm 069,DES MOINES-69,DSM69,Des Moines Precinct 69
+947671,769,Polk,Dm 070,DES MOINES-70,DSM70,Des Moines Precinct 70
+947672,770,Polk,Dm 071,DES MOINES-71,DSM71,Des Moines Precinct 71
+947673,722,Polk,Dm 072,DES MOINES-72,DSM72,Des Moines Precinct 72
+947674,771,Polk,Dm 073,DES MOINES-73,DSM73,Des Moines Precinct 73
+947675,772,Polk,Dm 074,DES MOINES-74,DSM74,Des Moines Precinct 74
+947676,773,Polk,Dm 075,DES MOINES-75,DSM75,Des Moines Precinct 75
+947677,774,Polk,Dm 076,DES MOINES-76,DSM76,Des Moines Precinct 76
+947678,779,Polk,Dm 077,DES MOINES-77,DSM77,Des Moines Precinct 77
+947679,780,Polk,Dm 078,DES MOINES-78,DSM78,Des Moines Precinct 78
+947680,781,Polk,Dm 079,DES MOINES-79,DSM79,Des Moines Precinct 79
+947681,782,Polk,Dm 080,DES MOINES-80,DSM80,Des Moines Precinct 80
+947682,783,Polk,Dm 081,DES MOINES-81,DSM81,Des Moines Precinct 81
+947683,1062,Polk,Dm 082,DES MOINES-82,DSM82,Des Moines Precinct 82
+947684,784,Polk,Dm 083,DES MOINES-83,DSM83,Des Moines Precinct 83
+947685,603,Polk,Dm 084,DES MOINES-84,DSM84,Des Moines Precinct 84
+947704,724,Polk,Alt 1,ALTOONA-1,ALT1,Altoona Precinct 1
+947705,725,Polk,Alt 2,ALTOONA-2,ALT2,Altoona Precinct 2
+947706,723,Polk,Alt 3,ALTOONA-3,ALT3,Altoona Precinct 3
+947707,726,Polk,Alt 4,ALTOONA-4,ALT4,Altoona Precinct 4
+947708,1007,Polk,Ank 01,ANKENY-1,ANK1,Ankeny Precinct 1
+947709,1008,Polk,Ank 02,ANKENY-2,ANK2,Ankeny Precinct 2
+947710,1009,Polk,Ank 03,ANKENY-3,ANK3,Ankeny Precinct 3
+947711,1010,Polk,Ank 04,ANKENY-4,ANK4,Ankeny Precinct 4
+947712,1014,Polk,Ank 05,ANKENY-5,ANK5,Ankeny Precinct 5
+947713,1023,Polk,Ank 06,ANKENY-6,ANK6,Ankeny Precinct 6
+947714,1025,Polk,Ank 07,ANKENY-7,ANK7,Ankeny Precinct 7
+947715,1022,Polk,Ank 08,ANKENY-8,ANK8,Ankeny Precinct 8
+947716,1024,Polk,Ank 09,ANKENY-9,ANK9,Ankeny Precinct 9
+947717,1011,Polk,Ank 10,ANKENY-10,ANK10,Ankeny Precinct 10
+947718,1012,Polk,Ank 11,ANKENY-11,ANK11,Ankeny Precinct 11
+947719,620,Polk,Ank 12,ANKENY-12,ANK12,Ankeny Precinct 12
+947720,736,Polk,Bond 1,BONDURANT-1,BONDURANT1,Polk County Bondurant Precinct 1
+947721,729,Polk,Clay 1,CLAY-1,CLAY1,Polk County Clay Precinct 1
+947722,1090,Polk,Clive 1,CLIVE-1,CLV1,Clive Precinct 1
+947723,1087,Polk,Clive 2,CLIVE-2,CLV2,Clive Precinct 2
+947724,1088,Polk,Clive 3,CLIVE-3,CLV3,Clive Precinct 3
+947725,1089,Polk,Clive 4,CLIVE-4,CLV4,Clive Precinct 4
+947727,1028,Polk,Del 1,DELAWARE-1,DELAWARE1,Polk County Delaware 1
+947728,759,Polk,Del 2,DELAWARE-2,DELAWARE2,Polk County Delaware Precinct 2
+947730,1016,Polk,Douglas,DOUGLAS-1,DOUGLAS1,Polk County Douglas 1
+947731,730,Polk,Elkhart,ELKHART-1,ELKHART1,Polk County Elkhart 1
+947732,737,Polk,Four Mi,FOUR MILE-1,FOURMILE1,Polk County Four Mile 1
+947733,731,Polk,Frankli,FRANKLIN-1,FRANKLIN1,Polk County Franklin 1
+947734,1042,Polk,Grimes1,GRIMES-1,GRIMES1,Grimes Precinct 1
+947735,1039,Polk,Grimes2,GRIMES-2,URB12,Urbandale Precinct 12
+947735,1043,Polk,Grimes2,GRIMES-2,GRIMES2,Grimes Precinct 2
+947736,1633,Polk,Jeff 1,JEFFERSON-1,JEFFERSON1,Polk County Jefferson 1
+947737,1044,Polk,John 1,JOHNSTON-1,JOHNSTON1,Polk County Johnston Precinct 1
+947738,1045,Polk,John 2,JOHNSTON-2,JOHNSTON2,Polk County Johnston Precinct 2
+947739,1048,Polk,John 3,JOHNSTON-3,JOHNSTON3,Polk County Johnston Precinct 3
+947740,732,Polk,Mitchel,MITCHELLVILLE-1,MITCHELLVIL1,Polk County Mitchellville 1
+947741,758,Polk,Ph 1,PLEASANT HILL-1,PH1,Pleasant Hill Precinct 1
+947742,756,Polk,Ph 2,PLEASANT HILL-2,PH2,Pleasant Hill Precinct 2
+947743,757,Polk,Ph 3,PLEASANT HILL-3,PH3,Pleasant Hill Precinct 3
+947744,507,Polk,Polk Ci,POLK CITY-1,POLKCITY,Polk County Polk City
+947745,733,Polk,Runnell,RUNNELLS-1,RUNNELLS1,Polk County Runnells 1
+947746,1019,Polk,Saylor1,SAYLOR-1,SAYLOR1,Polk County Saylor 1
+947747,1018,Polk,Saylor2,SAYLOR-2,SAYLOR2,Polk County Saylor 2/ Des Moines Prct 5A
+947749,506,Polk,Sheldah,SHELDAHL-1,UNIONSHELDL,Polk County Union Sheldahl
+947750,1037,Polk,Urb 01,URBANDALE-1,URB1,Urbandale Precinct 1
+947751,1036,Polk,Urb 02,URBANDALE-2,URB2,Urbandale Precinct 2
+947752,1038,Polk,Urb 03,URBANDALE-3,URB3,Urbandale Precinct 3
+947753,1040,Polk,Urb 04,URBANDALE-4,URB4,Urbandale Precinct 4
+947754,1033,Polk,Urb 05,URBANDALE-5,URB5,Urbandale Precinct 5
+947755,1034,Polk,Urb 06,URBANDALE-6,URB6,Urbandale Precinct 6
+947756,1031,Polk,Urb 07,URBANDALE-7,URB7,Urbandale Precinct 7
+947757,1032,Polk,Urb 08,URBANDALE-8,URB8,Urbandale Precinct 8
+947758,1035,Polk,Urb 09,URBANDALE-9,URB9,Urbandale Precinct 9
+947759,1030,Polk,Urb 10,URBANDALE-10,URB10,Urbandale Precinct 10
+947760,1029,Polk,Urb 11,URBANDALE-11,URB11,Urbandale Precinct 11
+947761,734,Polk,Wash 1,WASHINGTON-1,WASHINGTON,Polk County Washington
+947762,619,Polk,Wb 1,WEBSTER-1,WEBSTER1,Polk County Webster 1
+947763,1075,Polk,Wdm-111,WDM-111,WDM111,West Des Moines Precinct 111
+947764,1076,Polk,Wdm-112,WDM-112,WDM112,West Des Moines Precinct 112
+947765,1074,Polk,Wdm-113,WDM-113,WDM113,West Des Moines Precinct 113
+947766,1072,Polk,Wdm-114,WDM-114,WDM114,West Des Moines Precinct 114
+947767,1073,Polk,Wdm-115,WDM-115,WDM115,West Des Moines Precinct 115
+947768,1082,Polk,Wdm-116,WDM-116,WDM116,West Des Moines Precinct 116
+947769,1083,Polk,Wdm-211,WDM-211,WDM211,West Des Moines Precinct 211
+947770,1084,Polk,Wdm-212,WDM-212,WDM212,West Des Moines Precinct 212
+947771,1077,Polk,Wdm-213,WDM-213,WDM213,West Des Moines Precinct 213
+947774,1068,Polk,Wdm-311,WDM-311,WDM311,West Des Moines Precinct 311
+947775,1085,Polk,Wdm-312,WDM-312,WDM312,West Des Moines Precinct 312
+947776,1086,Polk,Wdm-313,WDM-313,WDM313,West Des Moines Precinct 313
+947777,1066,Polk,Wdm-314,WDM-314,WDM314,West Des Moines Precinct 314
+947778,1067,Polk,Wdm-315,WDM-315,WDM315,West Des Moines Precinct 315
+947779,1071,Polk,Wdm-316,WDM-316,WDM316,West Des Moines Precinct 316
+947780,1078,Polk,Whts 1,WINDSOR HEIGHTS-1,WH1,Windsor Heights Precinct 1
+947781,1079,Polk,Whts 2,WINDSOR HEIGHTS-2,WH2,Windsor Heights Precinct 2
+947782,1080,Polk,Whts 3,WINDSOR HEIGHTS-3,WH3,Windsor Heights Precinct 3
+947783,1114,Pottawattamie,Cb 01,CB 01,CB1,Council Bluffs 1
+947784,621,Pottawattamie,Cb 02,CB 02,CB2,Council Bluffs 2
+947785,622,Pottawattamie,Cb 03,CB 03,CB3,Council Bluffs 3
+947786,623,Pottawattamie,Cb 04,CB 04,CB4,Council Bluffs 4
+947787,624,Pottawattamie,Cb 05,CB 05,CB5,Council Bluffs 5
+947788,1103,Pottawattamie,Cb 06,CB 06,CB6,Council Bluffs 6
+947789,625,Pottawattamie,Cb 07,CB 07,CB7,Council Bluffs 7
+947790,1104,Pottawattamie,Cb 08,CB 08,CB8,Council Bluffs 8
+947791,1635,Pottawattamie,Cb 09,CB 09,CB9,Council Bluffs 9
+947793,1105,Pottawattamie,Cb 11,CB 11,CB11,Council Bluffs 11
+947794,1106,Pottawattamie,Cb 12,CB 12,CB12,Council Bluffs 12
+947795,1107,Pottawattamie,Cb 13,CB 13,CB13,Council Bluffs 13
+947796,1108,Pottawattamie,Cb 14,CB 14,CB14,Council Bluffs 14
+947797,626,Pottawattamie,Cb 15,CB 15,CB15,Council Bluffs 15
+947798,627,Pottawattamie,Cb 16,CB 16,CB16,Council Bluffs 16
+947799,628,Pottawattamie,Cb 17,CB 17,CB17,Council Bluffs 17
+947800,1109,Pottawattamie,Cb 18,CB 18,CB18,Council Bluffs 18
+947801,1110,Pottawattamie,Cb 19,CB 19,CB19,Council Bluffs 19
+947802,1111,Pottawattamie,Cb 20,CB 20,CB20,Council Bluffs 20
+947805,559,Pottawattamie,Carson,Carson,CARSON,Carson
+947807,555,Pottawattamie,Cresc,Crescent,CRESCENT,Crescent
+947808,565,Pottawattamie,Garner,Garner,GARNER,Garner
+947813,566,Pottawattamie,Lewis 1,Lewis 1,LEWIS1,Lewis 1
+947814,567,Pottawattamie,Lewis 2,Lewis 2,LEWIS2,Lewis 2
+947818,561,Pottawattamie,MacEdon,Macedonia,MACEDONIA,Macedonia
+947819,556,Pottawattamie,Minden,Minden,MINDEN,Minden
+947820,557,Pottawattamie,Neola,Neola,NEOLA,Neola
+947824,662,Poweshiek,2,BMWJ,BMWJ,BMWJ #2 - Poweshiek
+947825,663,Poweshiek,3,DRL,DRL,DRL #3 - Poweshiek
+947826,664,Poweshiek,4,MS,MS,MS #4 - Poweshiek
+947827,665,Poweshiek,5,CGWS,CGWS,CGWS #5 - Poweshiek
+947828,1561,Poweshiek,6,1ST WARD - 06.06GR,GRINNELL1,Grinnell 1 #6 - Poweshiek
+947829,1562,Poweshiek,7,2ND WARD - 07.07GR,GRINNELL2,Grinnell 2 #7 - Poweshiek
+947830,1564,Poweshiek,8,3RD WARD - 08.08GR,GRINNELL3,Grinnell 3 #8 - Poweshiek
+947831,1563,Poweshiek,9,4TH WARD - 09.09GR,GRINNELL4,Grinnell 4 #9 - Poweshiek
+947832,666,Poweshiek,10,JUPS,JUPS,JUPS #10 - Poweshiek
+947833,1560,Poweshiek,11,MONTEZUMA - 11.11MO,MONTEZUMA,Montezuma #11 - Poweshiek
+947834,582,Ringgold,At,Athens,ATHENS,Athens
+947835,583,Ringgold,Cl,Clinton,CLINTON,Clinton
+947836,585,Ringgold,M1,Mount Ayr 1,M1,M1
+947837,584,Ringgold,M2,Mount Ayr 2,M2,M2
+947838,580,Ringgold,Tg,Tingley,TINGLEY,Tingley
+947839,581,Ringgold,Un,Union,UNION,Union
+947840,579,Ringgold,Ws,Washington,WASHINGTON,Washington
+947841,388,Sac,1,Schaller,SCHALLER,Schaller
+947842,389,Sac,2,Nemaha,NEMAHA,Nemaha
+947843,390,Sac,3,Early,EARLY,Early
+947844,391,Sac,4,Sac City,SACCITY,Sac City
+947845,392,Sac,5,Lytton,LYTTON,Lytton
+947846,393,Sac,6,Odebolt,ODEBOLT,Odebolt
+947847,394,Sac,7,Lake View,LAKEVIEW,Lake View
+947848,395,Sac,8,Auburn,AUBURN,Auburn
+947849,396,Sac,9,Wall Lake,WALLLAKE,Wall Lake
+947850,1656,Scott,Ag,(AG) Allen's Grove Township,ALLENSGROVE,Allen's Grove
+947851,630,Scott,B11,(B11) City of Bettendorf,BW1P1,Bettendorf ward 1 precinct 1
+947852,1227,Scott,B12,(B12) City of Bettendorf,BW1P2,Bettendorf ward 1 precinct 2
+947853,631,Scott,B21,(B21) City of Bettendorf,BW2P1,Bettendorf ward 2 precinct 1
+947854,632,Scott,B22,(B22) City of Bettendorf,BW2P2,Bettendorf ward 2 precinct 2
+947855,1225,Scott,B31,(B31) City of Bettendorf,BW3P1,Bettendorf ward 3 precinct 1
+947856,1226,Scott,B32,(B32) City of Bettendorf,BW3P2,Bettendorf ward 3 precinct 2
+947857,1230,Scott,B41,(B41) City of Bettendorf,BW4P1,Bettendorf ward 4 precinct 1
+947858,1229,Scott,B42,(B42) City of Bettendorf,BW4P2,Bettendorf ward 4 precinct 2
+947859,1224,Scott,B51,(B51) City of Bettendorf,BW5P1,Bettendorf ward 5 precinct 1
+947860,1223,Scott,B52,(B52) City of Bettendorf,BW5P2,Bettendorf ward 5 precinct 2
+947861,1209,Scott,Bg,(BG) Blue Grass Township,BLUEGRASS,Blue Grass
+947863,1652,Scott,Bf,(BF) City of Buffalo,BUFFALO,Buffalo
+947864,1210,Scott,Bu,(BU) Buffalo Township,BUFFALOTWP,Buffalo Township
+947868,1627,Scott,D11,(D11) City of Davenport,DAVENPORT11,Davenport 11
+947869,1184,Scott,D12,(D12) City of Davenport,DAVENPORT12,Davenport 12
+947870,1653,Scott,D13,(D13) City of Davenport,DAVENPORT13,Davenport 13
+947871,1654,Scott,D14,(D14) City of Davenport,DAVENPORT14,Davenport 14
+947872,1217,Scott,D21,(D21) City of Davenport,DAVENPORT21,Davenport 21
+947873,1185,Scott,D22,(D22) City of Davenport,DAVENPORT22,Davenport 22
+947874,1186,Scott,D23,(D23) City of Davenport,DAVENPORT23,Davenport 23
+947875,1187,Scott,D24,(D24) City of Davenport,DAVENPORT24,Davenport 24
+947876,1655,Scott,D31,(D31) City of Davenport,DAVENPORT31,Davenport 31
+947877,1188,Scott,D32,(D32) City of Davenport,DAVENPORT32,Davenport 32
+947878,1189,Scott,D33,(D33) City of Davenport,DAVENPORT33,Davenport 33
+947879,1190,Scott,D34,(D34) City of Davenport,DAVENPORT34,Davenport 34
+947880,1191,Scott,D41,(D41) City of Davenport,DAVENPORT41,Davenport 41
+947881,1647,Scott,D42,(D42) City of Davenport,DAVENPORT42,Davenport 42
+947882,1648,Scott,D43,(D43) City of Davenport,DAVENPORT43,Davenport 43
+947883,1192,Scott,D44,(D44) City of Davenport,DAVENPORT44,Davenport 44
+947884,633,Scott,D51,(D51) City of Davenport,DAVENPORT51,Davenport 51
+947885,634,Scott,D52,(D52) City of Davenport,DAVENPORT52,Davenport 52
+947886,635,Scott,D53,(D53) City of Davenport,DAVENPORT53,Davenport 53
+947887,1193,Scott,D54,(D54) City of Davenport,DAVENPORT54,Davenport 54
+947888,1231,Scott,D61,(D61) City of Davenport,DAVENPORT61,Davenport 61
+947889,636,Scott,D62,(D62) City of Davenport,DAVENPORT62,Davenport 62
+947890,637,Scott,D63,(D63) City of Davenport,DAVENPORT63,Davenport 63
+947891,638,Scott,D64,(D64) City of Davenport,DAVENPORT64,Davenport 64
+947892,1649,Scott,D71,(D71) City of Davenport,DAVENPORT71,Davenport 71
+947893,1650,Scott,D72,(D72) City of Davenport,DAVENPORT72,Davenport 72
+947894,1218,Scott,D73,(D73) City of Davenport,DAVENPORT73,Davenport 73
+947895,1233,Scott,D74,(D74) City of Davenport,DAVENPORT74,Davenport 74
+947896,1651,Scott,D81,(D81) City of Davenport,DAVENPORT82,Davenport 82
+947897,1232,Scott,D82,(D82) City of Davenport,DAVENPORT84,Davenport 84
+947898,1219,Scott,D83,(D83) City of Davenport,DAVENPORT81,Davenport81
+947899,1220,Scott,D84,(D84) City of Davenport,DAVENPORT83,Davenport83
+947900,1216,Scott,El1,(EL1) City of Eldridge,ELDRIDGE1,Eldridge 1
+947901,1212,Scott,Hg,(HG) Hickory Grove Township,HICKORYGROVE,Hickory Grove
+947903,1208,Scott,Lb,(LB) Liberty Township,LIBERTY,Liberty
+947905,1222,Scott,Pv,(PV) Pleasant Valley,PLEASANT,Pleasant Valley
+947906,1658,Scott,Pr,(PR) Princeton Township,PRINCETON,Princeton
+947907,1221,Scott,Rv,(RV) City of Riverdale,RIVERDALE,Riverdale
+947909,1214,Scott,Wc,(WC) Walcott Precinct,WALCOTT,Walcott
+947910,1657,Scott,Wf,(WF) Winfield Township,WINFIELD,Winfield
+947911,1215,Scott,El2,(EL2) City of Eldridge,ELDRIDGE2,Eldridge 2
+947912,1228,Scott,B23,(B23) City of Bettendorf,BW2P3,Bettendorf ward 2 precinct 3
+947913,444,Shelby,10,Harlan 4,HARLAN4,Harlan 4
+947914,436,Shelby,2,Cass-Center-Jackson-Lincoln,CASS,Cass-Center-Jackson-Lincoln
+947915,437,Shelby,3,Clay-Monroe,CLAY-MONROE,Clay-Monroe
+947916,438,Shelby,4,Douglas-Greeley-Jefferson-Polk,DOUGLAS,Douglas-Greeley-Jefferson-Polk
+947917,439,Shelby,5,Fairview-Shelby,FAIRVIEW,Fairview-Shelby
+947918,440,Shelby,6,Grove-Union-Washington-Westphalia,GROVE,Grove-Union-Washington-Westphalia
+947919,441,Shelby,7,Harlan 1,HARLAN1,Harlan 1
+947920,442,Shelby,8,Harlan 2,HARLAN2,Harlan 2
+947921,443,Shelby,9,Harlan 3,HARLAN3,Harlan 3
+947922,82,Sioux,At,Alton/Nassau/East Orange,SIOUX1,Sioux 1
+947926,67,Sioux,Fl,Floyd/Lynn,SIOUX2,"Sioux 2 - Floyd, Lynn"
+947927,68,Sioux,Gt,Grant/Sheridan,SIOUX3,"Sioux 3 - Grant, Sheridan"
+947929,69,Sioux,Hw,HW/BC/LG/WA/EG S,SIOUX4,Sioux 4
+947930,70,Sioux,Ln,Lincoln,SIOUX5,Sioux 5
+947931,80,Sioux,Oc1,OC 1/Holland West,SIOUX6,Sioux 6 - Orange City 1
+947932,81,Sioux,Oc2,OC2/Holland E/NS 4-9,SIOUX7,Sioux 7 - Orange City 2
+947933,71,Sioux,Pl,PL/GF/ST/SX/EG N,SIOUX8,Sioux 8
+947934,72,Sioux,Rd,Reading/Center South,SIOUX9,Sioux 9
+947939,73,Sioux,Sm,Sherman,SIOUX12,Sioux 12
+947941,99,Story,1,Ames 1-1,AMES1-1,Ames 1-1
+947942,87,Story,10,Ames 2-5,AMES2-5,Ames 2-5
+947943,96,Story,11,Ames 3-1,AMES3-1,Ames 3-1
+947944,103,Story,12,Ames 3-2,AMES3-2,Ames 3-2
+947945,104,Story,13,Ames 3-3,AMES3-3,Ames 3-3
+947946,105,Story,14,Ames 3-4,AMES3-4,Ames 3-4
+947947,97,Story,15,Ames 3-5,AMES3-5,Ames 3-5
+947948,88,Story,16,Ames 4-1,AMES4-1,Ames 4-1
+947949,89,Story,17,Ames 4-2,AMES4-2,Ames 4-2
+947950,90,Story,18,Ames 4-3,AMES4-3,Ames 4-3
+947951,91,Story,19,Ames 4-4,AMES4-4,Ames 4-4
+947952,100,Story,2,Ames 1-2,AMES1-2,Ames 1-2
+947953,92,Story,20,Ames 4-5,AMES4-5,Ames 4-5
+947954,162,Story,21,Collins Twp-Collins,COLLINS,Collins
+947955,135,Story,22,Franklin Twp-Gilbert,FRANKLIN,Franklin
+947956,98,Story,23,Grant Township,GRANT,Grant
+947957,163,Story,24,Howard Twp-Roland,HOWARD,Howard
+947958,174,Story,25,Huxley,HUXLEY,Huxley
+947959,164,Story,26,Indian Creek Twp-Maxwell,INDIANCREEK,Indian Creek
+947960,136,Story,27,Lafayette Township,LAFAYETTE,Lafayette
+947961,166,Story,28,Lincoln Twp-Zearing,LINCOLN,Lincoln
+947962,93,Story,29,Milford Township,MILFORD,Milford
+947963,95,Story,3,Ames 1-3 - Grant Twp 2,AMES1-3,Ames 1-3
+947964,176,Story,30,Nevada 1,NEVADA1,Nevada 1
+947965,177,Story,31,Nevada 2,NEVADA2,Nevada 2
+947966,175,Story,32,Nevada 3-Grant Twp 3,NEVADA3,Nevada 3
+947967,178,Story,33,Nevada 4,NEVADA4,Nevada 4
+947968,167,Story,34,Nevada Township,NEVADA,Nevada
+947969,168,Story,35,New Albany Twp-Colo,NEWALBANY,New Albany
+947970,169,Story,36,Palestine Township,PALESTINE,Palestine
+947971,170,Story,37,Richland Township,RICHLAND,Richland
+947972,171,Story,38,Sherman Township,SHERMAN,Sherman
+947973,137,Story,39,Slater-Sheldahl-Pal 2,SLATER,Slater/Sheldahl
+947974,101,Story,4,Ames 1-4,AMES1-4,Ames 1-4
+947975,165,Story,40,Story City,STORYCITY,Story City
+947976,172,Story,41,Union Twp-Cambridge,UNION,Union
+947977,173,Story,42,Warren Twp-McCallsburg,WARREN,Warren
+947978,94,Story,43,Washington Twp-Kelley,WASHINGTON,Washington
+947979,102,Story,5,Ames 1-5,AMES1-5,Ames 1-5
+947980,83,Story,6,Ames 2-1,AMES2-1,Ames 2-1
+947981,84,Story,7,Ames 2-2,AMES2-2,Ames 2-2
+947982,85,Story,8,Ames 2-3,AMES2-3,Ames 2-3
+947983,86,Story,9,Ames 2-4,AMES2-4,Ames 2-4
+947985,1508,Tama,Ck/Ge,CLARK/GENESEO,TAMA4,Tama 4 - Clark/Geneseo
+947987,1506,Tama,Ct,CARLTON,TAMA2,Tama 2 - Carlton
+947988,1511,Tama,Gr,GRANT,TAMA7,Tama 7 - Grant
+947990,1520,Tama,Is,INDIAN SETTLEMENT,TAMA9,Tama 9 - Indian Settlement
+947991,1514,Tama,Li,LINCOLN,TAMA11,Tama 11 - Lincoln
+947992,1505,Tama,Py/Cy/B,PERRY/BUCKINGHAM/E CRYSTA,TAMA1,Tama 1 - Buckingham/Perry/East Crystal
+947993,1515,Tama,Rl/St,RICHLAND/SALT CREEK,TAMA12,Tama 12 - Richland/Salt Creek
+947994,1510,Tama,Sp/Wc,SPRING CREEK/W CRYSTAL,TAMA6,Tama 6 - West Crystal/Spring Creek
+947999,1516,Tama,Yk,YORK,TAMA16,Tama 16 - Yorl
+948003,570,Taylor,Bk,1-1 Blockton,43101,Taylor 1-1
+948004,571,Taylor,Cf,2-1 Clearfield,43132,Taylor 2-1
+948005,574,Taylor,Nm,4-1 New Market,43191,Taylor 4-1
+948008,530,Union,Af,Afton,AFTON,Afton
+948009,531,Union,Ar,Arispe,ARISPE,Arispe
+948010,536,Union,Cs1,Creston 1,CRESTON1,Creston 1
+948011,534,Union,Cs2,SWCC CS2,CRESTON2,Creston 2
+948012,537,Union,Cs3,Creston 3,CRESTON3,Creston 3
+948013,533,Union,Cs4,Supertel CS4,CRESTON4,Creston 4
+948014,535,Union,Cs5,Creston 5,CRESTON5,Creston 5
+948015,532,Union,Lr,Lorimor,LORIMOR,Lorimor
+948016,906,Van Buren,Bi,Birmingham,BIRM,Birmingham Precinct
+948017,907,Van Buren,Bo,Bonaparte,BONA,Bonaparte Precinct
+948018,908,Van Buren,Cn,Cantril,CAN,Cantril Precinct
+948019,909,Van Buren,Do,Douds,DOUDS,Douds Precinct
+948020,910,Van Buren,Fm,Farmington,FARM,Farmington Precinct
+948021,911,Van Buren,Ke,Keosauqua,KEO,Keosauqua Precinct
+948022,912,Van Buren,Ml,Milton,MIL,Milton Precinct
+948023,913,Van Buren,Sp,Stockport,STOCK,Stockport Precinct
+948024,882,Wapello,Ad,Adams/Blakesburg/Polk,ADAMS,Adams
+948025,883,Wapello,Cb,Columbia/Eddyville,COLUMBIA,Columbia
+948026,892,Wapello,Cn,Center Twp,CENTER,Center
+948027,889,Wapello,Cs,Cass/Chillicothe,CASS,Cass
+948028,937,Wapello,Da,Dahlonega Twp,DAHLONEGA,Dahlongea
+948029,934,Wapello,Gr,Green Twp,GREEN,Green
+948030,890,Wapello,Hi,Highland Twp,HIGHLAND,Highland
+948031,935,Wapello,Ke,Keokuk Twp,KEOKUK,Keokuk
+948032,938,Wapello,Ot01,Pct 1,OTTUMWA1,Ottumwa 1
+948033,1617,Wapello,Ot02,Pct 2,OTTUMWA2,Ottumwa 2
+948034,939,Wapello,Ot03,Pct 3,OTTUMWA3,Ottumwa 3
+948035,940,Wapello,Ot04,Pct 4,OTTUMWA4,Ottumwa 4
+948036,941,Wapello,Ot05,Pct 5,OTTUMWA5,Ottumwa 5
+948037,942,Wapello,Ot06,Pct 6,OTTUMWA6,Ottumwa 6
+948038,943,Wapello,Ot07,Pct 7,OTTUMWA7,Ottumwa 7
+948039,1618,Wapello,Ot08,Pct 8,OTTUMWA8,Ottumwa 8
+948040,944,Wapello,Ot09,Pct 9,OTTUMWA9,Ottumwa 9
+948041,945,Wapello,Ot10,Pct 10,OTTUMWA10,Ottumwa 10
+948042,891,Wapello,Rl,Richland/Kirkville,RICHLAND,Richland
+948043,936,Wapello,Wa,Washington/Eldon,WASHINGTON,Washington
+948045,685,Warren,Al2,ALLEN 2,ALLEN2,Warren County Allen 2
+948046,687,Warren,Bm,BELMONT TWP,BELMONT,Warren County Belmont
+948047,688,Warren,Gr1,GREENFIELD 1 TWP,GREENFIELD1,Warren County Greenfield 1
+948049,698,Warren,In1,INDIANOLA 1,PRCT1,Indianola-Precinct 1
+948050,699,Warren,In2,INDIANOLA 2,PRCT2,Indianola-Precinct 2
+948051,700,Warren,In3,INDIANOLA 3,PRCT3,Indianola-Precinct 3
+948052,701,Warren,In4,INDIANOLA 4,PRCT4,Indianola-Precinct 4
+948053,1629,Warren,Jf,JEFFERSON,JEFFERSON,Warren County Jefferson
+948054,714,Warren,Jk,JACKSON,JACKSON,Warren County Jackson
+948055,690,Warren,Lb,LIBERTY TWP,LIBERTY,Warren County Liberty Precinct
+948058,720,Warren,Nw1,NORWALK 1,NORWALK1,Warren County Norwalk Precinct 1
+948062,692,Warren,Pm,PALMYRA TWP,PALMYRA,Warren County Palmyra Precinct
+948063,693,Warren,Rl,RICHLAND/ PALMYRA,RICHLAND,Warren County Richland Precinct
+948065,694,Warren,Un,UNION,UNION,Warren County Union Precinct
+948066,718,Warren,Va,VIRGINIA,VIRGINIA,Warren County Virginia Precinct
+948067,695,Warren,Wb,WHITE BREAST,WHITEBREAST,Warren County White Breast Precinct
+948068,719,Warren,Who,WHITE OAK TWP,WHITEOAK,Warren County White Oak Precinct
+948069,849,Washington,Aw,Ainsworth,AINSWORTH,Ainsworth
+948074,850,Washington,Ka,Kalona,KALONA,Kalona
+948076,1638,Washington,Wc,West Chester,WESTCHESTER,West Chester
+948077,852,Washington,Ws1,Ward One,WASHWARD1,Washington ward 1
+948078,853,Washington,Ws2,Ward Two,WASHWARD2,Washington ward 2
+948079,854,Washington,Ws3,Ward Three,WASHWARD3,Washington ward 3
+948080,855,Washington,Ws4,Ward Four,WASHWARD4,Washington ward 4
+948092,336,Webster,1,Fort Dodge 1,FORTDODGE1,Fort Dodge 1
+948093,345,Webster,10,Fort Dodge 10,FORTDODGE10,Fort Dodge 10
+948094,347,Webster,11,Fort Dodge 11,FORTDODGE11,Fort Dodge 11
+948095,346,Webster,12,Fort Dodge 12,FORTDODGE12,Fort Dodge 12
+948096,337,Webster,2,Fort Dodge 2,FORTDODGE2,Fort Dodge 2
+948097,338,Webster,3,Fort Dodge 3,FORTDODGE3,Fort Dodge 3
+948098,339,Webster,4,Fort Dodge 4,FORTDODGE4,Fort Dodge 4
+948099,340,Webster,5,Fort Dodge 5,FORTDODGE5,Fort Dodge 5
+948100,341,Webster,6,Fort Dodge 6,FORTDODGE6,Fort Dodge 6
+948101,342,Webster,7,Fort Dodge 7,FORTDODGE7,Fort Dodge 7
+948102,343,Webster,8,Fort Dodge 8,FORTDODGE8,Fort Dodge 8
+948103,344,Webster,9,Fort Dodge 9,FORTDODGE9,Fort Dodge 9
+948105,333,Webster,Cd,Colfax-Duncombe,COLFAX-DUN,Colfax/Duncombe
+948106,350,Webster,Cr,Clay-Roland,CLAYROLAND,Clay/Roland
+948107,329,Webster,Dj,Deer Creek-Jackson,DEERCREEK,Deer Creek/Jackson
+948108,332,Webster,Do,Douglas,DOUGLAS,Douglas
+948109,334,Webster,El,Elkhorn,ELKHORN,Elkhorn
+948110,351,Webster,Fu,Fulton,FULTON,Fulton
+948111,352,Webster,Go,Gowrie,GOWRIE,Gowrie
+948112,348,Webster,Jo,Johnson,JOHNSON,Johnson
+948113,349,Webster,Lg,Lost Grove,LOSTGROVE,Lost Grove
+948115,335,Webster,Ne,Newark,NEWARK,Newark
+948119,133,Webster,Swyh,Sumner-Webster-Yell-Hardi,SWYH,Sumner/Webster/Yell/Hardin
+948120,1322,Winneshiek,1,PCT 1 - HE/HI/PL,WINNESHIEK1,Winneshiek 1
+948121,1328,Winneshiek,7,PCT 7 - CA/SP,WINNESHIEK7,Winneshiek 7
+948122,1325,Winneshiek,4,PCT 4 - DEW2 (Decorah Ward 2),WINNESHIEK4,Winneshiek 4
+948129,1323,Winneshiek,2,PCT 2 - FR/GL/DEW3/ DETSUP1,WINNESHIEK2,Winneshiek 2
+948130,1326,Winneshiek,5,PCT 5 - CN/DEW4/ DETSUP3,WINNESHIEK5,Winneshiek 5
+948131,1324,Winneshiek,3,PCT 3 - DEW1/DETSUP2,WINNESHIEK3,Winneshiek 3
+948132,1327,Winneshiek,6,PCT 6 - DEW5 (Decorah Ward 5),WINNESHIEK6,Winneshiek 6
+948133,1329,Winneshiek,8,PCT 8 - MI/BLM,WINNESHIEK8,Winneshiek 8
+948134,425,Woodbury,1,Sioux City 1,WOODBURY1,Woodbury 1/Sioux City 1
+948135,426,Woodbury,2,Sioux City 2,WOODBURY2,Woodbury 2/Sioux City 2
+948136,427,Woodbury,3,Sioux City 3,WOODBURY3,Woodbury 3/Sioux City 3
+948137,428,Woodbury,4,Sioux City 4,WOODBURY4,Woodbury 4/Sioux City 4
+948138,429,Woodbury,5,Sioux City 5,WOODBURY5,Woodbury 5/Sioux City 5
+948139,430,Woodbury,6,Sioux City 6,WOODBURY6,Woodbury 6/Sioux City 6
+948140,431,Woodbury,7,Sioux City 7,WOODBURY7,Woodbury 7/Sioux City 7
+948141,432,Woodbury,8,Sioux City 8,WOODBURY8,Woodbury 8/Sioux City 8
+948142,433,Woodbury,9,Sioux City 9,WOODBURY9,Woodbury 9/Sioux City 9
+948143,434,Woodbury,10,Sioux City 10,WOODBURY10,Woodbury 10/Sioux City 10
+948144,435,Woodbury,11,Sioux City 11,WOODBURY11,Woodbury 11/Sioux City 11
+948145,416,Woodbury,12,Sioux City 12,WOODBURY12,Woodbury 12/Sioux City 12
+948146,417,Woodbury,13,Sioux City 13,WOODBURY13,Woodbury 13/Sioux City 13
+948147,418,Woodbury,14,Sioux City 14,WOODBURY14,Woodbury14/Sioux City 14
+948148,415,Woodbury,15,Sioux City 15,WOODBURY15,Woodbury 15
+948149,419,Woodbury,16,Sioux City 16,WOODBURY16,Woodbury 16/Sioux City 16
+948150,420,Woodbury,17,Sioux City 17,WOODBURY17,Woodbury 17/Sioux City 17
+948151,421,Woodbury,18,Sioux City 18,WOODBURY18,Woodbury 18/Sioux City 18
+948152,422,Woodbury,19,Sioux City 19,WOODBURY19,Woodbury 19/Sioux City 19
+948153,423,Woodbury,20,Sioux City 20,WOODBURY20,Woodbury 20/Sioux City 20
+948154,424,Woodbury,21,Sioux City 21,WOODBURY21,Woodbury 21/Sioux City 21
+948155,246,Woodbury,22,Woodbury 22,WOODBURY22,Woodbury 22/Sioux City 22
+948156,247,Woodbury,23,Sioux City 23,WOODBURY23,Woodbury 23/Sioux City 23
+948157,248,Woodbury,24,Woodbury 24,WOODBURY24,Woodbury 24/Sioux City 24
+948158,249,Woodbury,25,Woodbury 25,WOODBURY25,Woodbury 25/Sioux City 25
+948159,250,Woodbury,26,Woodbury 26,WOODBURY26,Woodbury 26/Sioux City 26
+948160,251,Woodbury,27,Woodbury 27,WOODBURY27,Woodbury 27/Sioux City 27
+948161,243,Woodbury,28,Woodbury 28,WOODBURY28,Woodbury 28
+948162,244,Woodbury,29,29 Sergeant Bluff East/ Woodbury,WOODBURY29,Woodbury 29
+948163,245,Woodbury,30,30 Sergeant Bluff West,WOODBURY30,Woodbury 30
+948164,241,Woodbury,31,31 Salix/Liberty/Lakeport,WOODBURY31,Woodbury 31
+948165,242,Woodbury,32,32 Bronson/Floyd/Grange,WOODBURY32,Woodbury 32
+948166,263,Woodbury,33,33-Pierson/Rutland,WOODBURY33,Woodbury 33
+948167,264,Woodbury,34,34 Correctionville/Kedron/Union,WOODBURY34,Woodbury 34
+948168,265,Woodbury,35,35 Moville/Arlington/Wolf Creek,WOODBURY35,Woodbury 35
+948169,266,Woodbury,36,36 Lawton/Banner,WOODBURY36,Woodbury 36
+948170,267,Woodbury,37,37 Climbing Hill/Grant/West Fork,WOODBURY37,Woodbury 37
+948171,473,Woodbury,38,38 Sloan,WOODBURY38,Woodbury 38
+948172,474,Woodbury,39,39 Hornick/Willow,WOODBURY39,Woodbury 39
+948173,475,Woodbury,40,40 Anthon/Miller,WOODBURY40,Woodbury 40
+948174,479,Woodbury,41,41 Danbury/Liston/Morgan,WOODBURY41,Woodbury 41
+948175,476,Woodbury,42,42 Smithland/Little Sioux,WOODBURY42,Woodbury 42
+948176,477,Woodbury,43,43 Oto/Oto Township,WOODBURY43,Woodbury 43
+948177,478,Woodbury,44,44 Cushing/Rock,WOODBURY44,Woodbury 44
+948178,1664,Worth,W11,Barton/Deer Creek/Union/Grafton,WORTH1-1,Worth 1-1
+948179,1665,Worth,W12,Lincoln/Manly,WORTH1-2,Worth 1-2
+948180,1260,Worth,W21,Bristol/Silver Lake/Joice,WORTH2-1,Worth 2-1
+948181,1261,Worth,W22,Brookfield/Kensett,WORTH2-2,Worth 2-2
+948182,1262,Worth,W23,Danville/Hanlontown,WORTH2-3,Worth 2-3
+948183,1263,Worth,W24,Fertile,WORTH2-4,Worth 2-4
+948186,1264,Worth,W31,Deer Creek/Grove/Hartland/Northwood,WORTH3-1,Worth 3-1
+948188,289,Wright,Bm,Belmond,BELMOND,Belmond
+948190,290,Wright,Cl,Clarion,CLARION,Clarion
+948192,295,Wright,Eg1,Eagle Grove #1,EGWARD1,Eagle Grove ward 1
+948193,296,Wright,Eg2,Eagle Grove #2,EGWARD2,Eagle Grove ward 2
+948194,297,Wright,Eg3,Eagle Grove #3,EGWARD3,Eagle Grove ward 3
+948195,298,Wright,Eg4,Eagle Grove #4,EGWARD4,Eagle Grove ward 4
+948199,508,Adair,01nw,1NW,1NW,Adair 1NW
+948200,509,Adair,02ne,2NE,2NE,Adair 2NE
+948201,510,Adair,03sw,3SW,3SW,Adair 3SW
+948202,511,Adair,04se,4SE,4SE,Adair 4SE
+948203,512,Adair,05gf,5GF,5GF,Adair 5 GF
+948204,1125,Decatur,Bl,BL/FA/Lamoni,DECATUR1,Decatur County Precinct 1
+948205,256,Plymouth,Mr,Plymouth 7,PLYMOUTH7,Plymouth 7
+948206,253,Plymouth,Sb,Plymouth 3,PLYMOUTH3,Plymouth 3
+948207,255,Plymouth,Wf,Plymouth 6,PLYMOUTH6,Plymouth 6
+948208,1287,Allamakee,Pct 1,Pct 1 - WL/HV,HANOVER,Hanover-Waterloo
+948209,1296,Allamakee,Pct 10,Pct 10 - Waukon 2,WAUKON2,Waukon 2
+948210,1297,Allamakee,Pct 11,Pct 11 - Waukon 3,WAUKON3,Waukon 3
+948211,1295,Allamakee,Pct 2,Pct 2 - FC/JF/LL/MK/UP,FRENCHCREEK,French Creek-Jefferson-Ludlow-Makee-Union P
+948212,1288,Allamakee,Pct 3,Pct 3 - PO/FK,FRANKLIN,Frankling-Post
+948213,1289,Allamakee,Pct 4,Pct 4 - PV City,POSTVILLE,Postville
+948214,1290,Allamakee,Pct 5,Pct 5 - LT/PC/WV City,WATERVILLE,Waterville-Linton-Paint Creek
+948215,1291,Allamakee,Pct 6,Pct 6 - FV/TL/HF City,HARPERSFERRY,Harpers Ferry-Fairview-Taylor
+948216,1292,Allamakee,Pct 7,Pct 7 - CN/LF/LS/LS City,LANSING,Lansing-Center-Lafayette-Lansing
+948217,1293,Allamakee,Pct 8,Pct 8 - IA/UC/NA City,NEWALBIN,New Albin-Iowa-Union City
+948218,1294,Allamakee,Pct 9,Pct 9 - Waukon 1,WAUKON1,Waukon 1
+948219,379,Buena Vista,Acfc,ACFC,ACFC,Albert City-Fairfield-Coon
+948220,381,Buena Vista,Alne,ALNE,ALNE,Alta-Nokomis-Elk
+948222,383,Buena Vista,Lkhm,LKHM,LKHM,Lakeside-Hayes-Maple Valley
+948224,382,Buena Vista,Nenp,NENP,NENP,Newell-Newell-Providence
+948227,384,Buena Vista,Trwg,TRWG,TRWG,Truesdale-Washington-Grant
+948228,353,Calhoun,Buwm,Butler- Williams,CALHOUN1,Calhoun County Precinct 1
+948229,355,Calhoun,Cedar,Cedar,CALHOUN3,Calhoun County Precinct 3
+948230,354,Calhoun,Chjeglk,Calhoun- Jackson- EG- LK,CALHOUN2,Calhoun County Precinct 2
+948231,356,Calhoun,Cnlgtga,Center- Logan- TL- GA- L,CALHOUN4,Calhoun County Precinct 4
+948232,357,Calhoun,Greenfi,Greenfield & Lincoln 2,CALHOUN5,Calhoun County Precinct 5
+948234,358,Calhoun,Lincoln,Lincoln 1,CALHOUN6,Calhoun County Precinct 6
+948235,359,Calhoun,Reading,Reading,CALHOUN7,Calhoun County Precinct 7
+948236,360,Calhoun,Rockwel,Rockwell City,CALHOUN8,Calhoun County Precinct 8
+948237,361,Calhoun,Sherman,Sherman,CALHOUN9,Calhoun County Precinct 9
+948238,362,Calhoun,Union,Union,CALHOUN10,Calhoun County Precinct 10
+948239,50,Cherokee,1 Aur,#1 Aurelia,CHEROKEE1,Cherokee 1
+948240,51,Cherokee,2 Cleg,#2 Cleghorn,CHEROKEE2,Cherokee 2
+948241,53,Cherokee,3 Quim,#3 Quimby,CHEROKEE3,Cherokee 3
+948242,52,Cherokee,4 Cher,#4 Cherokee,CHEROKEE4,Cherokee 4
+948243,1333,Clayton,Bm-Hi,BOARDMAN-HIGHLAND,BOARDMAN,Boardman-Highland
+948244,1300,Clayton,Cc-Sy,COX CREEK-SPERRY,COXCREEK,Cox Creek-Sperry
+948245,1306,Clayton,Cl-Gv,CLAYTON-GARNAVILLO,CLAYTON,Clayton-Garnavillo
+948246,1303,Clayton,Elmyvo,ELK-MALLORY-VOLGA,ELK-MALLORY,Elk-Mallory-Volga
+948247,1307,Clayton,Fb-Wg,FARMERSBURG-WAGNER,FARMERSBURG,Farmersburg-Wagner
+948248,1309,Clayton,Gdlumo,GIARD-LUANA-MONONA,GIARD-LUANA,Giard-Luana-Monona
+948249,1304,Clayton,Jf-Mv,JEFFERSON-MILLVILLE,JEFFERSON,Jefferson-Millville
+948250,1308,Clayton,Mn,MENDON,MENDON,Mendon
+948261,1429,Fayette,Bf,BANKS-FREMONT TWP,B-F,Banks-Fremont
+948262,1311,Fayette,Bw,BETHEL-WINDSOR TWP,B-W,Bethel-Windsor
+948263,1432,Fayette,Fp,FAIRFIELD-PUTNAM TWP,F-P,Fairfield-Putnam
+948264,179,Floyd,Flceni,Floyd-Cedar-Niles,FLOYD,Floyd-Cedar-Niles
+948265,181,Floyd,Rful,Rockford-Ulster,ROCKFORD,Rockford-Ulster
+948266,183,Floyd,Rgru,Rock Grove-Rudd,ROCKGROVE,Rock Grove-Rudd
+948267,180,Floyd,Scrv,St Charles-Riverton,STCHARLES,St. Charles-Riverton
+948268,182,Floyd,Scunpg,Scott-Union-Pleasant Grove,SCOTT,Scott-Union-Pleasant Grove
+948272,237,Franklin,Okmg,OAKLAND/ MORGAN,FRANKLIN9,Franklin County Precinct 9
+948274,240,Franklin,Wrsc,WISNER/ SCOTT,FRANKLIN12,Franklin County Precinct 12
+948276,671,Fremont,Gnrssc,Green Riverside Scott,GREEN,Green
+948277,106,Greene,Central,Central Precinct,CENTRAL,Greene Co Central
+948278,109,Greene,East,East Precinct,EAST,Greene Co East
+948279,107,Greene,North,North Precinct,NORTH,Greene Co North
+948280,108,Greene,West,West Precinct,WEST,Greene Co West
+948281,521,Guthrie,5,Green,GREEN,Guthrie - Green
+948282,947,Lee,Ch Vb,Charleston/DSM/Van Buren,C-D-VB,Charleston/DSM/Van Buren
+948284,1136,Marion,Cl,Clay,CLAY,Clay
+948285,1143,Marion,Otley,Otley,OTLEY,Otley
+948286,1139,Marion,Pvlle,Pleasantville,PLEASANT,Pleasantville
+948287,455,Monona,As001,AS-BV-KB-LN-NW FR-TU,AS001,AS001
+948288,456,Monona,Cn002,CN002,CN002,CN002
+948289,457,Monona,Cp003,CP003,CP003,CP003
+948290,458,Monona,Fv004,Fairview- Grant- Lake- Rodney- West Fork- Whiting,FV004,FV004
+948291,464,Monona,On106,Onawa Ward 1,ON106,ON106
+948292,460,Monona,On207,Onawa Ward 2- NE Franklin,ON207,ON207
+948293,461,Monona,On308,Onawa Ward 3,ON308,ON308
+948294,465,Monona,On409,Onawa Ward 4,ON409,ON409
+948295,463,Monona,Stc11,St. Clair- Ute,STC11,STC11
+948296,462,Monona,Sh010,SH010,SH010,SH010
+948297,459,Monona,Mh005,MH005,MH005,MH005
+948298,864,Monroe,Cthse,Monroe Precinct 5,P5,Monroe Precinct 5
+948299,865,Monroe,Lovilia,Monroe Precinct 6,P6,Monroe Precinct 6
+948300,866,Monroe,Melrose,Monroe Precinct 7,P7,Monroe Precinct 7
+948304,260,Plymouth,Lm11,Plymouth 11/Le Mars 1,PLY11-LM1,Plymouth 11/Le Mars 1
+948305,261,Plymouth,Lm12,Plymouth 12/Le Mars 2,PLY12-LM2,Plymouth 12/Le Mars 2
+948306,262,Plymouth,Lm13,Plymouth 13/Le Mars 3,PLY13-LM3,Plymouth 13/Le Mars 3
+948307,1015,Polk,Alleman,ALLEMAN-1,ALLEMAN1,Polk County Alleman 1
+948308,728,Polk,Allen 1,ALLEN-1,ALLEN1,Polk County Allen 1
+948310,932,Wapello,Ag,Agency/Agency/Pleasant,AGENCY,Agency
+948311,134,Webster,Da/Bu,Dayton-Burnside,DAYTON-BURN,Dayton-Burnside
+948313,321,Winnebago,Center,Center,WINN2-2,Winnebago Precinct 2-2
+948314,320,Winnebago,Edlono,Eden Logan Norway,WINN2-1,Winnebago Precinct 2-1
+948315,326,Winnebago,Fc 1,Forest City Ward 1,WINN1-2,Winnebago Precinct 1-2
+948316,327,Winnebago,Fc 2,Forest City Ward 2,WINN1-3,Winnebago Precinct 1-3
+948317,328,Winnebago,Fc 4,Forest City Ward 4,WINN1-4,Winnebago Precinct 1-4
+948318,325,Winnebago,Fc3d3,FC3 Forest D3,WINN3-3,Winnebago Precinct 3-3
+948319,324,Winnebago,Kili,King Linden,WINN3-2,Winnebago Precinct 3-2
+948321,322,Winnebago,Mvfod2,Mt. Valley,WINN2-3,Winnebago Precinct 2-3
+948322,319,Winnebago,Nefod1,Newton Forest,WINN1-1,Winnebago Precinct 1-1
+948323,965,Henry,Ne,Northeast Precinct,HENRY1,Henry 1
+948324,966,Henry,Nw,Northwest Precinct,HENRY2,Henry 2
+948325,969,Henry,Se,Southeast Precinct,HENRY9,Henry 9
+948326,968,Henry,Sw,Southwest Precinct,HENRY8,Henry 8
+948327,956,Lee,Fm4b,FM4B,FM4B,Fort Madison 4b
+948328,976,Lee,Hr,Harrison,HARRISON,Harrison
+948329,958,Lee,Ke2b,KE2A,KEOKUK2,Keokuk 2
+948330,851,Washington,Rs,Riverside,RIVERSIDE,Riverside
+948331,856,Washington,Wl,Wellman,WELLMAN,Wellman
+948332,629,Wayne,A01,A-01 Allerton-Clio-Lineville,A01,A01 - Wayne county precinct
+948333,1115,Wayne,C02,C-02 Corydon,C02,C02 - Wayne county precinct
+948334,1116,Wayne,H03,H-03 Humeston-Millerton,H03,H03 - Wayne county precinct
+948335,1117,Wayne,S04,S-04 Seymour-Promise City,S04,S04 - Wayne county precinct
+1593415,549,Adams,Ad1,Adams 1,DISTRICT1,Adams County District 1
+1593416,550,Adams,Ad2,Adams 2,DISTRICT2,Adams County District 2 Precinct
+1593417,551,Adams,Ad3,Adams 3,DISTRICT3,Adams County District 3 Precinct
+1593418,552,Adams,Ad4,Adams 4,DISTRICT4,Adams County District 4 Precinct
+1593419,553,Adams,Ad5,Adams 5,DISTRICT5,Adams County District 5 Precinct
+1593422,1410,Black Hawk,Aloo,Barclay Lester Dunkerton,BARCLALESTER,Black Hawk County Barclary/ Lester Precinct
+1593423,1521,Black Hawk,C000,Big Creek La Porte,BIGCREEK,Black Hawk County Big Creek Precinct
+1593424,639,Black Hawk,Dk00,Elk Run Heights & Raymond,ELKRUNRAYMON,Black Hawk County Elk Run Heights/ Raymond
+1593425,1370,Black Hawk,Dm00,Black Hawk Hudson Lincoln,BLACKHAWK,Black Hawk County Black Hawk Precinct
+1593426,1385,Black Hawk,Eo00,Cedar Orange,CEDARORANGE,Black Hawk County Cedar/ Orange Precinct
+1593427,1522,Black Hawk,G000,Eagle,EAGLE,Black Hawk County Eagle Precinct
+1593428,1387,Black Hawk,Q000,Spring Creek,SPRINGCREEK,Black Hawk County Spring Creek Precinct
+1593429,1397,Bremer,Pl,CITY OF PLAINFIELD/POLK TWP/DOUGLAS TWP,PLAINFIELD,Bremer County Plainfield Precinct
+1593430,1402,Bremer,Rd,CITY OF READLYN- MAXFIELD & FRANKLIN TWP,READLYN,Bremer County Readlyn Precinct
+1593431,1400,Bremer,Tr,CITY OF TRIPOLI/FREMONT,TRIPOLI,Bremer County Tripoli Precinct
+1593432,1575,Buchanan,Mn,Middlefield-Newton,MIDDLEFIELD,Middlefield/Newton
+1593433,380,Buena Vista,S-M-L-R,SMLR,SMLR,Sioux Rapids-Marathon-Linn Grove-Rembrandt
+1593434,217,Butler,1-Gr,1-GR,1-GR,Butler 1 - GR
+1593435,218,Butler,2-Cl,2-CL,2-CL,Butler 2 - CL
+1593436,219,Butler,3-Du,3-DU,3-DU,Butler 3 - DU
+1593437,220,Butler,4-Al,4-AL,4-AL,Butler - AL
+1593438,155,Butler,5-Ap,5-AP,5-AP,Butler 5 - AP
+1593439,157,Butler,6-Sr,6-SR,6-SR,Butler 6 - SR
+1593440,156,Butler,7-Pb,7-PB,7-PB,Butler 7 - PB
+1593441,158,Butler,8-Nh,8-NH,8-NH,Butler 8 - NH
+1593442,817,Cedar,Wb1,WEST BRANCH 1,WESTBRANCH1,West Branch 1
+1593443,214,Cerro Gordo,Lcn,Lime Creek / Mason N Twps,LIMECREEK,Lime Creek/Mason North
+1593444,215,Cerro Gordo,Msb,Mason S / Bath Twps,MASONSOUTH,Mason South/Bath
+1593445,189,Cerro Gordo,Pod,Portland - Owen - Dougherty,PORTLAND,Portland/Owen/Dougherty
+1593446,1118,Clarke,Mdl,Middle Precinct,MIDDLE,Middle
+1593447,1120,Clarke,Ne,North East Precinct,NORTHEAST,Northeast
+1593448,6,Clay,Srsm,Summit-Riverton-Sioux-Meadow,SRSM,Summit/Riverton/Sioux/Meadow
+1593449,1247,Clinton,Bbrd,BLOOMFIELD BROOKFIELD DEL,CLINT1,BrookfieldBloomfieldDelmar
+1593450,1235,Clinton,Dcgl,DEEP CREEK GOOSE LAKE,CLINT4,Clinton-DeepCreek/GooseLake
+1593451,1248,Clinton,Edcm,EDEN CAMANCHE TWP,CLINT3,Clinton-CamancheEden
+1593452,1236,Clinton,Erha,ELK RIVER HAMPSHIRE ANDOV,CLINT7,Clinton-HampshireElkRiverAndover
+1593453,1251,Clinton,Lbto,LIBERTY TORONTO,CLINT8,Clinton-Liberty/Toronto
+1593454,1237,Clinton,Lomo,LOW MOOR,CLINT9,Clinton-Low Moor
+1593455,1250,Clinton,Ogca,OLIVE GRANT CALAMUS,CLINT6,Clinton-GrantOliveCalamus
+1593456,1252,Clinton,Orgm,ORANGE GRAND MOUND,CLINT10,Clinton-Orange/Ground Mound
+1593457,1253,Clinton,Shln,SHARON LOST NATION,CLINT11,Clinton-Sharon/Lost Nation
+1593458,1254,Clinton,Srwh,SPRING ROCK WHEATLAND,CLINT12,Clinton-Spring Rock/Wheatland
+1593459,1255,Clinton,Wfch,WATERFORD CHARLOTTE,CLINT13,Clinton-Washington/Welton/Welton
+1593460,1238,Clinton,Wwaw,WELTON WASHINGTON WELTON,CLINT14,Clinton-Waterford/Charlotte
+1593461,453,Crawford,D3-Gr,Denison Ward 3-Goodrich Twp,DENISON3,Denison 3
+1593462,451,Crawford,Dc-Ab,DCAB,DCAB,"Dow City, Arion, and Buck Grove"
+1593463,401,Crawford,Ne,Northeast,NORTHEAST,Northeast
+1593464,400,Crawford,Se,Southeast,SOUTHEAST,Southeast
+1593465,450,Crawford,Srk,SRK,SRK,"Schleswig, Ricketts, and Kiron"
+1593466,489,Dallas,Ads,ADAMS,ADAMS,Dallas Adams Precinct
+1593467,502,Dallas,Al1,ADEL 1,ADEL1,Dallas County Adel 1 Precinct
+1593468,501,Dallas,Al2,ADEL 2,ADEL2,Dallas County Adel 2 Precinct
+1593469,490,Dallas,Bdm,BEAVER / DES MOINES,BEAVERDSM,Dallas County Beaver/ Des Moines Precinct
+1593470,1101,Dallas,Cl5,CLIVE 5,CLIVE5,Dallas County Clive 5 Precinct
+1593471,1102,Dallas,Cl6,CLIVE 6,CLIVE6,Dallas County Clive 6 Precinct
+1593472,503,Dallas,Coa,COLFAX / ADEL,COLFAXADEL,Dallas County Colfax/ Adel Precinct
+1593473,515,Dallas,Lwl,LINCOLN /WASHINGTON /LINN,LINCWASHLINN,Dallas County Lincoln/ Washington/ Linn Pre
+1593474,516,Dallas,Sd,SPRING VALLEY / DALLAS,DALLASSPRING,Dallas County Dallas Spring Valley Precinct
+1593475,492,Dallas,Sgdc,SUGAR GROVE / DALLAS CENTER,SGROVEDCNTR,Dallas County Sugar Grove/ Dallas Center Pr
+1593476,493,Dallas,Un,UNION,UNION,Dallas County Union Precinct
+1593477,499,Dallas,Urb13,URBANDALE 13,URB13,Dallas County Urbandale 13 Precinct
+1593478,500,Dallas,Urb14,URBANDALE 14,URB14,Dallas County Urbandale 14 Precinct
+1593479,498,Dallas,Urb15,URBANDALE 15,URB15,Dallas County Urbandale 15 Precinct
+1593480,495,Dallas,Wgg,WALNUT / GRIMES / GRANT,WALNGRIMGRAN,Dallas County Walnut/ Grimes/ Grant Precinc
+1593481,1620,Dallas,Wk5,WAUKEE 5,WAUKEE5,Dallas County Waukee Precinct 5
+1593482,1621,Dallas,Wk6,WAUKEE 6,WAUKEE6,Dallas County Waukee Precinct 6
+1593483,1094,Dallas,Wm221,WEST DES MOINES 221,WDM221,Dallas County West Des Moines Precinct 221
+1593484,1095,Dallas,Wm222,WEST DES MOINES 222,WDM222,Dallas County West Des Moines 222 Precinct
+1593485,1096,Dallas,Wm223,WEST DES MOINES 223,WDM223,Dallas County West Des Moines 223 Precinct
+1593486,497,Dallas,Wm224,WEST DES MOINES 224,WDM224,Dallas County West Des Moines Precinct 224
+1593487,1092,Dallas,Wm225,WEST DES MOINES 225,WDM225,Dallas County West Des Moines 225 Precinct
+1593488,1093,Dallas,Wm226,WEST DES MOINES 226,WDM226,Dallas County West Des Moines 226 Precinct
+1593489,1091,Dallas,Wm321,WEST DES MOINES 321,WDM321,West Des Moines Precinct 321
+1593490,496,Dallas,Wm322,WEST DES MOINES 322,WDM322,West Des Moines Precinct 322
+1593491,1565,Delaware,Adhg,Adams/Hazel Green,DELAWARE1,Delaware County Precinct 1
+1593492,1567,Delaware,Dw,Delaware,DELAWARE3,Delaware County Precinct 3
+1593493,1684,Delaware,Hcek,Honey Creek/Elk,DELAWARE5,Delaware County Precinct 5
+1593494,1688,Delaware,Mlpr,Milo/Prairie,DELAWARE9,Delaware County Precinct 9
+1593495,1689,Delaware,Onnfbm,Oneida/N Fork/Bremen,DELAWARE10,Delaware County Precinct 10
+1593496,1690,Delaware,Rlcg,Richland/Coffins Grove,DELAWARE11,Delaware County Precinct 11
+1593497,1691,Delaware,Sfun,South Fork/Union,DELAWARE12,Delaware County Precinct 12
+1593498,1173,Des Moines,Bu1t,PCT 1T,BURL1T,DesMoines-Burlington/Tama township
+1593498,1175,Des Moines,Bu1t,PCT 1T,BURL1,Burlington 1-T
+1593499,1176,Des Moines,Bu2,PCT 2,BURL2,Burlington 2
+1593500,1177,Des Moines,Bu3,PCT 3,BURL3,Burlington 3
+1593501,1178,Des Moines,Bu4,PCT 4,BURL4,Burlington 4
+1593502,1179,Des Moines,Bu5,PCT 5,BURL5,Burlington 5
+1593503,1180,Des Moines,Bu6,PCT 6,BURL6,Burlington 6
+1593504,1181,Des Moines,Bu7,PCT 7,BURL7,Burlington 7
+1593505,1174,Des Moines,Bu8c,PCT 8,BURL8C,DesMoines-Burlington/Concordia Twnshp
+1593505,1182,Des Moines,Bu8c,PCT 8,BURL8,Burlington 8-C
+1593506,1183,Des Moines,Bu9,PCT 9,BURL9,Burlington 9
+1593507,1159,Des Moines,Union,PCT UNION,UNTWN,DesMoines15-Union Twnshp
+1593508,23,Dickinson,Pct 01,Precinct No. 1,DICKINSON1,Dickinson 1
+1593509,27,Dickinson,Pct 10,Precinct No. 10-City-Wahpeton-W Okoboji,DICKINSON10,Dickinson 10
+1593510,28,Dickinson,Pct 11,Precinct No. 11,DICKINSON11,Dickinson 11
+1593511,32,Dickinson,Pct 12,Precinct No. 12,DICKINSON12,Dickinson 12
+1593512,29,Dickinson,Pct 13,Precinct No. 13,DICKINSON13,Dickinson 13 - Spirit Lake North
+1593513,30,Dickinson,Pct 14,Precinct No. 14,DICKINSON14,Dickinson 14 - Spirit Lake West
+1593514,31,Dickinson,Pct 15,Precinct No. 15,DICKINSON15,Dickinson 15 - Spirit Lake South
+1593515,24,Dickinson,Pct 02,Precinct No. 2,DICKINSON2,Dickinson 2
+1593516,25,Dickinson,Pct 03,Precinct No. 3,DICKINSON3,Dickinson 3
+1593517,26,Dickinson,Pct 04,Precinct No. 4,DICKINSON4,Dickinson 4
+1593518,33,Dickinson,Pct 05,Precinct No. 5,DICKINSON5,Dickinson 5
+1593519,1,Dickinson,Pct 06,Precinct No. 6,DICKINSON6,Dickinson 6
+1593520,2,Dickinson,Pct 07,Precinct No. 7,DICKINSON7,Dickinson 7
+1593521,3,Dickinson,Pct 08,Precinct No. 8,DICKINSON8,Dickinson 8
+1593522,4,Dickinson,Pct 09,Precinct No. 9,DICKINSON9,Dicksinon 9
+1593531,1613,Dubuque,09a,Dubuque_09a,DUB9,Dubuque 9
+1593558,229,Franklin,Gnigem,GENEVA/ INGHAM/ EAST MOTT,FRANKLIN1,Franklin County Precinct 1
+1593559,230,Franklin,Groc,GRANT/ OSCEOLA,FRANKLIN2,Franklin County Precinct 2
+1593560,235,Franklin,Hllerv,HAMILTON/ LEE/ REEVE,FRANKLIN3,Franklin County Precinct 3
+1593561,236,Franklin,Ma,MARION,FRANKLIN8,Franklin County Precinct 8
+1593562,239,Franklin,Rlrswf,RICHLAND/ ROSS/ WEST FORK,PRECINCT11,Franklin County Precinct 11
+1593563,238,Franklin,Wmo,WEST MOTT TOWNSHIP,FRANKLIN10,Franklin County Precinct 10
+1593564,123,Hamilton,Pct 1,Precint 1,HAMILTON1,Hamilton 1 - CA-FD-FMN-IN
+1593565,124,Hamilton,Pct 2,Precint 2,HAMILTON2,Hamilton 2 - BL-LB-WM
+1593566,125,Hamilton,Pct 3,Precint 3,HAMILTON3,Hamiltojn 3 - CL-HA-MN-WB
+1593567,126,Hamilton,Pct 4,Precint 4,HAMILTON4,Hamilton 4 - LY-EL
+1593568,127,Hamilton,Pct 5,Precint 5,HAMILTON5,Hamilton 5 - LC-RG-SC
+1593569,161,Hardin,Elc,Eldora City,ELDORACITY,Hardin County Eldora City Precinct
+1593570,365,Humboldt,A-Nw,Avery-North Weaver,AVERYNWEAVER,Humboldt County Avery/North Weaver Precinct
+1593571,366,Humboldt,D-W-Nr,Delana-Wacousta-North Rutland,WDR,Humboldt County Wacousta/ Delana/ N Rutland
+1593572,367,Humboldt,H-Wv,Humboldt-West Vernon,HUMBWVERN,Humboldt County Humboldt West Vernon Precin
+1593573,368,Humboldt,Nl-Ev,North Lake-East Vernon,NLAKEEVERNON,Humboldt County North Lake East Vernon Pct
+1593574,369,Humboldt,Sl-Nn,South Lake-North Norway,SLAKENNORWAY,Humboldt County S Lake/ N Norway Pct
+1593575,1148,Jasper,El,Elk Creek/Lynngrove,PRECINCT6,Jasper County Precinct 6
+1593576,1149,Jasper,Imm,Indep/Malaka/Mariposa,PRECINCT9,Jasper County Precinct 9
+1593577,926,Jefferson,Pn,Penn-Pleasant Plain,PENN,Penn
+1593578,979,Jefferson,Wlr,Lockridge-Round Prairie-Walnut-Lockridge City-Coppock,WALNUT,Walnut
+1593579,830,Johnson,Cv.07,CORALVILLE 07,CV7,Johnson County Coralville Precinct 7
+1593580,1001,Johnson,Hs,HILLS,HILLS,Johnson County Hills Precinct
+1593581,848,Johnson,Nl.03,NORTH LIBERTY 03 (PW),NL3PENNWEST,Johnson County North Liberty 3/ Penn West P
+1593582,847,Johnson,Nl.04,NORTH LIBERTY 04,NL4,Johnson County North Liberty Precinct 4
+1593583,845,Johnson,Nl.05,NORTH LIBERTY 05,NL5,Johnson County North Liberty Precinct 5
+1593584,843,Johnson,Nl.06,NL06/MADISON /CCN,NL6,Johnson County North Liberty 6
+1593585,1692,Jones,Ann,ANN-ANAMOSA NORTH/CASS,ANAMOSANORTH,Anamosa North/Cass
+1593586,1569,Jones,Ans,ANS-ANAMOSA SOUTH/JACKSON,ANAMOSASOUTH,Anamosa South/Jackson
+1593587,1570,Jones,Cglw,CGLW-CASTLE GRV/LOV/WAYN,CASTLEGROVE,Castle Grove/Lovell/Wayne
+1593588,1335,Jones,Fv,FV-FAIRVIEW,FAIRVIEW,Fairview
+1593589,1340,Jones,Sgmc,SGMC-SC GRV/MADISON/CLAY,SCOTCHGROVE,Scotch Grove/Madison/Clay
+1593590,857,Keokuk,Lf/Cc,Lafayette/Clear Creek,KC5,Lafayette Clear Creek
+1593591,274,Kossuth,Cr 1,CR 1,KOSSUTH15,Kossuth 15
+1593592,278,Kossuth,Cr 2,CR 2,KOSSUTH16,Kossuth 16
+1593593,275,Kossuth,Gm,GM- RM,KOSSUTH4,Kossuth 4
+1593594,271,Kossuth,Pr,PR- WL,KOSSUTH11,Kossuth 11
+1593595,273,Kossuth,Un,UN,KOSSUTH9,Kossuth 9
+1593596,977,Lee,Wpprdn,West Point/Pleasant Ridge/Denmark,WP-PR-D,West Point/Pleasant Ridge/Denmark
+1593597,946,Lee,Ws Gb,Green Bay/Washington,GB-W,Green Bay/Washington
+1593598,1451,Linn,Cr01,Cedar Rapids 1,CR1,Cedar Rapids 1
+1593599,1452,Linn,Cr02,Cedar Rapids 2,CR2,Cedar Rapids 2
+1593600,1471,Linn,Cr03,Cedar Rapids 3,CR3,Cedar Rapids 3
+1593601,1472,Linn,Cr04,Cedar Rapids 4,CR4,Cedar Rapids 4
+1593602,1473,Linn,Cr05,Cedar Rapids 5,CR5,Cedar Rapids 5
+1593603,1474,Linn,Cr06,Cedar Rapids 6,CR6,Cedar Rapids 6
+1593604,1453,Linn,Cr07,Cedar Rapids 7,CR7,Cedar Rapids 7
+1593605,1454,Linn,Cr08,Cedar Rapids 8,CR8,Cedar Rapids 8
+1593606,1455,Linn,Cr09,Cedar Rapids 9,CR9,Cedar Rapids 9
+1593607,1456,Linn,Cr10,Cedar Rapids 10,CR10,Cedar Rapids 10
+1593608,1457,Linn,Cr11,Cedar Rapids 11,CR11,Cedar Rapids 11
+1593609,1458,Linn,Cr12,Cedar Rapids 12,CR12,Cedar Rapids 12
+1593610,1459,Linn,Cr13,Cedar Rapids 13,CR13,Cedar Rapids 13
+1593611,1460,Linn,Cr14,Cedar Rapids 14,CR14,Cedar Rapids 14
+1593612,1442,Linn,Cr15,Cedar Rapids 15,CR15,Cedar Rapids 15
+1593613,1461,Linn,Cr16,Cedar Rapids 16,CR16,Cedar Rapids 16
+1593614,1443,Linn,Cr17,Cedar Rapids 17,CR17,Cedar Rapids 17
+1593615,1476,Linn,Cr18,Cedar Rapids 18,CR18,Cedar Rapids 18
+1593616,1477,Linn,Cr19,Cedar Rapids 19,CR19,Cedar Rapids 19
+1593617,1478,Linn,Cr20,Cedar Rapids 20,CR20,Cedar Rapids 20
+1593618,1479,Linn,Cr21,Cedar Rapids 21,CR21,Cedar Rapids 21
+1593619,1444,Linn,Cr22,Cedar Rapids 22,CR22,Cedar Rapids 22
+1593620,1445,Linn,Cr23,Cedar Rapids 23,CR23,Cedar Rapids 23
+1593621,1446,Linn,Cr24,Cedar Rapids 24,CR24,Cedar Rapids 24
+1593622,1447,Linn,Cr25,Cedar Rapids 25,CR25,Cedar Rapids 25
+1593623,1448,Linn,Cr26,Cedar Rapids 26,CR26,Cedar Rapids 26
+1593624,1480,Linn,Cr27,Cedar Rapids 27,CR27,Cedar Rapids 27
+1593625,1481,Linn,Cr28,Cedar Rapids 28,CR28,Cedar Rapids 28
+1593626,1482,Linn,Cr29,Cedar Rapids 29,CR29,Cedar Rapids 29
+1593627,1483,Linn,Cr30,Cedar Rapids 30,CR30,Cedar Rapids 30
+1593628,1484,Linn,Cr31,Cedar Rapids 31,CR31,Cedar Rapids 31
+1593629,1485,Linn,Cr32,Cedar Rapids 32,CR32,Cedar Rapids 32
+1593630,1489,Linn,Cr33,Cedar Rapids 33,CR33,Cedar Rapids 33
+1593631,1636,Linn,Cr34,Cedar Rapids 34,CR34,Cedar Rapids 34
+1593632,1449,Linn,Cr35,Cedar Rapids 35,CR35,Cedar Rapids 35
+1593633,1450,Linn,Cr36,Cedar Rapids 36,CR36,Cedar Rapids 36
+1593634,1637,Linn,Cr37,Cedar Rapids 37,CR37,Cedar Rapids 37
+1593635,1490,Linn,Cr38,Cedar Rapids 38,CR38,Cedar Rapids 38
+1593636,1491,Linn,Cr39,Cedar Rapids 39,CR39,Cedar Rapids 39
+1593637,1492,Linn,Cr40,Cedar Rapids 40,CR40,Cedar Rapids 40
+1593638,1493,Linn,Cr41,Cedar Rapids 41,CR41,Cedar Rapids 41
+1593639,1494,Linn,Cr42,Cedar Rapids 42,CR42,Cedar Rapids 42
+1593640,1495,Linn,Cr43,Cedar Rapids 43,CR43,Cedar Rapids 43
+1593641,1496,Linn,Cr44,Cedar Rapids 44,CR44,Cedar Rapids 44
+1593642,1488,Linn,Fai,Fairfax City,FAIRFAXCITY,Fairfax City
+1593643,657,Linn,Hia01,Hiawatha 1,HIAWATHA1,Hiawatha 1
+1593644,1466,Linn,Hia02,Hiawatha 2,HIAWATHA2,Hiawatha 2
+1593645,656,Linn,Hia03,Hiawatha 3,HIAWATHA3,Hiawatha 3
+1593646,1592,Linn,Hia04,Hiawatha4,HIAWATHA4,Hiawatha4
+1593647,1464,Linn,Mr01,Marion 1,MARION1,Marion 1
+1593648,1467,Linn,Mr02,Marion 2,MARION2,Marion 2
+1593649,1465,Linn,Mr03,Marion 3,MARION3,Marion 3
+1593650,648,Linn,Mr04,Marion 4,MARION4,Marion 4
+1593651,649,Linn,Mr05,Marion 5,MARION5,Marion 5
+1593652,650,Linn,Mr06,Marion 6,MARION6,Marion 6
+1593653,651,Linn,Mr07,Marion 7,MARION7,Marion 7
+1593654,652,Linn,Mr08,Marion 8,MARION8,Marion 8
+1593655,653,Linn,Mr09,Marion 9,MARION9,Marion 9
+1593656,654,Linn,Mr10,Marion 10,MARION10,Marion 10
+1593657,1468,Linn,Mr11,Marion 11,MARION11,Marion 11
+1593658,1469,Linn,Mr12,Marion 12,MARION12,Marion 12
+1593659,1470,Linn,Mr13,Marion 13,MARION13,Marion 13
+1593660,1694,Linn,Mr14,Marion 14,MARION14,Marion 14
+1593661,655,Linn,Rob,Robins,ROBINS,Robins
+1593662,1462,Linn,Tber,Bertram,BERTRAM,Bertram
+1593663,1577,Linn,Tbou,Boulder,BOULDER,Boulder
+1593664,1578,Linn,Tbro,Brown,BROWN,Brown
+1593665,1579,Linn,Tbuf,Buffalo,BUFFALO,Buffalo
+1593666,1475,Linn,Tcli,Clinton,CLINTON,Clinton
+1593667,1486,Linn,Tcol,College,COLLEGE,College
+1593668,1487,Linn,Tfai,Fairfax Township,FAIRFAX,Fairfax
+1593669,1580,Linn,Tfay,Fayette,FAYETTE,Fayette
+1593670,1581,Linn,Tfra,Franklin,FRANKLIN,Franklin
+1593671,1582,Linn,Tgra,Grant,GRANT,Grant
+1593672,1583,Linn,Tjac,Jackson,JACKSON,Jackson
+1593673,1584,Linn,Tlin,Linn,LINN,Linn
+1593674,1585,Linn,Tmai,Maine,MAINE,Maine
+1593675,1586,Linn,Tmar,Marion township,MARION,Marion township
+1593676,1587,Linn,Tmon1,Monroe 1,MONROE1,Monroe 1
+1593677,1588,Linn,Tmon2,Monroe 2,MONROE2,Monroe 2
+1593678,1589,Linn,Tott,Otter Creek,OTTERCREEK,Otter Creek
+1593679,1463,Linn,Tput,Putnam,PUTNAM,Putnam
+1593680,1590,Linn,Tspr,Spring Grove,SPRINGGROVE,Spring Grove
+1593681,1591,Linn,Twas,Washington,WASHINGTON,Washington
+1593682,1157,Louisa,Sel,Southeast Louisa,SOUTHEAST,Southeast Louisa
+1593683,1151,Lucas,Pom,Pine Oak Marsh,LUCAS5,Lucas-Pin Oak Marsh precinct
+1593684,712,Madison,Gmw,Grand River-Monroe-Webster,GRANDRIVER,Grand River-Monroe-Webster
+1593685,709,Madison,Jdl,Jackson-Douglas-Lincoln,JACKSON,Jackson-Douglas-Lincoln
+1593687,710,Madison,Ucs,Union-Crawford-Scott,UNION,Union-Crawford-Scott
+1593688,1523,Marshall,1 Ba-Ls,BANGOR/LISCOMB,BANGOR,Bangor/Liscomb
+1593689,1527,Marshall,10 1-2,MARSHALLTOWN 1-2,MARSH2,Marshalltown 2
+1593690,1528,Marshall,11 2-1,MARSHALLTOWN 2-1,MARSH3,Marshalltown 3
+1593691,1529,Marshall,12 2-2,MARSHALLTOWN 2-2,MARSH4,Marshalltown 4
+1593692,1530,Marshall,13 3-1,MARSHALLTOWN 3-1,MARSH5,Marshalltown 5
+1593693,1531,Marshall,14 3-2,MARSHALLTOWN 3-2,MARSH6,Marshalltown 6
+1593694,1532,Marshall,15 4-1,MARSHALLTOWN 4-1,MARSH7,Marshalltown 7
+1593695,1533,Marshall,16 4-2,MARSHALLTOWN 4-2,MARSH8,Marshalltown 8
+1593696,1503,Marshall,17 Sc,STATE CENTER,STATECENTER,State Center
+1593697,1525,Marshall,18 Ta,TAYLOR,TAYLOR,Taylor
+1593698,1499,Marshall,4 Jf,JEFFERSON,JEFFERSON,Jefferson
+1593699,1500,Marshall,5 Lg,LEGRAND,LEGRAND,Le Grand
+1593700,1501,Marshall,6 Lb-Mi,LIBERTY / MINERVA,LIBERTY,Liberty/Minerva
+1593701,1502,Marshall,7 Ma-Wa,MARIETTA / WASHINGTON,MARIETTA,Marietta/Washington
+1593702,1524,Marshall,8 Mr-VI,MARION / VIENNA,MARION,Marion/Vienna
+1593703,1526,Marshall,9 1-1,MARSHALLTOWN 1-1,MARSH1,Marshalltown 1
+1593704,1628,Muscatine,76ce,Seventy-Six/Cedar-Seventy,76CEDAR,Muscatine County Seventy-Six/ Cedar Precinc
+1593705,1204,Muscatine,Bl,Bloomington,BLOOMINGTON,Muscatine County Bloomington Precinct
+1593706,1166,Muscatine,F2la,Fruitland Two/Lake-Fruitl,FRUIT2LAKE,Muscatine County Fruitland 2/ Lake Precinct
+1593707,1206,Muscatine,Fumo,Fulton/Montpelier-City,FULTONMONTP,Muscatine County Fulton/ Montpelier Precinc
+1593708,1165,Muscatine,Wl2,West Liberty 2,WESTLIBERTY2,West Liberty 2
+1593709,1170,Muscatine,Wlwa,West Liberty/Wapsie-WL1 C,WL1WAPSIE,Muscatine County West Liberty 1/ Wapsi Prec
+1593710,39,Osceola,Os1,Osceola 1 Precinct 0600,OSCEOLA1,Osceola 1
+1593711,40,Osceola,Os2,Osceola 2 Precinct 0700,OSCEOLA2,Osceola 2
+1593712,41,Osceola,Os3,Osceola 3 Precinct 0800,OSCEOLA3,Osceola 3
+1593713,20,Palo Alto,Gr Rv,GR/RV/LI/pt. HL&WL,PALOALTO5,Palo Alto 5
+1593714,57,Plymouth,Mrhg,Plymouth 2,PLYMOUTH2,Plymouth 2
+1593715,727,Polk,Alt 5,ALTOONA-5,ALT5,Altoona Precinct 5
+1593716,1013,Polk,Ank 13,ANKENY-13,ANK13,Ankeny Precinct 13
+1593717,1020,Polk,Ank 14,ANKENY-14,ANK14,Ankeny Precinct 14
+1593718,1021,Polk,Ank 15,ANKENY-15,ANK15,Ankeny Precinct 15
+1593719,735,Polk,Bond 2,BONDURANT-2,BONDURANT2,Polk County Bondurant 2
+1593720,1026,Polk,Crock 1,CROCKER-1,CROCKER1,Polk County Crocker 1
+1593721,1027,Polk,Crock 2,CROCKER-2,CROCKER2,Polk County Crocker 2
+1593722,504,Polk,Granger,GRANGER-1,GRANGER1,Polk County Granger 1
+1593723,1041,Polk,Grimes3,GRIMES-3,GRIMES3,Grimes Precinct 3
+1593724,1047,Polk,John 4,JOHNSTON-4,JOHNSTON4,Polk County Johnston Precinct 4
+1593725,1046,Polk,John 5,JOHNSTON-5,JOHNSTON5,Polk County Johnston Precinct 5
+1593726,1049,Polk,John 6,JOHNSTON-6,JOHNSTON6,Polk County Johnston 6 Precinct
+1593727,505,Polk,Madison,MADISON-1,MADISON1,Madison Precinct 1
+1593728,1081,Polk,Wdm-117,WDM-117,WDM117,West Des Moines Precinct 117
+1593729,1065,Polk,Wdm-118,WDM-118,WDM118,West Des Moines Precinct 118
+1593730,1070,Polk,Wdm-317,WDM-317,WDM317,West Des Moines Precinct 317
+1593731,1069,Polk,Wdm-318,WDM-318,WDM318,West Des Moines Precinct 318
+1593732,568,Pottawattamie,Cb 10a,CB 10A,CB10A,Council Bluffs 10a
+1593733,569,Pottawattamie,Cb 10b,CB 10B,CB10B,Council Bluffs 10B
+1593734,1634,Pottawattamie,Cb 21,CB 21,CB21,Council Bluffs 21
+1593735,1113,Pottawattamie,Cl 1,Carter Lake 1,CARTERLAKE1,Carter Lake 1
+1593736,1112,Pottawattamie,Cl 2,Carter Lake 2,CARTERLAKE2,Carter Lake 2
+1593737,554,Pottawattamie,Avoca,Avoca,AVOCA,Avoca
+1593753,1211,Scott,Dh,(DH) City of Donahue,DONAHUE,Donahue
+1593754,1663,Scott,Lc1,(LC1) City of LeClaire,LECLAIRE1,LeClaire 1
+1593755,1659,Scott,Lc2,(LC2) City of LeClaire,LECLAIRE2,Le Claire 2
+1593756,1660,Scott,Lct,(LCT) LeClaire Township,LECLAIRE,Le Claire
+1593757,1213,Scott,Lg,(LG) City of Long Grove,LONGGROVE,Long Grove
+1593758,1662,Scott,Mc,(MC) McCausland,MCCAUSLAND,McCausland
+1593759,1661,Scott,Pkv,(PKV) Park View,PARKVIEW,Parkview
+1593760,78,Sioux,Rve,Rock Valley East,SIOUX10,Sioux 10 - Rock Valley East
+1593761,79,Sioux,Rvw,Rock Valley West/Rock,SIOUX11,Sioux 11 - Rock Valley West
+1593762,76,Sioux,Scc,Sioux Center Central,SIOUX14,Sioux 14 - Sioux Center Central
+1593763,77,Sioux,Scn,SCN/Capel/Welcome,SIOUX13,Sioux 13 - Sioux Center North
+1593764,75,Sioux,Scs,Sioux Center South,SIOUX15,Sioux 15 - Sioux Center South
+1593765,74,Sioux,Wb,West Branch/Center North,SIOUX16,Sioux 16
+1593766,1509,Tama,Cb/Tm,COLUMBIA/TAMA,TAMA5,Tama 5 - Columbia/Tama
+1593767,1507,Tama,Cronnoc,CARROLL/ONEIDA/N OTTER CR,TAMA3,Tama 3 - Carroll/Oneida/North Otter Creek
+1593768,1512,Tama,Hl/IV/T,HIGHLAND/INDIAN VILLAGE,TAMA8,Tama 8 - Highland/Indian Village/Tama
+1593769,1513,Tama,Soc,S. OTTER CREEK,TAMA10,Tama 10 - South Otter Creek
+1593771,572,Taylor,3twnshp,7-3 Legion,43284,Taylor 7-3
+1593772,573,Taylor,Becity,City of Bedford,43254,Taylor 6-3
+1593773,575,Taylor,Gravity,3-1 Gravity,43160,Taylor 3-1
+1593774,576,Taylor,Lx,5-2 Lenox,43222,Taylor 5-2
+1593776,686,Warren,Al3,ALLEN 3,ALLEN3,Warren County Allen 3
+1593777,1064,Warren,Cm Wdm,CUMMING/ WDM,WDM131,Warren County West Des Moines Precinct 131
+1593778,697,Warren,Gr1dm85,GREENFIELD 1/ DM85,DSM85,Warren County Des Moines Precinct 85
+1593779,696,Warren,Gr1dm86,GR1-DM86 CITY,DSM86,Des Moines Precinct 86
+1593780,689,Warren,Gr2lc2,GREENFIELD 2/ LINCOLN 2,GREENFIELD2,Warren County Greenfield 2
+1593781,691,Warren,Lc1,LINCOLN TWP,LINCOLN,Warren County Lincoln Precinct
+1593782,1630,Warren,Nw2 Gr1,NORWALK 2/ GREENFIELD,NORWALK2,Warren County Norwalk Precinct 2
+1593783,715,Warren,Nw3 Ln,NORWALK 3/ LINN,LINN,Warren County Linn Precinct
+1593784,721,Warren,Nwk4,NORWALK 4 CITY,NORWALK4,Warren County Norwalk Precinct 4
+1593785,716,Warren,Ot Ml,OTTER/ MILO,OTTER,Warren County Otter Precinct
+1593793,974,Washington,Bmc,Brighton/Marion/Crawford,BRIGHTON,Brighton/Marion/Crawford
+1593794,330,Webster,Bd/Nwc,Badger-NW Cooper,BADGER,Badger
+1593795,331,Webster,Cp,Cooper,COOPER,Cooper
+1593796,131,Webster,Ot/Pv,Otho-Pleasant Valley,OTHO-PV,Otho/Pleasant Valley
+1593797,132,Webster,Wa,Washington,WASHINGTON,Washington
+1593798,323,Winnebago,Bugrlc,Buffalo Grant Lincoln,WINN3-1,Winnebago Precinct 3-1
+1593799,1286,Winneshiek,9,PCT 9 - BLF/BO/FR/LI/MA/ OR,WINNESHIEK9,Winneshiek 9
+1593800,1330,Winneshiek,10,PCT 10 - JA/SU/WA,WINNESHIEK10,Winneshiek 10
+1593801,1331,Winneshiek,11,PCT 11- DESUP5 (Decorah Twp Sup 5),WINNESHIEK11,Winneshiek 11
+1593802,291,Wright,Big_6,Rural Clarion,BIG6,Big 6
+1593803,292,Wright,Dows,Dows,DOWS,Dows
+1593804,293,Wright,Gldfld,Goldfield,GOLDFIELD,Goldfield
+1593805,294,Wright,Ruraleg,Eagle Grove/Troy,RURALEG,Rural Eagle Grove
+1655035,933,Wapello,Cp,Competine Twp,COMPETINE,Competine precinct
+1825047,1695,Howard,Rjo,Jamestown/Oakdale,OAKDALE,Riceville-Jamestown-Oakdale
+1825048,1697,Howard,Shc,Saratoga/Howard Ctr/Chest,SARATOGA,Saratoga-Howard Center-Chester
+1833330,528,Pottawattamie,Glwcw,GLWCW,GLWCW,GLWCW
+1833331,560,Pottawattamie,Hancock,Hancock,HANCOCK,Hancock
+1833332,562,Pottawattamie,McClell,McClelland,MCCLELLAND,McClelland
+1833333,558,Pottawattamie,Oakland,Oakland,OAKLAND,Oakland
+1833334,563,Pottawattamie,Treynor,Treynor,TREYNOR,Treynor
+1833335,564,Pottawattamie,Underw,Underwood,UNDERWOOD,Underwood
+1833336,529,Pottawattamie,Walnut,Walnut,WALNUT,Walnut
+1833337,702,Warren,In5,INDIANOLA 5,PRCT5,Indianola-Precinct 5
+1833338,703,Warren,In6,INDIANOLA 6,PRCT6,Indianola-Precinct 6
+1833339,704,Warren,In7,INDIANOLA 7,PRCT7,Indianola-Precinct 7
+1897923,711,Madison,S,South,SOUTH,South
+1939115,1518,Tama,Tlcity,TOLEDO 3,TAMA15,Tama 15 - Toledo 3
+1939115,1519,Tama,Tlcity,TOLEDO 2,TAMA14,Tama 14 - Toledo 2
+1950003,867,Appanoose,Walnut,WALNUT,WALNUT,Walnut
+1986594,1517,Tama,H/Tl,HOWARD/TOLEDO/TOLEDO 1,TAMA13,Tama 13 - Howard/Toledo 1/Toledo Twp
+1991141,717,Warren,Sqc,SQUAW CREEK TWP,SQUAW,Warren County Squaw Precinct
